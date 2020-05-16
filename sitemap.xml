@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mulliken.github.io/post/</loc>
+    <lastmod>2020-05-14T23:21:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mulliken.github.io/post/color/</loc>
+    <lastmod>2020-05-14T23:21:40-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mulliken.github.io/about/</loc>
     <lastmod>2020-05-14T23:21:40-04:00</lastmod>
   </url>
