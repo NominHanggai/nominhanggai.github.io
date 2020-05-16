@@ -45,6 +45,8 @@ body {
 h1 {
 	margin: auto;
     letter-spacing: 0px;
+    font-size: 15pt; 
+    font-weight: normal;
 }
 
 h3 {

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>XXX</title>
+    <title>Posts on XXX</title>
     <link>http://mulliken.github.io/post/</link>
-    <description>Recent content on XXX</description>
+    <description>Recent content in Posts on XXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 May 2020 23:21:40 -0400</lastBuildDate>
