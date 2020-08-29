@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>XXX</title>
+    <title>Home on XXX</title>
     <link>http://mulliken.github.io/</link>
-    <description>Recent content on XXX</description>
+    <description>Recent content in Home on XXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 May 2020 23:21:40 -0400</lastBuildDate>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
       
       <guid>http://mulliken.github.io/about/</guid>
-      <description>\(aa\frac{a}{a}\)</description>
+      <description>$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$</description>
     </item>
     
   </channel>
