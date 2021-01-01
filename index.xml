@@ -6,22 +6,22 @@
     <description>Recent content in Home on XXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 23:21:40 -0400</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 20:07:40 -0400</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jordan Wigner Transformation Made Simple</title>
+      <link>http://mulliken.github.io/post/jordan-wigner/</link>
+      <pubDate>Thu, 31 Dec 2020 20:07:40 -0400</pubDate>
+      
+      <guid>http://mulliken.github.io/post/jordan-wigner/</guid>
+      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators to a combination of spin operators. I had a hard time undersating how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themself however still didn&amp;rsquo;t make me fully fully understand why the things work like this. But fortunately I worked out some kronneck products of spin operators when I was developing the fishbonett package.</description>
+    </item>
+    
     <item>
       <title>Color Post Title</title>
       <link>http://mulliken.github.io/post/color/</link>
       <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
       
       <guid>http://mulliken.github.io/post/color/</guid>
-      <description>Color Post</description>
-    </item>
-    
-    <item>
-      <title>Color Post Title</title>
-      <link>http://mulliken.github.io/post/jordan-wigner/</link>
-      <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
-      
-      <guid>http://mulliken.github.io/post/jordan-wigner/</guid>
       <description>Color Post</description>
     </item>
     
