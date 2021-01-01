@@ -6,17 +6,22 @@
     <description>Recent content in Home on XXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 23:21:40 -0400</lastBuildDate>
-    
-	<atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 14 May 2020 23:21:40 -0400</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Color Post Title</title>
       <link>http://mulliken.github.io/post/color/</link>
       <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
       
       <guid>http://mulliken.github.io/post/color/</guid>
+      <description>Color Post</description>
+    </item>
+    
+    <item>
+      <title>Color Post Title</title>
+      <link>http://mulliken.github.io/post/jordan-wigner/</link>
+      <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
+      
+      <guid>http://mulliken.github.io/post/jordan-wigner/</guid>
       <description>Color Post</description>
     </item>
     
