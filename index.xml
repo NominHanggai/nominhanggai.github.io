@@ -6,7 +6,25 @@
     <description>Recent content in Home on XXX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Dec 2020 20:07:40 -0400</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 02:07:40 -0330</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermo-Field Dynamics and the Mixed Initial States</title>
+      <link>http://mulliken.github.io/post/thermo-field/</link>
+      <pubDate>Sun, 07 Feb 2021 02:07:40 -0330</pubDate>
+      
+      <guid>http://mulliken.github.io/post/thermo-field/</guid>
+      <description>When simulating the dynamics of open quantum systems, one often assumes a pure initial state of the system part. The validity of the assumption, of course, depends on the experimental realization. In most of the excitation energy transfer experiments, a pure initial state is a faithful representation of the system because the coherent light that excites molecules makes the wave-function of the system collapse to a certain state, hence factorizes the system-environment density matrix.</description>
+    </item>
+    
+    <item>
+      <title>Simulating Finite-temperature Open Quantum Systems with Matrix Product States</title>
+      <link>http://mulliken.github.io/post/t-tedopa/</link>
+      <pubDate>Fri, 01 Jan 2021 20:07:40 -0400</pubDate>
+      
+      <guid>http://mulliken.github.io/post/t-tedopa/</guid>
+      <description>In this post we consider a special type of open quantum system where the &amp;ldquo;system&amp;rdquo; part is coupled to a bosonic bath. The general form of the Hamiltonian of the open quantum systems is \[ H = H_{sys} + A_{sys}\otimes \int_{x_0}^{x_1}(a_x^\dagger + a_x)g(x)\,\mathrm{d}x + \int_{x_0}^{x_1}a_x^\dagger a_xh(x)\,\mathrm{d}x \]</description>
+    </item>
+    
     <item>
       <title>Jordan Wigner Transformation Made Simple</title>
       <link>http://mulliken.github.io/post/jordan-wigner/</link>
