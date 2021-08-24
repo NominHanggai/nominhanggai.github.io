@@ -1,0 +1,22 @@
+---
+title: "A Way of Understanding Grassmann Numbers"
+date: 2021-03-01T20:07:40-04:00
+draft: true
+---
+
+In this post we consider *Grassmann numbers* (or *variables*). First let us write the definition of Grassmann numbers. Grassmann numbers `$\xi_i$` are the "eigenvalues" of Fermion annihilation operators `$c_i$`: `$c_{i}\ket{\psi} = \xi_i\ket{\psi}$` where `$\ket{\psi}$` is a common eigenstate of operators `$c_i$`. The properties of Grassmann numbers are, a)`$\xi_i\xi_j=-\xi_j\xi_i$` (hence `$\xi_i\xi_i=0$`), b) `$(\xi_1\xi_2\cdots\xi_n)^*=\xi_n^*\cdots\xi_2^*\xi_1^*$`. After defining what are Grassmann numbers, textbooks often additionally define the function of, the integration and differentiation w.r.t Grassmann numbers. Here we list those definitions [1]
+`
+\begin{align}
+A\left(\xi^{*}, \xi\right)&=a_{0}+a_{1} \xi+\bar{a}_{1} \xi^{*}+a_{12} \xi^{*} \xi\\
+\frac{\partial}{\partial \xi}\left(\xi^{*} \xi\right) &=\frac{\partial}{\partial \xi}\left(-\xi \xi^{*}\right) \\
+&=-\xi^{*}\\
+\int d \xi 1&=0 \\
+\int d \xi \xi&=1\\
+\int d \xi A\left(\xi^{*}, \xi\right)&=\int d \xi\left(a_{0}+a_{1} \xi+\bar{a}_{1} \xi^{*}+a_{12} \xi^{*} \xi\right)
+\end{align}
+` 
+
+In this article, we use a new approch to understand those definitions and realtions. We claim that a Grassmann number can be understood as conventional complex number times a Fermion annihilation operator that operates on a duplicate Hilbert space of the original Hilbert space. That is `$\xi_i =  \mathbb{1}\otimes \tilde{c_i} $` where `$\tilde{c}_i$` is a copy of `$c_i$` but it is an operator in the duplicate Hilbert space. The defining equation `$c_{i}\ket{\psi} = \xi_i\ket{\psi}$` can be understood as 
+`\[
+c_{i}\otimes\mathbb{1}\cdot\ket{\psi}\otimes\tilde{\ket{\psi}} = \xi_i\ket{\psi}\otimes\tilde{\ket{\psi}} = (\mathbb{1}\ket{\psi})\otimes(\tilde{c}_i\tilde{\ket{\psi}})
+\]`
