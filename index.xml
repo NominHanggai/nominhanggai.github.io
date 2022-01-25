@@ -8,6 +8,52 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jan 2022 23:21:40 -0400</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Зандан хүрэн (Ордос ардын дуу)</title>
+      <link>http://mulliken.github.io/lyrics/zandan-huren/</link>
+      <pubDate>Mon, 24 Jan 2022 23:21:40 -0400</pubDate>
+      
+      <guid>http://mulliken.github.io/lyrics/zandan-huren/</guid>
+      <description>Зандан хүрнээ унаад аа
+Зандан зуудаа мөргөе дөө
+Замбуу тивийн наран дор
+Амар жаргах болтугай
+Манхан газар гүйдэлтэй
+Магнай халзан морь минь
+Магнаг торгоор чимсэн
+Хүүхэн үр хүнийх дээ
+Мөсөн дээгүүр гүйдэлтэй
+Мөнгөн цоохор морь минь
+Мөнгө шүрээр чимсэн
+Хүүхэн үр хүнийх дээ
+Дөрвөн ч даваа нь даваа даа
+Дөрөө минь элэгдэлээ
+Дөрвөн ч сар болсонгүй ээ / (сар холдов ээ)
+Ээжий Аавыгаа саналаа
+Амар жаргах болтугай.</description>
+    </item>
+    
+    <item>
+      <title>Юндэн гөөгөө/Юүдэн гөөгөө Дууны Үг</title>
+      <link>http://mulliken.github.io/lyrics/yunden-goo-goo/</link>
+      <pubDate>Mon, 24 Jan 2022 22:21:40 -0400</pubDate>
+      
+      <guid>http://mulliken.github.io/lyrics/yunden-goo-goo/</guid>
+      <description>Данагар данагар алхаатай яа хө
+Дал мөрөө давсан гэзэгтэй өэ хө
+Далай вангийн Юндэн Гөөгөө
+Даанчиг цэвэрхэн төржээ хө
+Цагаан торгон цамцыг байсаар байтал хө
+Цагаан торгон цамцсар юугаа хийх вэ хө
+Царайлаг төрсөн Сийриймаагсаа / (Сийриймаагаа байсаар байтал)
+Царай муутай Сэрвүүмаагсар юугаан хийх вэ хө
+Өндөр байшингийн үүдэн дээрээ хө
+Өнгийн дэнлүүнүүд нь дүрайжээ хө
+Эхнэр эрийн дундаасаа болбол
+Юндэн Гөөгөө нь дурайжээ хө
+Барүүн уулын энгэр дээрээ хө</description>
+    </item>
+    
+    <item>
       <title>Lanczos tridiagonalization made simple</title>
       <link>http://mulliken.github.io/post/lanczos/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
@@ -61,27 +107,6 @@ Kronecker products (or tensor products) of spin operators when I was developing 
       
       <guid>http://mulliken.github.io/about/</guid>
       <description>$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$</description>
-    </item>
-    
-    <item>
-      <title>Юндэн гөөгөө/Юүдэн гөөгөө Дууны Үг</title>
-      <link>http://mulliken.github.io/lyrics/yunden-goo-goo/</link>
-      <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
-      
-      <guid>http://mulliken.github.io/lyrics/yunden-goo-goo/</guid>
-      <description>Данагар данагар алхаатай яа хө
-Дал мөрөө давсан гэзэгтэй өэ хө
-Далай вангийн Юндэн Гөөгөө
-Даанчиг цэвэрхэн төржээ хө
-Цагаан торгон цамцыг байсаар байтал хө
-Цагаан торгон цамцсар юугаа хийх вэ хө
-Царайлаг төрсөн Сийриймаагсаа / (Сийриймаагаа байсаар байтал)
-Царай муутай Сэрвүүмаагсар юугаан хийх вэ хө
-Өндөр байшингийн үүдэн дээрээ хө
-Өнгийн дэнлүүнүүд нь дүрайжээ хө
-Эхнэр эрийн дундаасаа болбол
-Юндэн Гөөгөө нь дурайжээ хө
-Барүүн уулын энгэр дээрээ хө</description>
     </item>
     
   </channel>
