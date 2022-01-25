@@ -13,7 +13,8 @@
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>http://mulliken.github.io/post/lanczos/</guid>
-      <description>Given a real symmetric matrix $A$, one way to tridigonalize $A$ is the Lanczos procedure which I will introduce right now. To transform $A$ into a tridiagonal matrix $T$, we need an orthogonal matrix $U$: $U^\dagger A U = T$ which implies $UT=AU$. Here $$ T = \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp; &amp;amp; &amp;amp; \\ \beta_2 &amp;amp; \alpha_2 &amp;amp; \beta_3 &amp;amp; &amp;amp; \\ &amp;amp; \ddots &amp;amp; \ddots &amp;amp; \ddots &amp;amp;\\ &amp;amp; &amp;amp; \beta_{N-1} &amp;amp; \alpha_{N-1} &amp;amp;\beta_{N}\\ &amp;amp; &amp;amp; &amp;amp; \beta_N &amp;amp;\alpha_{N}\\ \end{pmatrix}.</description>
+      <description>Given a real symmetric matrix $A$, one way to tridigonalize $A$ is the Lanczos procedure which I will introduce right now. To transform $A$ into a tridiagonal matrix $T$, we need an orthogonal matrix $U$: $U^\dagger A U = T$ which implies $UT=AU$. Here
+$$ T = \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp; &amp;amp; &amp;amp; \\ \beta_2 &amp;amp; \alpha_2 &amp;amp; \beta_3 &amp;amp; &amp;amp; \\ &amp;amp; \ddots &amp;amp; \ddots &amp;amp; \ddots &amp;amp;\\ &amp;amp; &amp;amp; \beta_{N-1} &amp;amp; \alpha_{N-1} &amp;amp;\beta_{N}\\ &amp;amp; &amp;amp; &amp;amp; \beta_N &amp;amp;\alpha_{N}\\ \end{pmatrix}.</description>
     </item>
     
     <item>
@@ -26,21 +27,13 @@
     </item>
     
     <item>
-      <title>Simulating Finite-temperature Open Quantum Systems with Matrix Product States</title>
-      <link>http://mulliken.github.io/post/t-tedopa/</link>
-      <pubDate>Fri, 01 Jan 2021 20:07:40 -0400</pubDate>
-      
-      <guid>http://mulliken.github.io/post/t-tedopa/</guid>
-      <description>In this post we consider a special type of open quantum system where the &amp;ldquo;system&amp;rdquo; part is coupled to a bosonic bath. The general form of the Hamiltonian of the open quantum systems is \[ H = H_{sys} + A_{sys}\otimes \int_{x_0}^{x_1}(a_x^\dagger + a_x)g(x)\,\mathrm{d}x + \int_{x_0}^{x_1}a_x^\dagger a_xh(x)\,\mathrm{d}x \]</description>
-    </item>
-    
-    <item>
       <title>Jordan Wigner Transformation Made Simple</title>
       <link>http://mulliken.github.io/post/jordan-wigner/</link>
       <pubDate>Thu, 31 Dec 2020 20:07:40 -0400</pubDate>
       
       <guid>http://mulliken.github.io/post/jordan-wigner/</guid>
-      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators to a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves however still didn&amp;rsquo;t make me fully fully understand why the things work like this. But fortunately I worked out some Kronecker products (or tensor products) of spin operators when I was developing the fishbonett package.</description>
+      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators to a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves however still didn&amp;rsquo;t make me fully fully understand why the things work like this. But fortunately I worked out some
+Kronecker products (or tensor products) of spin operators when I was developing the fishbonett package.</description>
     </item>
     
     <item>
