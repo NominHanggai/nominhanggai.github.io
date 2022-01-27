@@ -6,9 +6,35 @@
     <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jan 2022 23:00:00 +0000</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jan 2022 00:21:40 -0300</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Миний аав Улаанбаатарт байна (Chinese: 美丽的草原我的家)</title>
+      <title>Монгол нутгийн үзэсгэлэн</title>
+      <link>http://mulliken.github.io/lyrics/mongol-nutgiin-uzesgelen/</link>
+      <pubDate>Thu, 27 Jan 2022 00:21:40 -0300</pubDate>
+      
+      <guid>http://mulliken.github.io/lyrics/mongol-nutgiin-uzesgelen/</guid>
+      <description>Зээрийн сүрэг бэлчсэн
+Шаргал талын зэрэглээ
+Хээрийн салхи үлээсэн
+Монгол нутгийн үзэсгэлэн (Монгол нутгийн цэлмэг тал)
+Миний нутгийн сайхныг
+Мэлмий тэнүүн ширтмээр
+Мэндэлж төрсөн болохоороо
+Мишилзэн харахад бахадмаар
+Аавын хүүгийн чадлыг
+Атраар сорьсон нутаг
+Ажил хөдөлмөр хосолж
+Амьдрал бялхсан нутаг
+Миний нутгийн сайхныг
+Мэлмий тэнүүн ширтмээр
+Мэндэлж төрсөн болохоороо
+Мишээж харан бахадмаар
+https://www.youtube.com/watch?v=EEK6iIe31aI
+https://www.youtube.com/watch?v=BkdPLKvjgAs</description>
+    </item>
+    
+    <item>
+      <title>Үзэсгэлэнт сайхан миний нутаг (Chinese: 美丽的草原我的家)</title>
       <link>http://mulliken.github.io/lyrics/uzesgelent-saihan-nutag/</link>
       <pubDate>Wed, 26 Jan 2022 23:00:00 +0000</pubDate>
       
@@ -122,6 +148,16 @@ Kronecker products (or tensor products) of spin operators when I was developing 
     </item>
     
     <item>
+      <title>About</title>
+      <link>http://mulliken.github.io/about/</link>
+      <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
+      
+      <guid>http://mulliken.github.io/about/</guid>
+      <description>I am a theoretical chemist mainly interested in quantum dynamics and electronic structures of molecules and solids. I can be contacted by email (kavat.lux AT gmail). The list of my publications is available on the Google-Scholar page.
+$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$</description>
+    </item>
+    
+    <item>
       <title>Color Post Title</title>
       <link>http://mulliken.github.io/post/color/</link>
       <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
@@ -137,15 +173,6 @@ Kronecker products (or tensor products) of spin operators when I was developing 
       
       <guid>http://mulliken.github.io/links/</guid>
       <description>Mageluer&amp;rsquo;s website. Miss seeing him.</description>
-    </item>
-    
-    <item>
-      <title>M</title>
-      <link>http://mulliken.github.io/about/</link>
-      <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
-      
-      <guid>http://mulliken.github.io/about/</guid>
-      <description>$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$</description>
     </item>
     
   </channel>
