@@ -6,7 +6,47 @@
     <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Feb 2022 14:21:40 +0000</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 15:21:40 +0000</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Хөх Монгол нутаг (Chinese: 蓝色的(蒙古)故乡)</title>
+      <link>http://mulliken.github.io/lyrics/hoh-mongol-nutag/</link>
+      <pubDate>Wed, 16 Feb 2022 15:21:40 +0000</pubDate>
+      
+      <guid>http://mulliken.github.io/lyrics/hoh-mongol-nutag/</guid>
+      <description>Үг: Т. Дэлгэрсан
+Ая: С. Тэнгэр
+Алтан гарьдын зулзага
+Дэвээд дэвээд гэтлэшгүй
+Аралт тэрэгний хүрд
+Давхиад давхиад туулашгүй
+Хөх Монгол нутаг минь
+Хүү нь наддаа сайхан даа
+Урьхан хаврын цагт
+Усны өнгөөр хөхөрсөн
+Уургын үзүүрийг дагаад
+Хурга ишиг майлалдсан
+Хөх Монгол нутаг минь
+Хүү нь наддаа сайхан даа
+https://www.youtube.com/watch?v=8oECQhg_e5s
+https://www.youtube.com/watch?v=5xLHQzyPIgY</description>
+    </item>
+    
+    <item>
+      <title>Дүүриймаа</title>
+      <link>http://mulliken.github.io/lyrics/duuriimaa/</link>
+      <pubDate>Tue, 15 Feb 2022 16:21:40 +0000</pubDate>
+      
+      <guid>http://mulliken.github.io/lyrics/duuriimaa/</guid>
+      <description>Хадтай юу Сүмбэр ууланд нь болбол до хө Ай Дүүриймаа минь ээ
+Харцага шувуу нь жиргээд байна аа хө
+Хавар намрын зургаахан сард нь хө Ай Дүүриймаа минь нь
+Хайрын маань сэтгэл гэдэг хөвөлзөөд байна аа хө
+Зүүн Сүмбэр ууланд нь болбол до хө Ай Дүүриймаа минь ээ
+Зүр﻿ гур нь зөрөлдөөд байна аа хө
+Зүрхний маань жаалхан амраг тэр минь ээ хө Ай Дүүриймаа минь ээ
+Зүүд нойронд минь үзэгдээд байна аа хө</description>
+    </item>
+    
     <item>
       <title>Заллага (Chinese: 邀请)</title>
       <link>http://mulliken.github.io/lyrics/zallaga/</link>
@@ -365,10 +405,10 @@ Versiоn 2 Лонхон дотроо байхуй дор
     
     <item>
       <title>Сайнчимэг</title>
-      <link>http://mulliken.github.io/lyrics/sain-tsimeg/</link>
+      <link>http://mulliken.github.io/lyrics/sain-chimeg/</link>
       <pubDate>Thu, 27 Jan 2022 15:21:40 +0000</pubDate>
       
-      <guid>http://mulliken.github.io/lyrics/sain-tsimeg/</guid>
+      <guid>http://mulliken.github.io/lyrics/sain-chimeg/</guid>
       <description>Саарал моьтой Сайнчимэг хө
 Садруулж л явна Сайнчимэг хө
 Шаазангийн наймаа нь хаа байна гээд
@@ -554,7 +594,7 @@ Kronecker products (or tensor products) of spin operators when I was developing 
       <pubDate>Thu, 14 May 2020 23:21:40 -0400</pubDate>
       
       <guid>http://mulliken.github.io/about/</guid>
-      <description>I am a theoretical chemist mainly interested in quantum dynamics and electronic structures of molecules and solids. I can be contacted by email (kavat.lux AT gmail). The list of my publications is available on the Google-Scholar page.</description>
+      <description>I am a theoretical chemist mainly interested in quantum dynamics and electronic structures of molecules and solids. I can be contacted by email (kavat.lux AT gmail.com). The list of my publications is available on the Google-Scholar page.</description>
     </item>
     
     <item>
