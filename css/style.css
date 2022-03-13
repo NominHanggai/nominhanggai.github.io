@@ -5,6 +5,10 @@ body {
   line-height: 1.5em;
 }
 
+
+
+
+
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
@@ -31,6 +35,7 @@ body {
   font-weight: normal;
 }
 .postlink {
+	/* text-underline-offset: 2.8px; */
     font-size: 11pt;
 }
 

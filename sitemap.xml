@@ -1,273 +1,168 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://mulliken.github.io/book/130-seerembuu/</loc>
-    <lastmod>2022-03-08T22:21:40+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>http://mulliken.github.io/</loc>
+    <lastmod>2022-03-12T23:21:40+00:00</lastmod>
+  </url><url>
+    <loc>http://mulliken.github.io/lyrics/shar-had/</loc>
+    <lastmod>2022-03-12T23:21:40+00:00</lastmod>
+  </url><url>
+    <loc>http://mulliken.github.io/book/130-seerembuu/</loc>
     <lastmod>2022-03-08T22:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/book/113-ceelee-lam/</loc>
     <lastmod>2022-03-08T15:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/mohooruu/</loc>
     <lastmod>2022-03-06T16:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/tanhuar/</loc>
     <lastmod>2022-03-02T11:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/zuudnii-gobi/</loc>
     <lastmod>2022-03-02T08:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/saruul-tal/</loc>
     <lastmod>2022-02-28T18:20:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/jaahan-sharga/</loc>
     <lastmod>2022-02-28T17:20:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/huren-tolgoi-suuder/</loc>
     <lastmod>2022-02-28T16:20:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/jinchnii-amrag/</loc>
     <lastmod>2022-02-28T09:57:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/jinchid-irlee/</loc>
     <lastmod>2022-02-27T19:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/post/eej-for-28-years-zhangchengzhi/</loc>
     <lastmod>2022-02-27T19:07:40+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mulliken.github.io/post/my-music-records-zhangchengzhi/</loc>
+  </url><url>
+    <loc>http://mulliken.github.io/post/my-music-records--zhangchengzhi/</loc>
     <lastmod>2022-02-27T19:07:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/arvan-hoyor-jil/</loc>
     <lastmod>2022-02-24T00:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/uhert-huiten/</loc>
     <lastmod>2022-02-21T02:36:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/tal-nutag-or-ih-khan/</loc>
     <lastmod>2022-02-19T12:57:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/danaabal/</loc>
     <lastmod>2022-02-18T00:51:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/agit-tolgoi/</loc>
     <lastmod>2022-02-17T15:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/agi-ni-ugui-gazar/</loc>
     <lastmod>2022-02-16T15:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/hoh-mongol-nutag/</loc>
     <lastmod>2022-02-16T15:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/duuriimaa/</loc>
     <lastmod>2022-02-15T16:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/zallaga/</loc>
     <lastmod>2022-02-08T14:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/gajalin/</loc>
     <lastmod>2022-02-07T01:53:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/ertnii-saihan/</loc>
     <lastmod>2022-02-07T01:00:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/toohuu-negen-gos/</loc>
     <lastmod>2022-02-07T00:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/chigishaan-duu/</loc>
     <lastmod>2022-02-05T20:20:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/hun-galuu/</loc>
     <lastmod>2022-01-28T18:00:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/shi-tuu-geegee/</loc>
     <lastmod>2022-01-27T21:08:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/ser-ser-salhi/</loc>
     <lastmod>2022-01-27T18:28:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/arvan-tavni-sar/</loc>
     <lastmod>2022-01-27T18:22:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/alsin-gazrin-zereglee/</loc>
     <lastmod>2022-01-27T18:20:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/tengeriin-salh/</loc>
     <lastmod>2022-01-27T18:08:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/tal-nutag-minii/</loc>
     <lastmod>2022-01-27T18:01:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/dorvon-nactai-haliun/</loc>
     <lastmod>2022-01-27T18:00:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/har-torgon-hamjaar/</loc>
     <lastmod>2022-01-27T16:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/arhini-duu/</loc>
     <lastmod>2022-01-27T15:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/sain-chimeg/</loc>
     <lastmod>2022-01-27T15:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/shanhai-hiitstai-bandoti/</loc>
     <lastmod>2022-01-27T15:21:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/mongol-nutgiin-uzesgelen/</loc>
     <lastmod>2022-01-27T00:21:40-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/uzesgelent-saihan-nutag/</loc>
     <lastmod>2022-01-26T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/minii-aav-ulaanbaatart-baina/</loc>
     <lastmod>2022-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/book/</loc>
     <lastmod>2022-01-24T23:21:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/</loc>
     <lastmod>2022-01-24T23:21:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/zandan-huren/</loc>
     <lastmod>2022-01-24T23:21:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/yunden-goo-goo/</loc>
     <lastmod>2022-01-24T22:21:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/post/lanczos/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/post/thermo-field/</loc>
     <lastmod>2021-02-07T02:07:40-03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/post/jordan-wigner/</loc>
     <lastmod>2020-12-31T20:07:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/about/</loc>
     <lastmod>2020-05-14T23:21:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/post/color/</loc>
     <lastmod>2020-05-14T23:21:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/links/</loc>
     <lastmod>2020-05-14T23:21:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/post/</loc>
     <lastmod>2020-05-14T23:21:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://mulliken.github.io/tags/</loc>
   </url>
-  
 </urlset>
