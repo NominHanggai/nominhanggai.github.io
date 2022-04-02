@@ -57,10 +57,19 @@ h1 {
     font-weight: normal;
 }
 
+h2 {
+	margin: auto;
+    letter-spacing: 0px;
+    font-size: 13pt; 
+    font-weight: normal;
+}
+
 h3 {
 	margin-top: 0.2em;
 	margin-bottom: -0.3em;
     letter-spacing: 0px;
+	font-size: 11pt; 
+	font-weight: normal;
 }
 
 footer a { text-decoration: none; }
