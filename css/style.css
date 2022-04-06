@@ -105,5 +105,8 @@ table {
   border-bottom: 1px solid #666;
 }
 table thead th { border-bottom: 1px solid #ddd; }
+img[alt=illustration] { width: 600px; display: block; margin-left: auto;
+  margin-right: auto;}
+
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
