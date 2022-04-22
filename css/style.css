@@ -1,14 +1,10 @@
 body {
-  --var-max-width: 800px;
+  --var-max-width: min(100vw,800px);
   max-width: var(--var-max-width);
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
 }
-
-
-
-
 
 /* header and footer areas */
 .menu { padding: 0; }
@@ -90,19 +86,6 @@ pre {
 }
 code { background: #f9f9f9; }
 pre code { background: none; }
-
-.mongol-text {
-  writing-mode: vertical-lr;
-  display: flex;
-  margin: auto;
-  margin-top: 25px;
-  line-height: 100%;
-  width: var(--var-max-width);
-  justify-content: center;
-  overflow-x:  auto;
-  bo
-
-}
 
 /* misc elements */
 img, iframe, video { max-width: 100%; }

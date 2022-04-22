@@ -10,8 +10,17 @@ code {
 h2 {
 	font-family: Minion Pro, Palatino, Palatino Linotype, Microsoft Yahei,  Alegreya, AR PL UMing HK, Open Sans, Arial,sans-serif;
 }
+@font-face {
+  font-family: 'Menk-Hawang-Tig';
+  src: url('/files/web-resources/MHW8103.ttf')
+}
+
+@font-face {
+  font-family: 'MongBaiti';
+  src: url('/files/web-resources/monbaiti.ttf')
+}
 
 .mongol-text {
-	font-family: Mongolian White, Menk Hawang Tig;
+	font-family: Menk-Hawang-Tig, MongBaiti;
 	font-size: 120%;
 }

@@ -1,0 +1,19 @@
+
+.mongol-text {
+  margin: 10px;
+}
+
+.mongol-box {
+  writing-mode: vertical-lr;
+  display: inline;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: auto
+  line-height: 100%;
+  height: auto;
+  width: var(--var-max-width);
+  border-width: 500px;
+  justify-content: center;
+  overflow-x:  auto;
+  background-color: #E6F2FF
+}
