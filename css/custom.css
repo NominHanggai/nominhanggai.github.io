@@ -5,15 +5,16 @@
 
 .mongol-box {
   writing-mode: vertical-lr;
-  display: inline;
-  margin-top: 10px;
+  display: block;
   margin-bottom: 10px;
-  padding: auto
-  line-height: 100%;
-  height: auto;
-  width: var(--var-max-width);
-  border-width: 500px;
-  justify-content: center;
-  overflow-x:  auto;
+  line-height: normal;
+  overflow-x:  scroll;
+  width: 100%;
   background-color: #E6F2FF
+}
+
+audio {
+	display: block;
+	margin-bottom: 20px;
+	margin-top: 20px;
 }

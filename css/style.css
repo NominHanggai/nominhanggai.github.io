@@ -1,6 +1,5 @@
 body {
-  --var-max-width: min(100vw,800px);
-  max-width: var(--var-max-width);
+  max-width: 800px;
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
@@ -40,6 +39,7 @@ body {
     font-size: 10pt;  
     font-weight: normal;
     margin-left: 0em;
+	background-color: initial;
 }
 .author { 
     font-size: 15pt;  
@@ -55,11 +55,23 @@ h1 {
 }
 
 h2 {
-	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 60px;
     letter-spacing: 0px;
     font-size: 13pt; 
     font-weight: normal;
+	background-color: #EEEEEE;
+	width: 100%;
+	display: block;
+	text-align: center;
 }
+
+h2:nth-of-type(1){
+	margin-top: 20px;
+}
+
+
 
 h3 {
 	margin-top: 0.2em;

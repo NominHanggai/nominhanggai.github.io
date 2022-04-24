@@ -13,7 +13,7 @@
       <pubDate>Tue, 05 Apr 2022 12:07:40 -0400</pubDate>
       
       <guid>http://mulliken.github.io/post/quantum-process-tomography-and-transfer-tensors/</guid>
-      <description>Predicting long-time dynamics from short-time information is a promising way of studying how equilibrium is approached for an open quantum system starting from a non-equilibrium initial condition.
+      <description>Motivation Predicting long-time dynamics from short-time information is a promising way of studying how equilibrium is approached for an open quantum system starting from a non-equilibrium initial condition.
 This post discusses one of the prediction methods for long-time open system dynamics, the transfer tensor method (TTM)1. The TTM is based on, (i) the Nakajima-Zwanzig equation equation of an open quantum system [Eq. (1)], and (ii) the assumption that the state of the open system at time $t$ is barely correlated with the state at $t&#39;$ if $|t-t&#39;|$ is greater than a certain threshold.</description>
     </item>
     
