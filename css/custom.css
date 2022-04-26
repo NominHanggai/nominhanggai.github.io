@@ -1,16 +1,26 @@
 
 .mongol-text {
   margin: 10px;
+  writing-mode: vertical-lr;
+  line-height: normal;
+  font-family: Menk-Hawang-Tig, MongBaiti;
+  font-size: 120%;
 }
 
 .mongol-box {
-  writing-mode: vertical-lr;
   display: block;
-  margin-bottom: 10px;
-  line-height: normal;
-  overflow-x:  scroll;
   width: 100%;
-  background-color: #E6F2FF
+  background-color: #E6F2FF;
+  overflow-x:  scroll;
+}
+
+.mongol-border {
+  padding: 0;
+  width: 100%;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: 8px solid transparent;
+  border-image: url(/files/web-resources/uul2.svg) 28.98% round;
 }
 
 audio {
