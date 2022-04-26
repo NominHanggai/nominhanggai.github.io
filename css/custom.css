@@ -12,6 +12,7 @@
   width: 100%;
   background-color: #E6F2FF;
   overflow-x:  scroll;
+  margin: 0px;
 }
 
 .mongol-border {
@@ -19,8 +20,8 @@
   width: 100%;
   margin-bottom: 10px;
   box-sizing: border-box;
-  border: 8px solid transparent;
-  border-image: url(/files/web-resources/uul2.svg) 28.98% round;
+  border: 10px solid transparent;
+  border-image: url(/files/web-resources/uul3.svg) 25% round;
 }
 
 audio {
