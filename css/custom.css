@@ -1,9 +1,39 @@
+@font-face {
+  font-family: 'Menk-Hawang-Tig';
+  src: url('/files/web-resources/MHW8103.ttf')
+}
+
+@font-face {
+  font-family: 'Menk-Qimed-Tig';
+  src: url('/files/web-resources/Menk-Qimed-Tig-MQD8101.ttf')
+}
+
+@font-face {
+  font-family: 'Menk-QingMing-Tig';
+  src: url('/files/web-resources/Menk-QingMing-Tig-MQI8101.ttf')
+}
+
+@font-face {
+  font-family: 'Menk-Lhundb-Tig';
+  src: url('/files/web-resources/MenkLhundbTig.ttf')
+}
+
+@font-face {
+  font-family: 'MongBaiti';
+  src: url('/files/web-resources/monbaiti.ttf')
+}
+
+@font-face {
+  font-family:'Menksoft2012';
+  src: url('/files/web-resources/Menksoft2012.woff') format('woff');
+}
 
 .mongol-text {
   margin: 10px;
   writing-mode: vertical-lr;
+  text-orientation: sideways;
   line-height: normal;
-  font-family: Menk-Hawang-Tig, MongBaiti;
+  font-family: Menk-Hawang-Tig;
   font-size: 120%;
 }
 
