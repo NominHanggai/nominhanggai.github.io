@@ -32,22 +32,23 @@
   margin: 10px;
   writing-mode: vertical-lr;
   text-orientation: sideways;
-  line-height: normal;
+  line-height: 140%;
   font-family: Menk-Hawang-Tig;
   font-size: 120%;
+  padding: 0px;
 }
 
 .mongol-box {
-  display: block;
-  width: 100%;
+  
+  box-sizing: content-box;
   background-color: #E6F2FF;
-  overflow-x:  scroll;
   margin: 0px;
+  overflow-x: scroll;
 }
 
 .mongol-border {
   padding: 0;
-  width: 100%;
+  max-width: 100%;
   margin-bottom: 10px;
   box-sizing: border-box;
   border: 10px solid transparent;
