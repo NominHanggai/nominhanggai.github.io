@@ -6,7 +6,19 @@
     <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 May 2022 11:01:40 +0000</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discretizing a continuum using the Gaussian-Legendre quadrature</title>
+      <link>http://mulliken.github.io/post/gaussian-quadrature-discretization/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mulliken.github.io/post/gaussian-quadrature-discretization/</guid>
+      <description>A prototypical model for condensed-phase chemical reactions is the spin-boson model: a two-level spin coupled to a continuum of vibrations (bosons). The spin-boson Hamiltonian is
+\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger + a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}} x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]
+Assuming $\rho(x)=1$, to discretize the continuum of bosons, we approximate the integral $\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger + a_{x})\mathrm{d}x$ by
+\[ \sum_{n=1}^N \left\{ h(x_n) (a_{x_n}^\dagger + a_{x_n})W_n \right\} \]</description>
+    </item>
+    
     <item>
       <title>Дугуй малгай (Ордос ардын дуу); 圆顶帽 (鄂尔多斯民歌); A Round Hat (Ordos folk song)</title>
       <link>http://mulliken.github.io/lyrics/dvgui-malgai/</link>
@@ -57,11 +69,11 @@ In this Hamiltonian, $\ket{a}$ is the donor state and $\ket{b}$ and $\ket{c}$ ar
     </item>
     
     <item>
-      <title>Mongolian grammar terms</title>
-      <link>http://mulliken.github.io/post/monoglian-grammar-terms/</link>
+      <title>Mongolian grammar terms 1</title>
+      <link>http://mulliken.github.io/post/monoglian-grammar-terms-1/</link>
       <pubDate>Fri, 06 May 2022 10:07:40 -0400</pubDate>
       
-      <guid>http://mulliken.github.io/post/monoglian-grammar-terms/</guid>
+      <guid>http://mulliken.github.io/post/monoglian-grammar-terms-1/</guid>
       <description>Nouns&amp;rsquo; cases; 名词的格    Cases (Тийн ялгал, т. я. in short)/格 Explantion 解释     1. тарах тийн ялгал. ablative case 从比格   2. заах т. я. accusative case (=objective case) 宾格   3. нэрлэх т. я. nominative case 主格   4. өгөх орших т. я. dative-locative case 向位格(给在格)   5. үйлдэх т. я. instrumental case 工具格(凭借格,用让格)   6. хамтрах т. я.</description>
     </item>
     
@@ -1236,7 +1248,7 @@ Posters and talks  Suppressing the entanglement growth in TD-DMRG simulations of
       
       <guid>http://mulliken.github.io/links/</guid>
       <description>Blogs/Websites  Mageluer&amp;rsquo;s website.  Mongolian Books/Dictionaries Most of the PDF&amp;rsquo;s were bought at http://www.shuxing.cc. Several were obtained at 水晶珠书屋.
- ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ ( ᠪᠠᠭᠠᠲᠤᠷ) 蒙古语文教程(巴特尔) PDF 新蒙汉词典 (带西里尔及传统蒙文) PDF 呼和图力呼尔 古蒙古语词语解释 PDF 99首蒙古民歌精选(乌兰杰等) PDF ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠳᠠᠭᠤᠤ ᠵᠠᠭᠤᠨ ᠪᠠᠳᠠᠭ 蒙古民歌一百首 PDF ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ 轻轻松松学蒙古语 PDF 汉蒙对照新蒙文教程(德·乌恩其) PDF 蒙古语简志(道布著) PDF 现代蒙古语教程(侯万庄等) 外部链接 ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠪᠣᠳᠢ—ᠳᠠᠷᠤᠯᠠᠯ ᠮᠥᠯᠵᠢᠯ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠭᠰᠡᠨ ᠳᠠᠭᠤᠤ 蒙古民歌一千首（第一卷） PDF ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠪᠣᠳᠢ—ᠠᠵᠤ ᠪᠠᠶᠢᠳᠠᠯ᠂ ᠵᠠᠩ ᠵᠠᠩᠰᠢᠯ ᠤᠨ ᠳᠠᠭᠤᠤ 蒙古民歌一千首（第二卷） PDF ᠮᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠳᠥᠷᠪᠡᠳᠦᠭᠡᠷ ᠪᠣᠳᠢ—ᠢᠨᠠᠭ ᠠᠮᠠᠷᠠᠭ ᠤᠨ ᠳᠠᠭᠤᠤ 蒙古民歌一千首（第四卷） PDF ᠮᠣᠩᠭᠣᠯ ᠦᠭᠡᠰ ᠦᠨ ᠢᠵᠠᠭᠤᠷ ᠤᠨ ᠲᠣᠯᠢ 蒙古语词根词典 PDF 蒙古语比较语法 桑席叶夫[苏]著 PDF 鄂尔多斯民歌精粹(上) 包俊臣 王立庄 著 PDF  Inner Mongolian Radios 1.</description>
+ ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ ( ᠪᠠᠭᠠᠲᠤᠷ) 蒙古语文教程(巴特尔) PDF 新蒙汉词典 (带西里尔及传统蒙文) PDF 呼和图力呼尔 古蒙古语词语解释 PDF 99首蒙古民歌精选(乌兰杰等) PDF ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠳᠠᠭᠤᠤ ᠵᠠᠭᠤᠨ ᠪᠠᠳᠠᠭ 蒙古民歌一百首 PDF ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ 轻轻松松学蒙古语 PDF 汉蒙对照新蒙文教程(德·乌恩其) PDF 蒙古语简志(道布著) PDF 现代蒙古语教程(侯万庄等) 外部链接 ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠪᠣᠳᠢ—ᠳᠠᠷᠤᠯᠠᠯ ᠮᠥᠯᠵᠢᠯ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠭᠰᠡᠨ ᠳᠠᠭᠤᠤ 蒙古民歌一千首（第一卷） PDF ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠪᠣᠳᠢ—ᠠᠵᠤ ᠪᠠᠶᠢᠳᠠᠯ᠂ ᠵᠠᠩ ᠵᠠᠩᠰᠢᠯ ᠤᠨ ᠳᠠᠭᠤᠤ 蒙古民歌一千首（第二卷） PDF ᠮᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠳᠥᠷᠪᠡᠳᠦᠭᠡᠷ ᠪᠣᠳᠢ—ᠢᠨᠠᠭ ᠠᠮᠠᠷᠠᠭ ᠤᠨ ᠳᠠᠭᠤᠤ 蒙古民歌一千首（第四卷） PDF ᠮᠣᠩᠭᠣᠯ ᠦᠭᠡᠰ ᠦᠨ ᠢᠵᠠᠭᠤᠷ ᠤᠨ ᠲᠣᠯᠢ 蒙古语词根词典 PDF 蒙古语比较语法 桑席叶夫[苏]著 PDF 鄂尔多斯民歌精粹(上) 包俊臣 王立庄 著 PDF 中国民间歌曲集成 内蒙古卷 （上、下卷） (《中国民间歌曲集成》全国编辑委员会编) PDF  Inner Mongolian Radios 1.</description>
     </item>
     
   </channel>

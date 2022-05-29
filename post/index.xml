@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 14 May 2020 23:21:40 -0400</lastBuildDate><atom:link href="http://mulliken.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Discretizing a continuum using the Gaussian-Legendre quadrature</title>
+      <link>http://mulliken.github.io/post/gaussian-quadrature-discretization/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://mulliken.github.io/post/gaussian-quadrature-discretization/</guid>
+      <description>A prototypical model for condensed-phase chemical reactions is the spin-boson model: a two-level spin coupled to a continuum of vibrations (bosons). The spin-boson Hamiltonian is
+\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger + a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}} x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]
+Assuming $\rho(x)=1$, to discretize the continuum of bosons, we approximate the integral $\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger + a_{x})\mathrm{d}x$ by
+\[ \sum_{n=1}^N \left\{ h(x_n) (a_{x_n}^\dagger + a_{x_n})W_n \right\} \]</description>
+    </item>
+    
+    <item>
       <title>The golden-rule electron transfer rate for a multi-state system</title>
       <link>http://mulliken.github.io/post/fermi-s-golden-rule-multi-state/</link>
       <pubDate>Tue, 17 May 2022 02:07:40 -0330</pubDate>
@@ -19,11 +31,11 @@ In this Hamiltonian, $\ket{a}$ is the donor state and $\ket{b}$ and $\ket{c}$ ar
     </item>
     
     <item>
-      <title>Mongolian grammar terms</title>
-      <link>http://mulliken.github.io/post/monoglian-grammar-terms/</link>
+      <title>Mongolian grammar terms 1</title>
+      <link>http://mulliken.github.io/post/monoglian-grammar-terms-1/</link>
       <pubDate>Fri, 06 May 2022 10:07:40 -0400</pubDate>
       
-      <guid>http://mulliken.github.io/post/monoglian-grammar-terms/</guid>
+      <guid>http://mulliken.github.io/post/monoglian-grammar-terms-1/</guid>
       <description>Nouns&amp;rsquo; cases; 名词的格    Cases (Тийн ялгал, т. я. in short)/格 Explantion 解释     1. тарах тийн ялгал. ablative case 从比格   2. заах т. я. accusative case (=objective case) 宾格   3. нэрлэх т. я. nominative case 主格   4. өгөх орших т. я. dative-locative case 向位格(给在格)   5. үйлдэх т. я. instrumental case 工具格(凭借格,用让格)   6. хамтрах т. я.</description>
     </item>
     

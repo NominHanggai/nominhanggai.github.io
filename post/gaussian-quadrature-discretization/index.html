@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+	<title>Discretizing a continuum using the Gaussian-Legendre quadrature </title>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3FM0H43JC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3FM0H43JC8');
+</script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Discretizing a continuum using the Gaussian-Legendre quadrature | </title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<link rel="stylesheet" href="/css/custom.css" />
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about">About</a></li>
+      
+      <li><a href="/post/">Posts</a></li>
+      
+      <li><a href="/links">Links</a></li>
+      
+      <li><a href="/lyrics/">Дууны Үг</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="author">Discretizing a continuum using the Gaussian-Legendre quadrature</span></h1>
+
+<h1 class="date">
+		
+			\@Cheet
+		
+	on 2022/05/29</h1>
+</div>
+
+<main>
+<p>A prototypical model for condensed-phase chemical reactions is the spin-boson model: a two-level spin coupled to a continuum of vibrations (bosons). The spin-boson Hamiltonian is<br>
+<code>\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger +  a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}}  x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]</code><br>
+Assuming <code>$\rho(x)=1$</code>, to discretize the continuum of bosons, we approximate the integral <code>$\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger +  a_{x})\mathrm{d}x$</code> by<br>
+<code>\[ \sum_{n=1}^N \left\{  h(x_n) (a_{x_n}^\dagger +  a_{x_n})W_n \right\} \]</code><br>
+where<br>
+<code>\[ W_n = \int_0^{x_\mathrm{max}} \frac{\prod_{m\neq n}(x-x_m)}{\prod_{m\neq n}(x_n-x_m)} \mathrm{d}x \]</code><br>
+The integrand of <code>$W_n$</code> is a Lagrange interpolation polynomial. <code>$W_n$</code> are the weights for the Gaussian quadrature. It was shown<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> that the approximation is the best if the nodes <code>$\{x_m\}$</code> are the roots of the N-th order Legendre polynomials on the integration interval  <code>$[0,x_\mathrm{max}]$</code>.</p>
+<p>Similarly, the integral <code>$\int_0^{x_\mathrm{max}}  x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x$</code> can be approximated by<br>
+<code>\[ \sum_{n=1}^N \left\{  x_n (a_{x_n}^\dagger a_{x_n})W_n \right\}. \]</code><br>
+To find the nodes, which are the roots of the N-th order Legendre polynomials, and the weights associated with the roots, it is helpful to use the recurrence of the Legendre polynomials. The recurrence for the monic Legendre polynomials on the interval <code>$[-1,1]$</code> is<br>
+<code>\[ p_{n+1}(x) = x p_{n}(x) - \frac{n^2}{4n^2 -1} p_{n-1}(x) \]</code><br>
+Replacing the variable <code>$x$</code> with <code>$x=\frac{2(y-a)}{b-a} -1$</code>, and defining <code>$\tilde{p}_n(y)=p_n\left(\frac{2(y-a)}{b-a} -1\right)$</code>  the following recurrence is valid on the interval <code>$[a,b]$</code>.<br>
+<code>\[ \tilde{p}_{n+1}(y) = \left[\frac{2(y-a)}{b-a} -1 \right] \tilde{p}_{n}(y) - \frac{n^2}{4n^2 -1} \tilde{p}_{n-1}(y) \]</code></p>
+<p>The polynomial \tilde{p}_{n}(y) is not monic. To make it monic we divide it by <code>$(b-a)^n/2^n$</code> and get a new monic polynomial on the interval <code>$[a,b]$</code>:<br>
+<code>\[ p_{n}(y) = \left[ y- \frac{a+b}{2}\right]p_n(y) - \left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1} p_{n-1}(y) \]</code><br>
+<code>$p_n(y)$</code> is, in fact, the product <code>$\prod_{k=1}^n(y-y_k)$</code> where <code>$y_k$</code> are the roots of <code>$p_n(y)$</code>.</p>
+<p>Diagonalizing the tridiagonal matrix forming by the recurrence coefficients <code>$a_n=\frac{a+b}{2}$</code> and <code>$b_n=\left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1}$</code> produces the nodes and the weights. The matrix is<br>
+<code>\[ \left[\begin{array}{ccccc} a_{0} &amp; \sqrt{b_{1}} &amp; &amp; &amp; \\ \sqrt{b_{1}} &amp; a_{1} &amp; \sqrt{b_{2}} &amp; &amp; \\ &amp; \vdots &amp; \vdots &amp; &amp; \\ &amp; &amp; \sqrt{b_{N-2}} &amp; a_{N-2} &amp; \sqrt{b_{N-1}} \\ &amp; &amp; &amp; \sqrt{b_{N-1}} &amp; a_{N-1} \end{array}\right] \]</code></p>
+<p>The roots are the eigvalues of this matrix. Supposing the eigen vectors are <code>$\mathbf{v}_n$</code>, the weights <code>$W_n$</code> are <code>$(b-a)v_{n,1}^2$</code>.</p>
+<h1 id="references">References</h1>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>PHYSICAL REVIEW B 92, 155126 (2015)&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Gautschi, W. (1981). A survey of Gauss-Christoffel quadrature formulae. In EB Christoffel (pp. 72-147). Birkhäuser, Basel.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+</main>
+
+  <footer>
+  
+<script src="//yihui.name/js/math-code.js"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3.2/es5/tex-mml-chtml.js">
+</script>
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7933184&style=0007&nbdigits=6&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> 
+
+  
+  <hr/>
+  \@Cheet
+  
+  </footer>
+  </body>
+</html>
+
