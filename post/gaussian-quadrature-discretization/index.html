@@ -61,12 +61,12 @@ To find the nodes, which are the roots of the N-th order Legendre polynomials, a
 <code>\[ p_{n+1}(x) = x p_{n}(x) - \frac{n^2}{4n^2 -1} p_{n-1}(x) \]</code><br>
 Replacing the variable <code>$x$</code> with <code>$x=\frac{2(y-a)}{b-a} -1$</code>, and defining <code>$\tilde{p}_n(y)=p_n\left(\frac{2(y-a)}{b-a} -1\right)$</code>  the following recurrence is valid on the interval <code>$[a,b]$</code>.<br>
 <code>\[ \tilde{p}_{n+1}(y) = \left[\frac{2(y-a)}{b-a} -1 \right] \tilde{p}_{n}(y) - \frac{n^2}{4n^2 -1} \tilde{p}_{n-1}(y) \]</code></p>
-<p>The polynomial \tilde{p}_{n}(y) is not monic. To make it monic we divide it by <code>$(b-a)^n/2^n$</code> and get a new monic polynomial on the interval <code>$[a,b]$</code>:<br>
+<p>The polynomial <code>$\tilde{p}_{n}(y)$</code> is not monic. To make it monic we divide it by <code>$(b-a)^n/2^n$</code> and get a new monic polynomial on the interval <code>$[a,b]$</code>:<br>
 <code>\[ p_{n}(y) = \left[ y- \frac{a+b}{2}\right]p_n(y) - \left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1} p_{n-1}(y) \]</code><br>
 <code>$p_n(y)$</code> is, in fact, the product <code>$\prod_{k=1}^n(y-y_k)$</code> where <code>$y_k$</code> are the roots of <code>$p_n(y)$</code>.</p>
 <p>Diagonalizing the tridiagonal matrix forming by the recurrence coefficients <code>$a_n=\frac{a+b}{2}$</code> and <code>$b_n=\left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1}$</code> produces the nodes and the weights. The matrix is<br>
 <code>\[ \left[\begin{array}{ccccc} a_{0} &amp; \sqrt{b_{1}} &amp; &amp; &amp; \\ \sqrt{b_{1}} &amp; a_{1} &amp; \sqrt{b_{2}} &amp; &amp; \\ &amp; \vdots &amp; \vdots &amp; &amp; \\ &amp; &amp; \sqrt{b_{N-2}} &amp; a_{N-2} &amp; \sqrt{b_{N-1}} \\ &amp; &amp; &amp; \sqrt{b_{N-1}} &amp; a_{N-1} \end{array}\right] \]</code></p>
-<p>The roots are the eigvalues of this matrix. Supposing the eigen vectors are <code>$\mathbf{v}_n$</code>, the weights <code>$W_n$</code> are <code>$(b-a)v_{n,1}^2$</code>.</p>
+<p>The roots are the eigen values of this matrix. Supposing the eigen vectors are <code>$\mathbf{v}_n$</code>, the weights <code>$W_n$</code> are <code>$(b-a)v_{n,1}^2$</code>.</p>
 <h1 id="references">References</h1>
 <section class="footnotes" role="doc-endnotes">
 <hr>
