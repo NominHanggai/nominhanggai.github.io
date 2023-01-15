@@ -54,25 +54,25 @@ Assuming <code>$\rho(x)=1$</code>, to discretize the continuum of bosons, we app
 <code>\[ \sum_{n=1}^N \left\{  h(x_n) (a_{x_n}^\dagger +  a_{x_n})W_n \right\} \]</code><br>
 where<br>
 <code>\[ W_n = \int_0^{x_\mathrm{max}} \frac{\prod_{m\neq n}(x-x_m)}{\prod_{m\neq n}(x_n-x_m)} \mathrm{d}x \]</code><br>
-The integrand of <code>$W_n$</code> is a Lagrange interpolation polynomial. <code>$W_n$</code> are the weights for the Gaussian quadrature. It was shown<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> that the approximation is the best if the nodes <code>$\{x_m\}$</code> are the roots of the N-th order Legendre polynomials on the integration interval  <code>$[0,x_\mathrm{max}]$</code>.</p>
+The integrand of <code>$W_n$</code> is a Lagrange interpolating polynomial. <code>$W_n$</code> is the weight for the Gaussian quadrature. It has been shown<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> that the approximation (when <code>N&lt;\infty</code>) is the best if the nodes <code>$\{x_m\}$</code> are the roots of the N-th order Legendre polynomials over the integration interval <code>$[0,x_\mathrm{max}]$</code>.</p>
 <p>Similarly, the integral <code>$\int_0^{x_\mathrm{max}}  x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x$</code> can be approximated by<br>
 <code>\[ \sum_{n=1}^N \left\{  x_n (a_{x_n}^\dagger a_{x_n})W_n \right\}. \]</code><br>
-To find the nodes, which are the roots of the N-th order Legendre polynomials, and the weights associated with the roots, it is helpful to use the recurrence of the Legendre polynomials. The recurrence for the monic Legendre polynomials on the interval <code>$[-1,1]$</code> is<br>
+To obtain the nodes, which are the roots of the N-th order Legendre polynomials, and the weights associated with the roots, it is helpful to use the recurrence relation of the Legendre polynomials. The recurrence relation for the monic Legendre polynomials over the interval <code>$[-1,1]$</code> is<br>
 <code>\[ p_{n+1}(x) = x p_{n}(x) - \frac{n^2}{4n^2 -1} p_{n-1}(x) \]</code><br>
-Replacing the variable <code>$x$</code> with <code>$x=\frac{2(y-a)}{b-a} -1$</code>, and defining <code>$\tilde{p}_n(y)=p_n\left(\frac{2(y-a)}{b-a} -1\right)$</code>  the following recurrence is valid on the interval <code>$[a,b]$</code>.<br>
+Replacing the variable <code>$x$</code> with <code>$x=\frac{2(y-a)}{b-a} -1$</code>, and defining <code>$\tilde{p}_n(y)=p_n\left(\frac{2(y-a)}{b-a} -1\right)$</code>, the following recurrence is valid over the interval <code>$[a,b]$</code>.<br>
 <code>\[ \tilde{p}_{n+1}(y) = \left[\frac{2(y-a)}{b-a} -1 \right] \tilde{p}_{n}(y) - \frac{n^2}{4n^2 -1} \tilde{p}_{n-1}(y) \]</code></p>
-<p>The polynomial <code>$\tilde{p}_{n}(y)$</code> is not monic. To make it monic we divide it by <code>$(b-a)^n/2^n$</code> and get a new monic polynomial on the interval <code>$[a,b]$</code>:<br>
+<p>The polynomial <code>$\tilde{p}_{n}(y)$</code> is not monic. To make it monic, we divide it by <code>$(b-a)^n/2^n$</code> and obtain a new monic polynomial on the interval <code>$[a,b]$</code>:<br>
 <code>\[ p_{n}(y) = \left[ y- \frac{a+b}{2}\right]p_n(y) - \left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1} p_{n-1}(y) \]</code><br>
-<code>$p_n(y)$</code> is, in fact, the product <code>$\prod_{k=1}^n(y-y_k)$</code> where <code>$y_k$</code> are the roots of <code>$p_n(y)$</code>.</p>
-<p>Diagonalizing the tridiagonal matrix forming by the recurrence coefficients <code>$a_n=\frac{a+b}{2}$</code> and <code>$b_n=\left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1}$</code> produces the nodes and the weights. The matrix is<br>
+<code>$p_n(y)$</code> is, in fact, the product <code>$\prod_{k=1}^n(y-y_k)$</code> where <code>$y_k$</code> is the root of <code>$p_n(y)$</code>.</p>
+<p>Diagonalizing the tridiagonal matrix formed by the recurrence coefficients <code>$a_n=\frac{a+b}{2}$</code> and <code>$b_n=\left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1}$</code> produces the nodes and the weights. The matrix is<br>
 <code>\[ \left[\begin{array}{ccccc} a_{0} &amp; \sqrt{b_{1}} &amp; &amp; &amp; \\ \sqrt{b_{1}} &amp; a_{1} &amp; \sqrt{b_{2}} &amp; &amp; \\ &amp; \vdots &amp; \vdots &amp; &amp; \\ &amp; &amp; \sqrt{b_{N-2}} &amp; a_{N-2} &amp; \sqrt{b_{N-1}} \\ &amp; &amp; &amp; \sqrt{b_{N-1}} &amp; a_{N-1} \end{array}\right] \]</code></p>
-<p>The roots are the eigen values of this matrix. Supposing the eigen vectors are <code>$\mathbf{v}_n$</code>, the weights <code>$W_n$</code> are <code>$(b-a)v_{n,1}^2$</code>.</p>
+<p>The roots are the eigenvalues of this matrix. Supposing the eigenvectors are <code>$\mathbf{v}_n$</code>, the weights <code>$W_n$</code> are <code>$(b-a)v_{n,1}^2$</code>.</p>
 <h1 id="references">References</h1>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
-<p>PHYSICAL REVIEW B 92, 155126 (2015)&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Phys. Rev B 92, 155126 (2015)&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2" role="doc-endnote">
 <p>Gautschi, W. (1981). A survey of Gauss-Christoffel quadrature formulae. In EB Christoffel (pp. 72-147). Birkhäuser, Basel.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>

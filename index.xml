@@ -197,9 +197,9 @@ Assuming $\rho(x)=1$, to discretize the continuum of bosons, we approximate the 
       <pubDate>Tue, 17 May 2022 02:07:40 -0330</pubDate>
       
       <guid>http://mulliken.github.io/post/fermi-s-golden-rule-multi-state/</guid>
-      <description>Secon-order Fermi&amp;rsquo;s golden rule rate for a two-acceptor electron transfer model A vibronic Hamiltonian of a 3-state electron-transfer system with a single donor and two acceptors is $\hat{H}_0+\hat{V}$.
+      <description>Second-order Fermi&amp;rsquo;s golden rule rate for a two-acceptor electron transfer model A vibronic Hamiltonian of a 3-state electron-transfer system with a single donor and two acceptors is $\hat{H}_0+\hat{V}$.
 \begin{align} \hat{H}_{0}&amp;amp;=\hat{h}_{a}\left|a\right\rangle \left\langle a\right|+\hat{h}_{b}\left|b\right\rangle \left\langle b\right|+\hat{h}_{c}\left|c\right\rangle \left\langle c\right|\\ V&amp;amp;=g_{ab}\left|a\right\rangle \left\langle b\right|+g_{ac}\left|a\right\rangle \left\langle c\right|+g_{bc}\left|b\right\rangle \left\langle c\right|+h.c. \end{align}
-In this Hamiltonian, $\ket{a}$ is the donor state and $\ket{b}$ and $\ket{c}$ are the two acceptor states. If the electronic couplings among $a$, $b$ and $c$ are small, the electron transfer rate can be caluated by using Fermi&amp;rsquo;s golden rule.</description>
+In this Hamiltonian, $\ket{a}$ is the donor state and $\ket{b}$ and $\ket{c}$ are the two acceptor states. If the electronic couplings among $a$, $b$, and $c$ are small, the electron transfer rate can be calculated by using Fermi&amp;rsquo;s golden rule.</description>
     </item>
     
     <item>
@@ -351,7 +351,7 @@ Lyrics in Cyrillic Mongolian Энгэртээ униар гүвэлзүүлсэ�
       
       <guid>http://mulliken.github.io/post/quantum-process-tomography-and-transfer-tensors/</guid>
       <description>Motivation Predicting long-time dynamics from short-time information is a promising way of studying how equilibrium is approached for an open quantum system starting from a non-equilibrium initial condition.
-This post discusses one of the prediction methods for long-time open system dynamics, the transfer tensor method (TTM)1. The TTM is based on, (i) the Nakajima-Zwanzig equation equation of an open quantum system [Eq. (1)], and (ii) the assumption that the state of the open system at time $t$ is barely correlated with the state at $t&#39;$ if $|t-t&#39;|$ is greater than a certain threshold.</description>
+This post discusses one of the prediction methods for long-time open system dynamics, the transfer tensor method (TTM)1. The TTM is based on (i) the Nakajima-Zwanzig equation of an open quantum system [Eq. (1)], and (ii) the assumption that the state of the open system at a time $t$ is barely correlated with the state at $t&#39;$ if $|t-t&#39;|$ is greater than a certain threshold.</description>
     </item>
     
     <item>
@@ -1384,7 +1384,7 @@ $$ T = \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp; &amp;amp; &amp;amp; 
       <pubDate>Sun, 07 Feb 2021 02:07:40 -0330</pubDate>
       
       <guid>http://mulliken.github.io/post/thermo-field/</guid>
-      <description>When simulating the dynamics of open quantum systems, one often assumes a pure initial state of the system part. The validity of the assumption, of course, depends on the experimental realization. In most of the excitation energy transfer experiments, a pure initial state is a faithful representation of the system because the coherent light that excites molecules makes the wave-function of the system collapse to a certain state, hence factorizes the system-environment density matrix.</description>
+      <description>When simulating the dynamics of open quantum systems, one often assumes a pure initial state of the system part. The validity of the assumption, of course, depends on the experimental realization. In most of the excitation energy transfer experiments, a pure initial state is a faithful representation of the system because the coherent light that excites molecules makes the wave function of the system collapse to a certain state, hence factorizing the system-environment density matrix.</description>
     </item>
     
     <item>
@@ -1393,7 +1393,7 @@ $$ T = \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp; &amp;amp; &amp;amp; 
       <pubDate>Thu, 31 Dec 2020 20:07:40 -0400</pubDate>
       
       <guid>http://mulliken.github.io/post/jordan-wigner/</guid>
-      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators to a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves however still didn&amp;rsquo;t make me fully fully understand why the things work like this. But fortunately I worked out some
+      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators into a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves, however, still didn&amp;rsquo;t make me fully understand why things work like this. But fortunately, I worked out some
 Kronecker products (or tensor products) of spin operators when I was developing the fishbonett package.</description>
     </item>
     
