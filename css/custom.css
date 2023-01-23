@@ -61,3 +61,17 @@ audio {
 	margin-top: 20px;
 	width: 100%;
 }
+
+ruby {
+  ruby-align: center;
+  white-space: pre;
+  ruby-position: over;
+}
+
+ruby rt{
+  text-align: center;
+}
+ruby rb{
+  text-align: center;
+  line-height: 1em;
+}
