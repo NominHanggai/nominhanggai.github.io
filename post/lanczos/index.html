@@ -48,15 +48,15 @@
 </div>
 
 <main>
-<p>Given a real symmetric matrix <code>$A$</code>, one way to tridigonalize <code>$A$</code> is the Lanczos procedure which I will introduce right now. To transform <code>$A$</code> into a tridiagonal matrix <code>$T$</code>, we need an orthogonal matrix <code>$U$</code>: <code>$U^\dagger A U = T$</code> which implies <code>$UT=AU$</code>. Here<br>
+<p>Given a real symmetric matrix <code>$A$</code>, one way to tridigonalize <code>$A$</code> is the Lanczos procedure which I will introduce below. To transform <code>$A$</code> into a tridiagonal matrix <code>$T$</code>, we need an orthogonal matrix <code>$U$</code>: <code>$U^\dagger A U = T$</code> which implies <code>$UT=AU$</code>. Here,<br>
 <code>$$ T =  \begin{pmatrix} \alpha_1 &amp; \beta_2 &amp;                &amp;  &amp; \\ \beta_2 &amp; \alpha_2 &amp; \beta_3       &amp;        &amp; \\ &amp; \ddots   &amp; \ddots         &amp; \ddots  &amp;\\ &amp;          &amp; \beta_{N-1}   &amp; \alpha_{N-1}  &amp;\beta_{N}\\ &amp;          &amp;                &amp; \beta_N  &amp;\alpha_{N}\\ \end{pmatrix}. $$</code></p>
-<p>We set <code>$U=[\vec v_1,\vec v_2,\vec v_3,\cdots,\vec v_N]$</code> where <code>$\vec v_i$</code> is a column of <code>$U$</code> and the <code>$\vec v_i$</code>&rsquo;s are orthogonal to each other. We further use the equation <code>$UT=AU$</code> to obtain the relationships of the vectors <code>$\vec v_1,\vec v_2,\vec v_3,\cdots,\vec v_N$</code>. On the left side on the equation <code>$UT=AU$</code>, <code>$U T$</code> is equal to<br>
+<p>We set <code>$U=[\vec v_1,\vec v_2,\vec v_3,\cdots,\vec v_N]$</code> where <code>$\vec v_i$</code> is a column of <code>$U$</code> and the <code>$\vec v_i$</code>&rsquo;s are orthogonal to each other. We further use the equation <code>$UT=AU$</code> to obtain the relationships of the vectors <code>$\vec v_1,\vec v_2,\vec v_3,\cdots,\vec v_N$</code>. The left side of the equation <code>$UT=AU$</code>, <code>$U T$</code> is equal to<br>
 <code>$$ \left[ \begin{array}{c|c|c|c|c} \alpha_1\vec v_1 + \beta_2\vec v_2 &amp; \beta_2\vec v_1 + \alpha_2\vec v_2 + \beta_3 \vec v_3  &amp; \cdots &amp; \beta_{N-1}\vec v_{N-2} + \alpha_{N-1}\vec v_{N-1} + \beta_N \vec v_N &amp; \beta_N\vec v_{N-1} + \alpha_N\vec v_N \end{array}\right] $$</code><br>
 where the vertical bars separate each column from the others. On the right side of the equation <code>$UT=AU$</code>, <code>$AU$</code> is equal to<br>
 <code>$$ \left[ \begin{array}{c|c|c|c|c} A\vec v_1  &amp; A\vec v_2  &amp; \cdots &amp; A \vec v_{N-1} &amp; A \vec v_{N} \end{array}\right]. $$</code></p>
 <p>As a result, we have a set of equations of <code>$v_i$</code>&rsquo;s:<br>
 <code>$$ \begin{align} \alpha_1\vec v_1 + \beta_2\vec v_2 &amp;= A\vec v_1 \\ \beta_2\vec v_1 + \alpha_2\vec v_2 + \beta_3 \vec v_3 &amp;= A\vec v_2 \\ \vdots\\ \beta_{N-1}\vec v_{N-2} + \alpha_{N-1}\vec v_{N-1} + \beta_N \vec v_N &amp;= A \vec v_{N-1}\\ \beta_N\vec v_{N-1} + \alpha_N\vec v_N &amp;= A \vec v_N \end{align} $$</code><br>
-which can be used to recursively solve for the columns (<code>$v_i$</code>&rsquo;s) of the matrix <code>$U$</code>. This is exactly what Lanczos tridiagonalization does.</p>
+which can be used to recursively solve for the columns (<code>$v_i$</code>&rsquo;s) of the matrix <code>$U$</code>. This is what Lanczos tridiagonalization does.</p>
 <h1 id="references">References</h1>
 <p>[1] <a href="https://blog.csdn.net/seventonight/article/details/116450549">https://blog.csdn.net/seventonight/article/details/116450549</a>.</p>
 

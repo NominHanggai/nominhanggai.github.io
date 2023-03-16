@@ -46,7 +46,7 @@ This post discusses one of the prediction methods for long-time open system dyna
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>http://mulliken.github.io/post/lanczos/</guid>
-      <description>Given a real symmetric matrix $A$, one way to tridigonalize $A$ is the Lanczos procedure which I will introduce right now. To transform $A$ into a tridiagonal matrix $T$, we need an orthogonal matrix $U$: $U^\dagger A U = T$ which implies $UT=AU$. Here
+      <description>Given a real symmetric matrix $A$, one way to tridigonalize $A$ is the Lanczos procedure which I will introduce below. To transform $A$ into a tridiagonal matrix $T$, we need an orthogonal matrix $U$: $U^\dagger A U = T$ which implies $UT=AU$. Here,
 $$ T = \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp; &amp;amp; &amp;amp; \\ \beta_2 &amp;amp; \alpha_2 &amp;amp; \beta_3 &amp;amp; &amp;amp; \\ &amp;amp; \ddots &amp;amp; \ddots &amp;amp; \ddots &amp;amp;\\ &amp;amp; &amp;amp; \beta_{N-1} &amp;amp; \alpha_{N-1} &amp;amp;\beta_{N}\\ &amp;amp; &amp;amp; &amp;amp; \beta_N &amp;amp;\alpha_{N}\\ \end{pmatrix}.</description>
     </item>
     
