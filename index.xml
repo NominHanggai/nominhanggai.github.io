@@ -138,6 +138,18 @@ Lyrics in Traditional Mongolian ᠣᠷᠳᠣᠰ ᠮᠣᠩᠭᠣᠯ</description>
     </item>
     
     <item>
+      <title>Үүлэн Хуар (Ордос ардын дуу; 蔚林花; ᠡᠭᠦᠯᠡᠨᠬᠣᠸᠠᠷ)</title>
+      <link>http://mulliken.github.io/lyrics/uulen-huar/</link>
+      <pubDate>Sun, 16 Oct 2022 15:21:40 +0000</pubDate>
+      
+      <guid>http://mulliken.github.io/lyrics/uulen-huar/</guid>
+      <description>Зангуут нуурын хулс нь
+Тарисан биш ургасан юм
+Жаахан багийн Үүлэн Хуар
+Зурсан биш төрсөн юм</description>
+    </item>
+    
+    <item>
       <title>Цэнхэр хангай нутаг (蔚蓝的杭盖故乡; The sky blue homeland)</title>
       <link>http://mulliken.github.io/lyrics/tsenher-hangain-nutag/</link>
       <pubDate>Mon, 29 Aug 2022 00:21:40 +0000</pubDate>
@@ -1227,15 +1239,15 @@ Version 2 Дөрвөн настай халиун
 Лонхоноосоо гархуй дор
 Догшин хар архи л байна
 Yйлс тандаа сайн
-Аяс мандаа САйН
-Айлттаж барья Хө
+Аяс мандаа сайн
+Айлттаж барья хө
 Лонхон дотроо байхуй дор
-Номхон ХАр Архи л байна
+Номхон хар архи л байна
 Ноëн тандаа барихуй дор
 Догшин хар архи л байна
 Үйлс тандаа сайн
-АяС манлаа СайН
-Айлттаж барья Хө
+Аяс манлаа сайн
+Айлттаж барья хө
 Айлттаж барья хө
 Lyrics Version 2 (Cyrillic Mongolian) Лонхон дотроо байхуй дор</description>
     </item>
@@ -1503,6 +1515,22 @@ Posters and talks Suppressing the entanglement growth in TD-DMRG simulations of 
 Хэсэг зуурдаа бодоход
 Гэртээ суух дургүй доо
 为什么词典上的 Гэртээ 是 ᠭᠡᠷ ᠲᠡᠭᠡᠨ。还是说我认错了，不是Гэртээ</description>
+    </item>
+    
+    <item>
+      <title>Түшиг (Ордос ардын дуу; 依靠/依傍)</title>
+      <link>http://mulliken.github.io/lyrics/tushig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mulliken.github.io/lyrics/tushig/</guid>
+      <description>Хар морио унаж явбал
+Хангай замдаа түшиг шуу
+Харанхуй шөнөдөө ганц л явбал
+Хань нөхөр түшиг шуу
+Хүрэн морио унаж явбал
+Хөндий(-н) замдаа түшиг шуу
+Хүний газар явах доо
+Хүүхэн хань минь түшиг шуу</description>
     </item>
     
   </channel>

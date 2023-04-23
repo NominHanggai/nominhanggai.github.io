@@ -23,6 +23,9 @@
     <loc>http://mulliken.github.io/lyrics/ordos-mongol/</loc>
     <lastmod>2022-10-16T15:21:40+00:00</lastmod>
   </url><url>
+    <loc>http://mulliken.github.io/lyrics/uulen-huar/</loc>
+    <lastmod>2022-10-16T15:21:40+00:00</lastmod>
+  </url><url>
     <loc>http://mulliken.github.io/lyrics/tsenher-hangain-nutag/</loc>
     <lastmod>2022-08-29T00:21:40+00:00</lastmod>
   </url><url>
@@ -231,5 +234,7 @@
     <loc>http://mulliken.github.io/learning-mongolian/</loc>
   </url><url>
     <loc>http://mulliken.github.io/tags/</loc>
+  </url><url>
+    <loc>http://mulliken.github.io/lyrics/tushig/</loc>
   </url>
 </urlset>
