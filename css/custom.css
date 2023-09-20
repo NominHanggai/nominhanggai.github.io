@@ -1,3 +1,5 @@
+@import url('/css/custom_add.css');
+
 @font-face {
   font-family: 'Menk-Hawang-Tig';
   src: url('/files/web-resources/MHW8103.ttf')
@@ -55,12 +57,6 @@
   border-image: url(/files/web-resources/uul3.svg) 25% round;
 }
 
-audio {
-	display: block;
-	margin-bottom: 20px;
-	margin-top: 20px;
-	width: 100%;
-}
 
 ruby {
   ruby-align: center;
@@ -75,3 +71,4 @@ ruby rb{
   text-align: center;
   line-height: 1em;
 }
+
