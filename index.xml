@@ -6,7 +6,45 @@
     <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2023 15:21:40 +0000</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 06:21:40 +0000</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Үлэмжийн сайхан Түмэд ᠦᠯᠡᠮᠵᠢ ᠎ᠶ᠋ᠢᠨ ᠰᠠᠢᠬᠠᠨ ᠲᠦᠮᠡᠳ 土默特故乡/无比美丽的土默特</title>
+      <link>http://mulliken.github.io/lyrics/ulemji-iin-saihan-tumed/</link>
+      <pubDate>Wed, 17 Apr 2024 06:21:40 +0000</pubDate>
+      
+      <guid>http://mulliken.github.io/lyrics/ulemji-iin-saihan-tumed/</guid>
+      <description>Lyrics in Cyrillic Mongolian Далан харын нөмөртэй
+Тэнэгэр уудам нутаг минь
+Тахилга шүтээний улбаатай
+Түмэдийн сайхан тал минь
+Цэлгэр талын уянгатай
+Цэнхэр хангай нутаг минь
+Цэцэн мэргэдийн домогтой
+Цэнгэлийн сайхан орон л минь
+Алтан хаанаас өвлөсөн
+Ариун дагшин Түмэд минь
+Үеийн үедээ дурсах
+Үлэмжийн сайхан Түмэд минь
+Хар сухай нууртай
+Хайрхан өлгий нутаг минь
+Ариун номын мөргөлтэй
+Агуйт сайхан уулс минь
+Буурал түүхийн шастиртай
+Бурхад ивээсэн нутаг минь
+Богд эзний хишигтэй</description>
+    </item>
+    
+    <item>
+      <title>Golden-rule electron transfer rate with a nonequilibrium nuclear initial condition</title>
+      <link>http://mulliken.github.io/post/fermi-s-golden-rule-duschinsky/</link>
+      <pubDate>Wed, 17 Apr 2024 02:07:40 +0000</pubDate>
+      
+      <guid>http://mulliken.github.io/post/fermi-s-golden-rule-duschinsky/</guid>
+      <description>Model: spin-boson To derive Fermi&amp;rsquo;s golden rule rate for a nonequilibrium initial state, we use polaron transformation to remove the diagonal linear vibronic couplings (LVC). We start from the usual LVC Hamiltonian
+\begin{align} H_{0} &amp;amp; =\left(E_{1}+\omega a^{\dagger}a+c_{1}(a^{\dagger}+a)\right)\left|1\right\rangle \left\langle 1\right|\\ &amp;amp; +\left(E_{2}+\omega a^{\dagger}a+c_{2}(a^{\dagger}+a)\right)\left|2\right\rangle \left\langle 2\right|\\ V &amp;amp; =g_{12}\left|1\right\rangle \left\langle 2\right|+h.c. \end{align}
+Here, only a single vibrational mode is used for simplicity of derivation. To include multiple modes, one only needs to replace the single mode term in the conclusion with a sum over all modes.</description>
+    </item>
+    
     <item>
       <title>Жузийн Булан (Ордос ардын дуу; 局子补隆/局子湾)</title>
       <link>http://mulliken.github.io/lyrics/juziin-bulung/</link>
