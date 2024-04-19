@@ -1,6 +1,16 @@
 @import url('/css/custom_add.css');
 
 @font-face {
+  font-family: 'OpenSans';
+  src: url('/files/web-resources/OpenSans-VariableFont.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('/files/web-resources/RobotoFlex-VariableFont.ttf') format('woff');
+}
+
+@font-face {
   font-family: 'Menk-Hawang-Tig';
   src: url('/files/web-resources/MHW8103.ttf')
 }

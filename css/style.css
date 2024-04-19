@@ -14,13 +14,13 @@ body {
   background: white;
   padding: 5px;
   border-radius: 5px;
+  font-family: OpenSans, sans-serif;
 }
 li>a {	text-decoration: none;}
 
 
 .article-meta {
   text-align: left;
-  text-decoration: ;
   background: white;
   padding: 0px;
 /*  border-radius: 5px; */
@@ -86,9 +86,9 @@ h3 {
 footer a { text-decoration: none; }
 hr {
 /*  border-style: dashed; */
+  text-decoration: ;
   border-style: groove;
   color: #ddd;
-  width: %;
 }
 
 /* code */

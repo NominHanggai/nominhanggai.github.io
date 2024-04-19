@@ -36,7 +36,7 @@ Assuming $\rho(x)=1$, to discretize the continuum of bosons, we approximate the 
       <pubDate>Tue, 17 May 2022 02:07:40 -0330</pubDate>
       
       <guid>http://mulliken.github.io/post/fermi-s-golden-rule-multi-state/</guid>
-      <description>Second-order Fermi&amp;rsquo;s golden rule rate for a two-acceptor electron transfer model A vibronic Hamiltonian of a 3-state electron-transfer system with a single donor and two acceptors is $\hat{H}_0+\hat{V}$.
+      <description>Second-order Fermi&amp;rsquo;s golden rule rate for a two-acceptor electron transfer model A vibronic Hamiltonian1 of a 3-state electron-transfer system with a single donor and two acceptors is $\hat{H}_0+\hat{V}$.
 \begin{align} \hat{H}_{0}&amp;amp;=\hat{h}_{a}\left|a\right\rangle \left\langle a\right|+\hat{h}_{b}\left|b\right\rangle \left\langle b\right|+\hat{h}_{c}\left|c\right\rangle \left\langle c\right|\\ V&amp;amp;=g_{ab}\left|a\right\rangle \left\langle b\right|+g_{ac}\left|a\right\rangle \left\langle c\right|+g_{bc}\left|b\right\rangle \left\langle c\right|+h.c. \end{align}
 In this Hamiltonian, $\ket{a}$ is the donor state and $\ket{b}$ and $\ket{c}$ are the two acceptor states. If the electronic couplings among $a$, $b$, and $c$ are small, the electron transfer rate can be calculated by using Fermi&amp;rsquo;s golden rule.</description>
     </item>
