@@ -4,7 +4,10 @@
   font-family: 'OpenSans';
   src: url('/files/web-resources/OpenSans-VariableFont.ttf') format('woff');
 }
-
+@font-face {
+  font-family: 'NewNotoSansMongolian';
+  src: url('/files/web-resources/NotoSansMongolian-20240308-LiuTuPo.ttf') format('woff');
+}
 @font-face {
   font-family: 'Roboto';
   src: url('/files/web-resources/RobotoFlex-VariableFont.ttf') format('woff');

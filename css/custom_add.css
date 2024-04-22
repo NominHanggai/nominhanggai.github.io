@@ -1,3 +1,9 @@
+
+span.mongolian {
+    font-family: 'NewNotoSansMongolian', 'Mongolian White', sans-serif;
+    font-size: smaller;
+}
+
 .music-container {
     display: flex;
     flex-direction: column;
