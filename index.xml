@@ -275,7 +275,7 @@ Lyrics in Traditional Mongolian ᠣᠷᠳᠣᠰ ᠮᠣᠩᠭᠣᠯ</description>
       <pubDate>Thu, 09 Jun 2022 00:21:40 +0000</pubDate>
       
       <guid>http://mulliken.github.io/lyrics/uulen-tsenher-hangai/</guid>
-      <description>Lyrics in Cyrillic Mongolian үлэн цэнхэр хангай&amp;quot;
+      <description>Lyrics in Cyrillic Mongolian Үүлэн цэнхэр хангай
 Шүлэг: Б.Лхагвасүрэн /МУСГЗ, АУЗ/
 Аялгуу: Ц.Чинзориг /Төрийн соёрхолт, МУСТА/
 Үүл гижигдэн найгах
@@ -1528,8 +1528,8 @@ $$ T = \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp; &amp;amp; &amp;amp; 
       <pubDate>Thu, 31 Dec 2020 20:07:40 -0400</pubDate>
       
       <guid>http://mulliken.github.io/post/jordan-wigner/</guid>
-      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators into a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves, however, still didn&amp;rsquo;t make me fully understand why things work like this. But fortunately, I worked out some
-Kronecker products (or tensor products) of spin operators when I was developing the fishbonett package.</description>
+      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators into a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves, however, still didn&amp;rsquo;t make me fully understand why things work like this.
+But fortunately, I worked out some Kronecker products (or tensor products) of spin operators when I was developing the fishbonett package.</description>
     </item>
     
     <item>

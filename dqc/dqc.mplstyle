@@ -1,0 +1,74 @@
+figure.figsize:     2., 1.237 
+figure.dpi:         600
+figure.constrained_layout.h_pad:  0.001
+figure.constrained_layout.w_pad:  0.001
+figure.constrained_layout.use:    True
+
+
+font.family:  sans-serif
+font.style:   normal
+font.variant: normal
+font.weight:  normal
+font.stretch: normal
+font.size:    8
+
+mathtext.fontset: stixsans
+
+
+lines.linewidth: 0.8
+
+
+## * AXES
+axes.grid: False
+axes.axisbelow: False
+axes.edgecolor: black
+axes.titlesize:     medium   # font size of the axes title
+#axes.titlepad:      6.0     # pad between axes and title in points
+axes.label
+axes.labelsize:     small  # font size of the x and y labels
+axes.labelcolor: black
+axes.linewidth: 0.3
+axes.labelpad:  2
+
+axes.prop_cycle: cycler('color', ['E24A33', '348ABD', '988ED5', '777777', 'FBC15E', '8EBA42', 'FFB5B8'])
+                   # E24A33 : red
+                   # 348ABD : blue
+                   # 988ED5 : purple
+                   # 777777 : gray
+                   # FBC15E : yellow
+                   # 8EBA42 : green
+                   # FFB5B8 : pink
+
+
+## * TICKS
+ytick.left:          True
+ytick.right:          True
+xtick.top:           True
+xtick.labelsize:     x-small  # font size of the tick labels
+ytick.labelsize:     x-small  # font size of the tick labels
+xtick.direction:     in
+ytick.direction:     in
+xtick.major.width:   0.3
+ytick.major.width:   0.3
+xtick.major.size:   2
+ytick.major.size:   2
+xtick.major.pad:    1.5
+ytick.major.pad:    1.5
+xtick.color: black
+ytick.color: black
+
+
+## * LEGEND 
+legend.fancybox:      True
+legend.frameon:       False
+legend.fontsize:  small
+## Dimensions as fraction of font size:
+legend.borderpad:       0.3  # border whitespace
+#legend.labelspacing:   0.5  # the vertical space between the legend entries
+legend.handlelength:    1.0  # the length of the legend lines
+#legend.handleheight:   0.7  # the height of the legend handle
+legend.handletextpad:   0.5  # the space between the legend line and legend text
+legend.borderaxespad:   0.5 # the border between the axes and legend edge
+#legend.columnspacing:  2.0  # column separation
+
+savefig.transparent: False
