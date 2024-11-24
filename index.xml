@@ -4,1590 +4,541 @@
     <title>Home on </title>
     <link>http://mulliken.github.io/</link>
     <description>Recent content in Home on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 06:21:40 +0000</lastBuildDate><atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 06:21:40 +0000</lastBuildDate>
+    <atom:link href="http://mulliken.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Үлэмжийн сайхан Түмэд (ᠦᠯᠡᠮᠵᠢ ᠎ᠶ᠋ᠢᠨ ᠰᠠᠢᠬᠠᠨ ᠲᠦᠮᠡᠳ 土默特故乡/无比美丽的土默特 Beautiful Tumed)</title>
       <link>http://mulliken.github.io/lyrics/ulemji-iin-saihan-tumed/</link>
       <pubDate>Wed, 17 Apr 2024 06:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/ulemji-iin-saihan-tumed/</guid>
-      <description>Lyrics in Cyrillic Mongolian Далан харын нөмөртэй
-Тэнэгэр уудам нутаг минь
-Тахилга шүтээний улбаатай
-Түмэдийн сайхан тал минь
-Цэлгэр талын уянгатай
-Цэнхэр хангай нутаг минь
-Цэцэн мэргэдийн домогтой
-Цэнгэлийн сайхан орон л минь
-Алтан хаанаас өвлөсөн
-Ариун дагшин Түмэд минь
-Үеийн үедээ дурсах
-Үлэмжийн сайхан Түмэд минь
-Хар сухай нууртай
-Хайрхан өлгий нутаг минь
-Ариун номын мөргөлтэй
-Агуйт сайхан уулс минь
-Буурал түүхийн шастиртай
-Бурхад ивээсэн нутаг минь
-Богд эзний хишигтэй</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Далан харын нөмөртэй&lt;br&gt;&#xA;Тэнэгэр уудам нутаг минь&lt;br&gt;&#xA;Тахилга шүтээний улбаатай&lt;br&gt;&#xA;Түмэдийн сайхан тал минь&lt;/p&gt;&#xA;&lt;p&gt;Цэлгэр талын уянгатай&lt;br&gt;&#xA;Цэнхэр хангай нутаг минь&lt;br&gt;&#xA;Цэцэн мэргэдийн домогтой&lt;br&gt;&#xA;Цэнгэлийн сайхан орон л минь&lt;/p&gt;&#xA;&lt;p&gt;Алтан хаанаас өвлөсөн&lt;br&gt;&#xA;Ариун дагшин Түмэд минь&lt;br&gt;&#xA;Үеийн үедээ дурсах&lt;br&gt;&#xA;Үлэмжийн сайхан Түмэд минь&lt;/p&gt;&#xA;&lt;p&gt;Хар сухай нууртай&lt;br&gt;&#xA;Хайрхан өлгий нутаг минь&lt;br&gt;&#xA;Ариун номын мөргөлтэй&lt;br&gt;&#xA;Агуйт сайхан уулс минь&lt;/p&gt;&#xA;&lt;p&gt;Буурал түүхийн шастиртай&lt;br&gt;&#xA;Бурхад ивээсэн нутаг минь&lt;br&gt;&#xA;Богд эзний хишигтэй&lt;br&gt;&#xA;Баялаг сайхан орон л минь&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Golden-rule electron transfer rate with a nonequilibrium nuclear initial condition</title>
       <link>http://mulliken.github.io/post/fermi-s-golden-rule-duschinsky/</link>
       <pubDate>Wed, 17 Apr 2024 02:07:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/post/fermi-s-golden-rule-duschinsky/</guid>
-      <description>Model: spin-boson To derive Fermi&amp;rsquo;s golden rule rate for a nonequilibrium initial state, we use polaron transformation to remove the diagonal linear vibronic couplings (LVC). We start from the usual LVC Hamiltonian
-\begin{align} H_{0} &amp;amp; =\left(E_{1}+\omega a^{\dagger}a+c_{1}(a^{\dagger}+a)\right)\left|1\right\rangle \left\langle 1\right|\\ &amp;amp; +\left(E_{2}+\omega a^{\dagger}a+c_{2}(a^{\dagger}+a)\right)\left|2\right\rangle \left\langle 2\right|\\ V &amp;amp; =g_{12}\left|1\right\rangle \left\langle 2\right|+h.c. \end{align}
-Here, only a single vibrational mode is used for simplicity of derivation. To include multiple modes, one only needs to replace the single mode term in the conclusion with a sum over all modes.</description>
+      <description>&lt;h2 id=&#34;model-spin-boson&#34;&gt;Model: spin-boson&lt;/h2&gt;&#xA;&lt;p&gt;To derive Fermi&amp;rsquo;s golden rule rate for a nonequilibrium initial state, we use polaron transformation to remove the diagonal linear vibronic couplings (LVC). We start from the usual LVC Hamiltonian&lt;br&gt;&#xA;&lt;code&gt;\begin{align} H_{0} &amp;amp; =\left(E_{1}+\omega a^{\dagger}a+c_{1}(a^{\dagger}+a)\right)\left|1\right\rangle \left\langle 1\right|\\ &amp;amp; +\left(E_{2}+\omega a^{\dagger}a+c_{2}(a^{\dagger}+a)\right)\left|2\right\rangle \left\langle 2\right|\\ V &amp;amp; =g_{12}\left|1\right\rangle \left\langle 2\right|+h.c. \end{align}&lt;/code&gt;&lt;br&gt;&#xA;Here, only a single vibrational mode is used for simplicity of derivation. To include multiple modes, one only needs to replace the single mode term in the conclusion with a sum over all modes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Жузийн Булан (ᠵᠤᠵᠠ ᠶᠢᠨ ᠪᠤᠯᠤᠨ 局子补隆/局子湾 Juzin Bulan) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/juziin-bulung/</link>
       <pubDate>Thu, 24 Aug 2023 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/juziin-bulung/</guid>
-      <description>Lyrics in Cyrillic Mongolian Алаг ё мориндоо эмээлийгээ тохлоо доо
-Аавын нутаг Жузийн Буландаа харихаар явъя доо
-Аавынхаа амар мэндийг асууя гэсэн юм доо
-Ах дүү ё та нартайгаа найрлая гэсэн юм доо
-Эмнэг ё мориндоо эмээлийгээ тохлоо доо
-Ээжийн нутаг Жузийн Буландаа харихаар явъя доо
-Ээжийнхээ эрүүл мэндийг асууя гэсэн юм доо
-Эгч дүү ё та нартайгаа найрлая гэсэн юм доо
-Аавынхаа амар мэндийг асууя гэсэн юм доо
-Ээжийнхээ эрүүл мэндийг асууя гэсэн юм доо</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Алаг ё мориндоо эмээлийгээ тохлоо доо&lt;br&gt;&#xA;Аавын нутаг Жузийн Буландаа харихаар явъя доо&lt;br&gt;&#xA;Аавынхаа амар мэндийг асууя гэсэн юм доо&lt;br&gt;&#xA;Ах дүү ё та нартайгаа найрлая гэсэн юм доо&lt;/p&gt;&#xA;&lt;p&gt;Эмнэг ё мориндоо эмээлийгээ тохлоо доо&lt;br&gt;&#xA;Ээжийн нутаг Жузийн Буландаа харихаар явъя доо&lt;br&gt;&#xA;Ээжийнхээ эрүүл мэндийг асууя гэсэн юм доо&lt;br&gt;&#xA;Эгч дүү ё та нартайгаа найрлая гэсэн юм доо&lt;/p&gt;&#xA;&lt;p&gt;Аавынхаа амар мэндийг асууя гэсэн юм доо&lt;br&gt;&#xA;Ээжийнхээ эрүүл мэндийг асууя гэсэн юм доо&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Түшиг (ᠲᠦᠰᠢᠭ 依靠/ Support) [Ордос ардын дуу]</title>
+      <link>http://mulliken.github.io/lyrics/tushig/</link>
+      <pubDate>Sun, 23 Apr 2023 11:21:40 +0000</pubDate>
+      <guid>http://mulliken.github.io/lyrics/tushig/</guid>
+      <description>&lt;p&gt;Хар морио унаж явбал&lt;br&gt;&#xA;Хангай замдаа түшиг шуу&lt;br&gt;&#xA;Харанхуй шөнөдөө ганц л явбал&lt;br&gt;&#xA;Хань нөхөр түшиг шуу&lt;/p&gt;&#xA;&lt;p&gt;Хүрэн морио унаж явбал&lt;br&gt;&#xA;Хөндий(-н) замдаа түшиг шуу&lt;br&gt;&#xA;Хүний газар явах доо&lt;br&gt;&#xA;Хүүхэн хань минь түшиг шуу&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Хошуу цагаан манх (ᠬᠣᠰᠢᠭᠤ ᠴᠠᠭᠠᠨ ᠮᠠᠩᠬ᠎ᠠ 尖嘴子沙梁 White Dune) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/hoshuu-tsagaan-manh/</link>
       <pubDate>Tue, 14 Mar 2023 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/hoshuu-tsagaan-manh/</guid>
-      <description>Cyrillic Mongolian Lyrics Хошуу цагаан манх
-Эрэл хамтлаг дуулна
-Хошуу (ё) цагаан манхан дээр нь
-Хараад суулаа доо
-Гураван өдрийн болзооноос өнгөрвөл
-Гунигшаад л байдаг юм доо
-Дугуй (ё) цагаан манхан дээр нь
-Сууж л сорлоо доо
-Дундуур (ё) өдрийн болзооноос хэтэрвэл
-Дур үгүйцөөд байдаг юм доо
-Бор (ё) морны хүч тарга
-Бордооны сайнаар шүү
-Бодол сайтай миний нөхөр
-Богдын царигт шүү
-Хээр морь нь хивсхийвэл
-Хээрийн зам дээр шүү</description>
+      <description>&lt;h2 id=&#34;cyrillic-mongolian-lyrics&#34;&gt;Cyrillic Mongolian Lyrics&lt;/h2&gt;&#xA;&lt;p&gt;Хошуу цагаан манх&lt;br&gt;&#xA;Эрэл хамтлаг дуулна&lt;/p&gt;&#xA;&lt;p&gt;Хошуу (ё) цагаан манхан дээр нь&lt;br&gt;&#xA;Хараад суулаа доо&lt;br&gt;&#xA;Гураван өдрийн болзооноос өнгөрвөл&lt;br&gt;&#xA;Гунигшаад л байдаг юм доо&lt;/p&gt;&#xA;&lt;p&gt;Дугуй (ё) цагаан манхан дээр нь&lt;br&gt;&#xA;Сууж л сорлоо доо&lt;br&gt;&#xA;Дундуур (ё) өдрийн болзооноос хэтэрвэл&lt;br&gt;&#xA;Дур үгүйцөөд байдаг юм доо&lt;/p&gt;&#xA;&lt;p&gt;Бор (ё) морны хүч тарга&lt;br&gt;&#xA;Бордооны сайнаар шүү&lt;br&gt;&#xA;Бодол сайтай миний нөхөр&lt;br&gt;&#xA;Богдын царигт шүү&lt;/p&gt;&#xA;&lt;p&gt;Хээр морь нь хивсхийвэл&lt;br&gt;&#xA;Хээрийн зам дээр шүү&lt;br&gt;&#xA;Хэлж ярьсан хоёр үгийг&lt;br&gt;&#xA;Хэзээдээ мартахгүй шүү&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Үзэмчин нутаг (ᠦᠵᠦᠮᠦᠴᠢᠨ ᠨᠤᠲᠤᠭ 乌珠穆沁故乡 Uzemchin homeland)</title>
       <link>http://mulliken.github.io/lyrics/uzemchin-nutag/</link>
       <pubDate>Fri, 27 Jan 2023 14:22:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/uzemchin-nutag/</guid>
-      <description>Lyrics in Cyrillic Mongolian Үзэмчин Нутаг
-Үг Ая : С · Элдэнгэ
-Магнаг ч талынхаа уудам хөндийгөөр
-Мөнгөн голууд мяралзан урсана даа
-Манантай уулынхаа жимстэй ойгоор нь
-Магтаалчин хөхөө дуугаа дуулна
-Ай хөө ай хөө
-Өсэж төрсөн Үзэмчин нутгийнхаа
-Үзэсгэлэнт бүхнийг бахархаад барна уу даа
-Уул хөвчдөө уурхай эрдэнтэй
-Уудам талдаа баян сүрэгтэй
-Мотор тоглуулсан алтан тариатай
-Хот хөдөөгүй баян жаргалтай
-Ай хөө ай хөө
-Өрнөн хөгжсөн Үзэмчин нутгийнхаа
-Үзэсгэлэнт бүхнийг дуулаад барна уу даа</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Үзэмчин Нутаг&lt;br&gt;&#xA;Үг Ая : С · Элдэнгэ&lt;/p&gt;&#xA;&lt;p&gt;Магнаг ч талынхаа уудам хөндийгөөр&lt;br&gt;&#xA;Мөнгөн голууд мяралзан урсана даа&lt;br&gt;&#xA;Манантай уулынхаа жимстэй ойгоор нь&lt;br&gt;&#xA;Магтаалчин хөхөө дуугаа дуулна&lt;/p&gt;&#xA;&lt;p&gt;Ай хөө ай хөө&lt;br&gt;&#xA;Өсэж төрсөн Үзэмчин нутгийнхаа&lt;br&gt;&#xA;Үзэсгэлэнт бүхнийг бахархаад барна уу даа&lt;/p&gt;&#xA;&lt;p&gt;Уул хөвчдөө уурхай эрдэнтэй&lt;br&gt;&#xA;Уудам талдаа баян сүрэгтэй&lt;br&gt;&#xA;Мотор тоглуулсан алтан тариатай&lt;br&gt;&#xA;Хот хөдөөгүй баян жаргалтай&lt;/p&gt;&#xA;&lt;p&gt;Ай хөө ай хөө&lt;br&gt;&#xA;Өрнөн хөгжсөн Үзэмчин нутгийнхаа&lt;br&gt;&#xA;Үзэсгэлэнт бүхнийг дуулаад барна уу даа&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ерөөе өө (ᠢᠷᠦᠭᠡᠶ᠎ᠡ ᠡ 祝愿 I wish you)</title>
       <link>http://mulliken.github.io/lyrics/yorooyo-oo/</link>
       <pubDate>Sun, 22 Jan 2023 14:22:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/yorooyo-oo/</guid>
-      <description>Lyrics in Cyrillic Mongolian Үг: Б.Пүрэвсүх
-Ая: Д.Буянравжих МУСТА
-Буцалж байгаа шинийн 8-ны (наймны) цай сүү нь
-Бурам болом дэвжиг гэж ерөөе өө
-Буугаад мордсон замын айл нь
-Буян нь дэлгэрч баяжиг гэж ерөөе өө
-Урдуур гарсан залуу хосуудыг би
-Уурга нь хугархай яваарай! гэж ерөөе
-Араар гарсан амраг хосуудыг би
-Аяга нь хагархай амьдраарай гэж ерөөе
-Ерөөе өө, ерөөе өө
-Есөн үеэрээ жаргаж явахыг ерөөе өө
-Үрийн заяа гуйсан бүсгүйг</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Үг: Б.Пүрэвсүх&lt;br&gt;&#xA;Ая: Д.Буянравжих МУСТА&lt;/p&gt;&#xA;&lt;p&gt;Буцалж байгаа шинийн 8-ны (наймны) цай сүү нь&lt;br&gt;&#xA;Бурам болом дэвжиг гэж ерөөе өө&lt;br&gt;&#xA;Буугаад мордсон замын айл нь&lt;br&gt;&#xA;Буян нь дэлгэрч баяжиг гэж ерөөе өө&lt;/p&gt;&#xA;&lt;p&gt;Урдуур гарсан залуу хосуудыг би&lt;br&gt;&#xA;Уурга нь хугархай яваарай! гэж ерөөе&lt;br&gt;&#xA;Араар гарсан амраг хосуудыг би&lt;br&gt;&#xA;Аяга нь хагархай амьдраарай гэж ерөөе&lt;/p&gt;&#xA;&lt;p&gt;Ерөөе өө, ерөөе өө&lt;br&gt;&#xA;Есөн үеэрээ жаргаж явахыг ерөөе өө&lt;/p&gt;&#xA;&lt;p&gt;Үрийн заяа гуйсан бүсгүйг&lt;br&gt;&#xA;Өнөр бүлтэй ханагар бай гэж ерөөе&lt;br&gt;&#xA;Үйлс нь хазгай яваа залууг&lt;br&gt;&#xA;Хөрөнгө бэлтэй данагар бай гэж ерөөе&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сэнсэн манан (ᠰᠡᠩᠰᠡᠨ ᠮᠠᠨᠠᠨ 蒙蒙的雾 Misty fog) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/sensen-manan/</link>
       <pubDate>Tue, 15 Nov 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/sensen-manan/</guid>
-      <description>Cyrillic Lyrics Сэнсэн манан татлаа доо
-Сэрүүн цагийн униар байна
-Шинэхэн ханилсанаа бодоход
-Сэтгэл минь уярна доо
-Хэсэг хэсэг үүлнээс
-Хэсэг хур нь орох юм байна
-Хэсэг зуурдаа бодоход
-Гэртээ суух дургүй доо
-Listen to the Music Relevant Links https://mp.weixin.qq.com/s/dsx1Mt384DQlPxUWTW4DgQ</description>
+      <description>&lt;h2 id=&#34;cyrillic-lyrics&#34;&gt;Cyrillic Lyrics&lt;/h2&gt;&#xA;&lt;p&gt;Сэнсэн манан татлаа доо&lt;br&gt;&#xA;Сэрүүн цагийн униар байна&lt;br&gt;&#xA;Шинэхэн ханилсанаа бодоход&lt;br&gt;&#xA;Сэтгэл минь уярна доо&lt;/p&gt;&#xA;&lt;p&gt;Хэсэг хэсэг үүлнээс&lt;br&gt;&#xA;Хэсэг хур нь орох юм байна&lt;br&gt;&#xA;Хэсэг зуурдаа бодоход&lt;br&gt;&#xA;Гэртээ суух дургүй доо&lt;/p&gt;&#xA;&lt;h2 id=&#34;listen-to-the-music&#34;&gt;Listen to the Music&lt;/h2&gt;&#xA;&lt;p&gt;&lt;div style=&#34;position: relative; width: 100%; padding-bottom: 46.25%; height: 0; overflow: hidden; margin-top:20px; margin-bottom:20px&#34;&gt; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;iframe allowfullscreen=&#34;&#34; title=&#34;bilibili video&#34; style=&#34;position: absolute; top: 50%;&#xD;&#xA;  left: 50%;&#xD;&#xA;  transform: translate(-50%, -50%);padding:5px; box-sizing: border-box; border:0; width: 80%; height: 100%&#34; src=&#34;//player.bilibili.com/player.html?bvid=BV1mt4y1c74n&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xA;&lt;div style=&#34;position: relative; width: 100%; padding-bottom: 46.25%; height: 0; overflow: hidden; margin-top:20px; margin-bottom:20px&#34;&gt; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;video title=&#34;file video&#34;  controls=&#39;yes&#39; style=&#34;position: absolute; top: 50%;&#xD;&#xA;  left: 50%;&#xD;&#xA;  transform: translate(-50%, -50%);padding:5px; box-sizing: border-box; border:0; width: 80%; height: 100%; background-color: #000000;&#34; src=&#34;http://mulliken.github.io/files/video/sensen-manan.mp4&#34;&gt;&lt;/video&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Хайлаар мөрөн / Хайлуур  мөрөн (ᠬᠠᠶᠢᠯᠤᠭᠤᠷ ᠮᠥᠷᠡᠨ 海拉尔河 Hailar River)</title>
       <link>http://mulliken.github.io/lyrics/hailuur-moron/</link>
       <pubDate>Fri, 11 Nov 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/hailuur-moron/</guid>
-      <description>Cyrillic Lyrics Version 1 Хайлаар мөрөн
-Дуучин: Б.Алтанжаргал
-Хайлаар мөрнийг байхад
-Харзны уснаас уухгүй дээ хө
-Ханилсан амраг минь байхад
-Харсан бүрийтэйгээ тохирохгүй дээ хө
-Улиастайн голыг байхад
-Урсгал уснаас чиг уухгүй дээ хө
-Учирсан амраг минь байхад
-Уулзсан бүрийтэйгээ тохирохгүй дээ хө
-Шилэн дээр унасан цасыг ээ хө
-Ширгэтэл хайлуулдаг нь нар юмаа хө
-Цээжин дэх алаг зүрхийг минь
-Чичрүүлэн догдлуулдаг нь хонгор минь юмаа хө
-Ууланд унасан цасыг ээ хө</description>
+      <description>&lt;h2 id=&#34;cyrillic-lyrics-version-1&#34;&gt;Cyrillic Lyrics Version 1&lt;/h2&gt;&#xA;&lt;p&gt;Хайлаар мөрөн&lt;br&gt;&#xA;Дуучин: Б.Алтанжаргал&lt;/p&gt;&#xA;&lt;p&gt;Хайлаар мөрнийг байхад&lt;br&gt;&#xA;Харзны уснаас уухгүй дээ хө&lt;br&gt;&#xA;Ханилсан амраг минь байхад&lt;br&gt;&#xA;Харсан бүрийтэйгээ тохирохгүй дээ хө&lt;/p&gt;&#xA;&lt;p&gt;Улиастайн голыг байхад&lt;br&gt;&#xA;Урсгал уснаас чиг уухгүй дээ хө&lt;br&gt;&#xA;Учирсан амраг минь байхад&lt;br&gt;&#xA;Уулзсан бүрийтэйгээ тохирохгүй дээ хө&lt;/p&gt;&#xA;&lt;p&gt;Шилэн дээр унасан цасыг ээ хө&lt;br&gt;&#xA;Ширгэтэл хайлуулдаг нь нар юмаа хө&lt;br&gt;&#xA;Цээжин дэх алаг зүрхийг минь&lt;br&gt;&#xA;Чичрүүлэн догдлуулдаг нь хонгор минь юмаа хө&lt;/p&gt;&#xA;&lt;p&gt;Ууланд унасан цасыг ээ хө&lt;br&gt;&#xA;Урстал хайлуулдаг нь нар юмаа хө&lt;br&gt;&#xA;Уяхан зүрхийг минь догдлуулдаг нь&lt;br&gt;&#xA;Учралт хонгор чи минь юмаа хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ордос монгол (ᠣᠷᠳᠣᠰ ᠮᠣᠩᠭᠣᠯ 鄂尔多斯蒙古人 Ordos Mongolian) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/ordos-mongol/</link>
       <pubDate>Sun, 16 Oct 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/ordos-mongol/</guid>
-      <description>Lyrics in Cyrillic Mongolian Мандаж гарах наран нь тунгалаг
-Манай монголын хийморь нь тунгалаг
-Ургаж гарах наран нь тунгалаг
-Ордос монголын (монголчуудын) ухаа нь тунгалаг
-Дэгдэж гарах наран нь тунгалаг
-Дэгжрэх монголын хийморь нь тунгалаг
-Сацарч гарах наран нь тунгалаг
-Сайжрах монголын санаа нь тунгалаг
-Мандаж гарах наран нь тунгалаг
-Манай монголын хийморь нь тунгалаг
-Ургаж гарах наран нь тунгалаг
-Ордос монголын ухаа нь тунгалаг
-Lyrics in Traditional Mongolian ᠣᠷᠳᠣᠰ ᠮᠣᠩᠭᠣᠯ</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Мандаж гарах наран нь тунгалаг&lt;br&gt;&#xA;Манай монголын хийморь нь тунгалаг&lt;br&gt;&#xA;Ургаж гарах наран нь тунгалаг&lt;br&gt;&#xA;Ордос монголын (монголчуудын) ухаа нь тунгалаг&lt;/p&gt;&#xA;&lt;p&gt;Дэгдэж гарах наран нь тунгалаг&lt;br&gt;&#xA;Дэгжрэх монголын хийморь нь тунгалаг&lt;br&gt;&#xA;Сацарч гарах наран нь тунгалаг&lt;br&gt;&#xA;Сайжрах монголын санаа нь тунгалаг&lt;/p&gt;&#xA;&lt;p&gt;Мандаж гарах наран нь тунгалаг&lt;br&gt;&#xA;Манай монголын хийморь нь тунгалаг&lt;br&gt;&#xA;Ургаж гарах наран нь тунгалаг&lt;br&gt;&#xA;Ордос монголын ухаа нь тунгалаг&lt;/p&gt;&#xA;&lt;h2 id=&#34;lyrics-in-traditional-mongolian&#34;&gt;Lyrics in Traditional Mongolian&lt;/h2&gt;&#xA;&lt;div class=&#39;mongol-border&#39;&gt;&#xD;&#xA;&lt;div class=&#39;mongol-box&#39;&gt;&#xD;&#xA;&lt;div class=&#39;mongol-text&#39;&gt;&#xD;&#xA;&lt;p&gt;ᠣᠷᠳᠣᠰ ᠮᠣᠩᠭᠣᠯ&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Үүлэн Хуар  (ᠡᠭᠦᠯᠡᠨᠬᠣᠸᠠᠷ 蔚林花 Uilenhuar the girl) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/uulen-huar/</link>
       <pubDate>Sun, 16 Oct 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/uulen-huar/</guid>
-      <description>Зангуут нуурын хулс нь
-Тарисан биш ургасан юм
-Жаахан багийн Үүлэн Хуар
-Зурсан биш төрсөн юм</description>
+      <description>&lt;p&gt;Зангуут нуурын хулс нь&lt;br&gt;&#xA;Тарисан биш ургасан юм&lt;br&gt;&#xA;Жаахан багийн Үүлэн Хуар&lt;br&gt;&#xA;Зурсан биш төрсөн юм&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Цэнхэр хангай нутаг (ᠴᠡᠩᠬᠡᠷ ᠬᠠᠩᠭᠠᠢ ᠨᠤᠲᠤᠭ 蔚蓝的杭盖故乡 The sky-blue homeland)</title>
       <link>http://mulliken.github.io/lyrics/tsenher-hangain-nutag/</link>
       <pubDate>Mon, 29 Aug 2022 00:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/tsenher-hangain-nutag/</guid>
-      <description>Lyrics in Cyrillic Mongolian Үг: Түвшинжаргал Ая: Гунаажав
-Уул үүл нь нийлэн харагдах
-Умрын цэнхэр хангай минь ээ хө
-Унтах нойронд үзэгдээд байдаг
-Усыг нь уусан нутаг минь ээ хө
-Хангай наранхан аав минь
-Сүргээ хариулсан нутаг аа хө
-Халхын саран гоо ээж минь ээ
-Сүүгээ өргөсөн нутаг аа хө
-Мөрөн гол нь шуугин урсдаг
-Мөнхийн цэнхэр хангай минь ээ хө
-Мөрөө гаргаж тоглож өссөн
-Мөрөөдөл болсон нутаг минь ээ хө</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Үг: Түвшинжаргал   Ая: Гунаажав&lt;/p&gt;&#xA;&lt;p&gt;Уул үүл нь нийлэн харагдах&lt;br&gt;&#xA;Умрын цэнхэр хангай минь ээ хө&lt;br&gt;&#xA;Унтах нойронд үзэгдээд байдаг&lt;br&gt;&#xA;Усыг нь уусан нутаг минь ээ хө&lt;/p&gt;&#xA;&lt;p&gt;Хангай наранхан аав минь&lt;br&gt;&#xA;Сүргээ хариулсан нутаг аа хө&lt;br&gt;&#xA;Халхын саран гоо ээж минь ээ&lt;br&gt;&#xA;Сүүгээ өргөсөн нутаг аа хө&lt;/p&gt;&#xA;&lt;p&gt;Мөрөн гол нь шуугин урсдаг&lt;br&gt;&#xA;Мөнхийн цэнхэр хангай минь ээ хө&lt;br&gt;&#xA;Мөрөө гаргаж тоглож өссөн&lt;br&gt;&#xA;Мөрөөдөл болсон нутаг минь ээ хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Цэвэр охин (ᠴᠡᠪᠡᠷ ᠥᠬᠢᠨ 纯洁的少女 A pure girl)</title>
       <link>http://mulliken.github.io/lyrics/tsever-ohin/</link>
       <pubDate>Wed, 29 Jun 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/tsever-ohin/</guid>
-      <description>Cyrillic Mongolian Lyrics Жирвийсэн хөмсөгтэй жимсэн улаан хацартай
-Зүйтэй төрсөн цэвэр (тэр нэг) охин доо хө хө
-Зүгээрэнхэн зүгээрэнхэн сууя гэсэн чинь
-Зүүдэнд ороод амруулсангүй хө хө
-Эргүүлэн самнасан үсий нь хэлбэл
-Эрээн лууны эврээс өөрцгүй хө
-Эргэлдээд харах хоёр нүд нь
-Эрээн эрвээхий нисэхээс өөрцгүй хө хө
-Хүзүүний нь цагааныг хэлэх юм бол
-Хөвөн зулснаас юуны өөр вэ хө
-Хөлөрсөн хөлсийг нь үнэрлээд үзвэл
-Хүдрийн заарнаас юуны өөр вэ</description>
+      <description>&lt;h2 id=&#34;cyrillic-mongolian-lyrics&#34;&gt;Cyrillic Mongolian Lyrics&lt;/h2&gt;&#xA;&lt;p&gt;Жирвийсэн хөмсөгтэй жимсэн улаан хацартай&lt;br&gt;&#xA;Зүйтэй төрсөн цэвэр (тэр нэг) охин доо хө хө&lt;br&gt;&#xA;Зүгээрэнхэн зүгээрэнхэн сууя гэсэн чинь&lt;br&gt;&#xA;Зүүдэнд ороод амруулсангүй хө хө&lt;/p&gt;&#xA;&lt;p&gt;Эргүүлэн самнасан үсий нь хэлбэл&lt;br&gt;&#xA;Эрээн лууны эврээс өөрцгүй хө&lt;br&gt;&#xA;Эргэлдээд харах хоёр нүд нь&lt;br&gt;&#xA;Эрээн эрвээхий нисэхээс өөрцгүй хө хө&lt;/p&gt;&#xA;&lt;p&gt;Хүзүүний нь цагааныг хэлэх юм бол&lt;br&gt;&#xA;Хөвөн зулснаас юуны өөр вэ хө&lt;br&gt;&#xA;Хөлөрсөн хөлсийг нь үнэрлээд үзвэл&lt;br&gt;&#xA;Хүдрийн заарнаас юуны өөр вэ&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Миний аав адуучин хүн (ᠮᠢᠨᠦ ᠠᠪᠤ ᠠᠳᠤᠭᠤᠴᠢᠨ ᠬᠦᠮᠦᠨ 我的父亲是牧马人 My father is a horse herder)</title>
       <link>http://mulliken.github.io/lyrics/minii-aav-aduuchin-hun/</link>
       <pubDate>Tue, 14 Jun 2022 11:01:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/minii-aav-aduuchin-hun/</guid>
-      <description>Lyrics in Cyrillic Mongolian Амин хайртай миний аав аа
-Адууныхаа бэлчээрт дуулдаг хүн байсан
-Бага наснаас чихэнд хоногшсон
-Баргил хоолойтой дуучин хүн байсан
-Миний аав дуучин хүн
-Миний аав адуучин хүн
-Ороо морьны ганган толгойд
-Уургынхаа хуйвыг алдаж үзээгүй
-Онцоос хайртай миний аав аа
-Олондоо нэртэй дуучин хүн байсан
-Миний аав дуучин хүн
-Миний аав адуучин хүн
-Хүлгийн төвөргөөнд намайг бүүвэйлсэн
-Хөрслөг аав минь адуучин хүн байсан
-Уртын дуугаар намайг бүүвэйлсэн</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Амин хайртай миний аав аа&lt;br&gt;&#xA;Адууныхаа бэлчээрт дуулдаг хүн байсан&lt;br&gt;&#xA;Бага наснаас чихэнд хоногшсон&lt;br&gt;&#xA;Баргил хоолойтой дуучин хүн байсан&lt;/p&gt;&#xA;&lt;p&gt;Миний аав дуучин хүн&lt;br&gt;&#xA;Миний аав адуучин хүн&lt;/p&gt;&#xA;&lt;p&gt;Ороо морьны ганган толгойд&lt;br&gt;&#xA;Уургынхаа хуйвыг алдаж үзээгүй&lt;br&gt;&#xA;Онцоос хайртай миний аав аа&lt;br&gt;&#xA;Олондоо нэртэй дуучин хүн байсан&lt;/p&gt;&#xA;&lt;p&gt;Миний аав дуучин хүн&lt;br&gt;&#xA;Миний аав адуучин хүн&lt;/p&gt;&#xA;&lt;p&gt;Хүлгийн төвөргөөнд намайг бүүвэйлсэн&lt;br&gt;&#xA;Хөрслөг аав минь адуучин хүн байсан&lt;br&gt;&#xA;Уртын дуугаар намайг бүүвэйлсэн&lt;br&gt;&#xA;Ухаант аав минь дуучин хүн байсан&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Үүлэн цэнхэр хангай (ᠡᠭᠦᠯᠡᠨ ᠴᠡᠩᠬᠡᠷ ᠬᠠᠩᠭᠠᠢ 蔚蓝色的杭盖 Cloudy blue khangai)</title>
       <link>http://mulliken.github.io/lyrics/uulen-tsenher-hangai/</link>
       <pubDate>Thu, 09 Jun 2022 00:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/uulen-tsenher-hangai/</guid>
-      <description>Lyrics in Cyrillic Mongolian Үүлэн цэнхэр хангай
-Шүлэг: Б.Лхагвасүрэн /МУСГЗ, АУЗ/
-Аялгуу: Ц.Чинзориг /Төрийн соёрхолт, МУСТА/
-Үүл гижигдэн найгах
-Арын номин шугуй
-Үрэл бурман жимс нь
-Атганд унагадаг хангай
-Өглөө дуулсан дуу минь
-Өдөржин хургадаг шугуй
-Нөмгөн цагаан манан
-Нөмөрт нь хоргоддог хангай
-Зэрлэг халиун буга нь
-Мөчрийг нь хөнддөггүй шугуй
-Зүс нь цоохор янзага нь
-Сөгдөж төрдөг хангай
-Хотлын мэлмийд үнсүүлсэн
-Үндэс бүтэн шугуй
-Хорж хотойхын учиргүй
-Үүлэн цэнхэр хангай.</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Үүлэн цэнхэр хангай&lt;br&gt;&#xA;Шүлэг: Б.Лхагвасүрэн /МУСГЗ, АУЗ/&lt;br&gt;&#xA;Аялгуу: Ц.Чинзориг /Төрийн соёрхолт, МУСТА/&lt;/p&gt;&#xA;&lt;p&gt;Үүл гижигдэн найгах&lt;br&gt;&#xA;Арын номин шугуй&lt;br&gt;&#xA;Үрэл бурман жимс нь&lt;br&gt;&#xA;Атганд унагадаг хангай&lt;/p&gt;&#xA;&lt;p&gt;Өглөө дуулсан дуу минь&lt;br&gt;&#xA;Өдөржин хургадаг шугуй&lt;br&gt;&#xA;Нөмгөн цагаан манан&lt;br&gt;&#xA;Нөмөрт нь хоргоддог хангай&lt;/p&gt;&#xA;&lt;p&gt;Зэрлэг халиун буга нь&lt;br&gt;&#xA;Мөчрийг нь хөнддөггүй шугуй&lt;br&gt;&#xA;Зүс нь цоохор янзага нь&lt;br&gt;&#xA;Сөгдөж төрдөг хангай&lt;/p&gt;&#xA;&lt;p&gt;Хотлын мэлмийд үнсүүлсэн&lt;br&gt;&#xA;Үндэс бүтэн шугуй&lt;br&gt;&#xA;Хорж хотойхын учиргүй&lt;br&gt;&#xA;Үүлэн цэнхэр хангай.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discretizing a continuum using the Gaussian-Legendre quadrature</title>
       <link>http://mulliken.github.io/post/gaussian-quadrature-discretization/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/post/gaussian-quadrature-discretization/</guid>
-      <description>A prototypical model for condensed-phase chemical reactions is the spin-boson model: a two-level spin coupled to a continuum of vibrations (bosons). The spin-boson Hamiltonian is
-\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger + a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}} x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]
-Assuming $\rho(x)=1$, to discretize the continuum of bosons, we approximate the integral $\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger + a_{x})\mathrm{d}x$ by
-\[ \sum_{n=1}^N \left\{ h(x_n) (a_{x_n}^\dagger + a_{x_n})W_n \right\} \]</description>
+      <description>&lt;p&gt;A prototypical model for condensed-phase chemical reactions is the spin-boson model: a two-level spin coupled to a continuum of vibrations (bosons). The spin-boson Hamiltonian is&lt;br&gt;&#xA;&lt;code&gt;\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger +  a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}}  x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]&lt;/code&gt;&lt;br&gt;&#xA;Assuming &lt;code&gt;$\rho(x)=1$&lt;/code&gt;, to discretize the continuum of bosons, we approximate the integral &lt;code&gt;$\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger +  a_{x})\mathrm{d}x$&lt;/code&gt; by&lt;br&gt;&#xA;&lt;code&gt;\[ \sum_{n=1}^N \left\{  h(x_n) (a_{x_n}^\dagger +  a_{x_n})W_n \right\} \]&lt;/code&gt;&lt;br&gt;&#xA;where&lt;br&gt;&#xA;&lt;code&gt;\[ W_n = \int_0^{x_\mathrm{max}} \frac{\prod_{m\neq n}(x-x_m)}{\prod_{m\neq n}(x_n-x_m)} \mathrm{d}x \]&lt;/code&gt;&lt;br&gt;&#xA;The integrand of &lt;code&gt;$W_n$&lt;/code&gt; is a Lagrange interpolating polynomial. &lt;code&gt;$W_n$&lt;/code&gt; is the weight for the Gaussian quadrature. It has been shown&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; that the approximation (when &lt;code&gt;N&amp;lt;\infty&lt;/code&gt;) is the best if the nodes &lt;code&gt;$\{x_m\}$&lt;/code&gt; are the roots of the N-th order Legendre polynomials over the integration interval &lt;code&gt;$[0,x_\mathrm{max}]$&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Дугуй малгай (ᠳᠤᠭᠤᠢ ᠮᠠᠯᠠᠭᠠᠢ 圆顶帽 A Round Hat) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/dvgui-malgai/</link>
       <pubDate>Mon, 23 May 2022 11:01:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/dvgui-malgai/</guid>
-      <description>Lyrics in Cyrillic Mongolian Дугуй малгай
-Ордос ардын дуу
-Ая найруулагч : цогбилэг
-Хавсрол хөгжимгүй найрал дуу
-Дуучин : амин хамтлаг
-Дугуй (ё) малгай чинь духан дээр нь байна
-Дундуур (ё) санаа чинь цээжин дээр нь байна
-Дугуй (ё) номхон Номиндалай хөө
-Номхон шулуунаараа галхилзуулъя доо
-Сайвар лондон хуар сайх (ё) ларз и чинь дурдвал юу байна доо
-Дурдвал дурдатгали доо
-Дуулж байгаад найрлаж байгаад дур и чинь авъя доо</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Дугуй малгай&lt;br&gt;&#xA;Ордос ардын дуу&lt;/p&gt;&#xA;&lt;p&gt;Ая найруулагч :  цогбилэг&lt;/p&gt;&#xA;&lt;p&gt;Хавсрол хөгжимгүй найрал дуу&lt;/p&gt;&#xA;&lt;p&gt;Дуучин : амин хамтлаг&lt;/p&gt;&#xA;&lt;p&gt;Дугуй (ё) малгай чинь духан дээр нь байна&lt;br&gt;&#xA;Дундуур (ё) санаа чинь цээжин дээр нь байна&lt;br&gt;&#xA;Дугуй (ё)  номхон Номиндалай хөө&lt;br&gt;&#xA;Номхон шулуунаараа галхилзуулъя доо&lt;/p&gt;&#xA;&lt;p&gt;Сайвар лондон хуар сайх (ё) ларз и чинь дурдвал юу байна доо&lt;br&gt;&#xA;Дурдвал дурдатгали доо&lt;br&gt;&#xA;Дуулж байгаад найрлаж байгаад дур и чинь авъя доо&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The golden-rule electron transfer rate for a multi-state system</title>
       <link>http://mulliken.github.io/post/fermi-s-golden-rule-multi-state/</link>
       <pubDate>Tue, 17 May 2022 02:07:40 -0330</pubDate>
-      
       <guid>http://mulliken.github.io/post/fermi-s-golden-rule-multi-state/</guid>
-      <description>Second-order Fermi&amp;rsquo;s golden rule rate for a two-acceptor electron transfer model A vibronic Hamiltonian1 of a 3-state electron-transfer system with a single donor and two acceptors is $\hat{H}_0+\hat{V}$.
-\begin{align} \hat{H}_{0}&amp;amp;=\hat{h}_{a}\left|a\right\rangle \left\langle a\right|+\hat{h}_{b}\left|b\right\rangle \left\langle b\right|+\hat{h}_{c}\left|c\right\rangle \left\langle c\right|\\ V&amp;amp;=g_{ab}\left|a\right\rangle \left\langle b\right|+g_{ac}\left|a\right\rangle \left\langle c\right|+g_{bc}\left|b\right\rangle \left\langle c\right|+h.c. \end{align}
-In this Hamiltonian, $\ket{a}$ is the donor state and $\ket{b}$ and $\ket{c}$ are the two acceptor states. If the electronic couplings among $a$, $b$, and $c$ are small, the electron transfer rate can be calculated by using Fermi&amp;rsquo;s golden rule.</description>
+      <description>&lt;h2 id=&#34;second-order-fermis-golden-rule-rate-for-a-two-acceptor-electron-transfer-model&#34;&gt;Second-order Fermi&amp;rsquo;s golden rule rate for a two-acceptor electron transfer model&lt;/h2&gt;&#xA;&lt;p&gt;A vibronic Hamiltonian&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of a 3-state electron-transfer system with a single donor and two acceptors is &lt;code&gt;$\hat{H}_0+\hat{V}$&lt;/code&gt;.&lt;br&gt;&#xA;&lt;code&gt;\begin{align} \hat{H}_{0}&amp;amp;=\hat{h}_{a}\left|a\right\rangle \left\langle a\right|+\hat{h}_{b}\left|b\right\rangle \left\langle b\right|+\hat{h}_{c}\left|c\right\rangle \left\langle c\right|\\ V&amp;amp;=g_{ab}\left|a\right\rangle \left\langle b\right|+g_{ac}\left|a\right\rangle \left\langle c\right|+g_{bc}\left|b\right\rangle \left\langle c\right|+h.c. \end{align}&lt;/code&gt;&lt;br&gt;&#xA;In this Hamiltonian, &lt;code&gt;$\ket{a}$&lt;/code&gt; is the donor state and &lt;code&gt;$\ket{b}$&lt;/code&gt; and &lt;code&gt;$\ket{c}$&lt;/code&gt; are the two acceptor states. If the electronic couplings among &lt;code&gt;$a$&lt;/code&gt;, &lt;code&gt;$b$&lt;/code&gt;, and &lt;code&gt;$c$&lt;/code&gt; are small, the electron transfer rate can be calculated by using Fermi&amp;rsquo;s golden rule. To do this, we turn to the interaction picture and calculate the propagator up to the second order.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Дэнжт тохой (ᠳᠡᠨᠵᠢᠲᠦ ᠲᠣᠬᠣᠢ 登吉图湾/丁吉图湾/台地湾 The river band) [Ордос ардын дуу 鄂尔多斯民歌]</title>
       <link>http://mulliken.github.io/lyrics/denjit-tohoi/</link>
       <pubDate>Mon, 09 May 2022 11:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/denjit-tohoi/</guid>
-      <description>Lyrics in Cyrillic Mongolian Version 1 Дэнжит тохой манай нутаг шүү
-Дэнсэлгэсэн хүмүүн байвал манай садан шүү
-Цайдам ё тохой чинь манай нутаг шүү
-Чанд сэтгэл чинь газрын холоос шүү
-Адуундаа явахыг минь байлгавал байлга доо
-Амрагтайгаа золгох и хэн цоо байлгах юм доо
-Хониндоо явах и минь байлгавал байлга доо
-Хонгортойгоо золгох и хэн цоо байлгах юм доо
-Манхандаа явах и минь байлгавал байлга доо
-Маахайгаа оёод өг и хэн цоо байлгах юм доо</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;h4 id=&#34;version-1&#34;&gt;Version 1&lt;/h4&gt;&#xA;&lt;p&gt;Дэнжит тохой манай нутаг шүү&lt;br&gt;&#xA;Дэнсэлгэсэн хүмүүн байвал манай садан шүү&lt;/p&gt;&#xA;&lt;p&gt;Цайдам ё тохой чинь манай нутаг шүү&lt;br&gt;&#xA;Чанд сэтгэл чинь газрын холоос шүү&lt;/p&gt;&#xA;&lt;p&gt;Адуундаа явахыг минь байлгавал байлга доо&lt;br&gt;&#xA;Амрагтайгаа золгох и хэн цоо байлгах юм доо&lt;br&gt;&#xA;Хониндоо явах и минь байлгавал байлга доо&lt;br&gt;&#xA;Хонгортойгоо золгох и хэн цоо байлгах юм доо&lt;/p&gt;&#xA;&lt;p&gt;Манхандаа явах и минь байлгавал байлга доо&lt;br&gt;&#xA;Маахайгаа оёод өг и хэн цоо байлгах юм доо&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Би монгол хүн (ᠪᠢ ᠮᠣᠩᠭᠣᠯ ᠬᠦᠮᠦᠨ  蒙古人/我是蒙古人 I am Mongol)</title>
       <link>http://mulliken.github.io/lyrics/mongol-hun/</link>
       <pubDate>Sat, 23 Apr 2022 00:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/mongol-hun/</guid>
-      <description>Lyrics in Cyrillic Mongolian Үг: Ч.Чимид
-Ая: С. Тэнгэр
-Аргалын утаа боргилсон
-Малчны гэрт төрсөн би
-Атар хээр нутгаа
-Өлгий минь гэж боддог
-Унасан энэ нутагтаа би
-Өөрийн бие шиг хайрлаж
-Угаасан тунгалаг мөрнөө
-Эхийн сүү шиг санадаг
-Энэ хүн Монгол хүн
-Эх орондоо хайртай хүн
-Цэнхэр манан суунагласан
-Алсын барааг ширтээд
-Цэлгэр сайхан нутгаа
-Сэтгэл бахдан харахад
-Энэ хүн Монгол хүн
-Эх орондоо хайртай хүн
-Lyrics in Traditional Mongolian ᠦᠭᠡ᠄ ᠴ · ᠴᠢᠮᠡᠳ</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Үг: Ч.Чимид&lt;br&gt;&#xA;Ая: С. Тэнгэр&lt;/p&gt;&#xA;&lt;p&gt;Аргалын утаа боргилсон&lt;br&gt;&#xA;Малчны гэрт төрсөн би&lt;br&gt;&#xA;Атар хээр нутгаа&lt;br&gt;&#xA;Өлгий минь гэж боддог&lt;/p&gt;&#xA;&lt;p&gt;Унасан энэ нутагтаа би&lt;br&gt;&#xA;Өөрийн бие шиг хайрлаж&lt;br&gt;&#xA;Угаасан тунгалаг мөрнөө&lt;br&gt;&#xA;Эхийн сүү шиг санадаг&lt;/p&gt;&#xA;&lt;p&gt;Энэ хүн Монгол хүн&lt;br&gt;&#xA;Эх орондоо хайртай хүн&lt;/p&gt;&#xA;&lt;p&gt;Цэнхэр манан суунагласан&lt;br&gt;&#xA;Алсын барааг ширтээд&lt;br&gt;&#xA;Цэлгэр сайхан нутгаа&lt;br&gt;&#xA;Сэтгэл бахдан харахад&lt;/p&gt;&#xA;&lt;p&gt;Энэ хүн Монгол хүн&lt;br&gt;&#xA;Эх орондоо хайртай хүн&lt;/p&gt;&#xA;&lt;h2 id=&#34;lyrics-in-traditional-mongolian&#34;&gt;Lyrics in Traditional Mongolian&lt;/h2&gt;&#xA;&lt;div class=&#39;mongol-border&#39;&gt;&#xD;&#xA;&lt;div class=&#39;mongol-box&#39;&gt;&#xD;&#xA;&lt;div class=&#39;mongol-text&#39;&gt;&#xD;&#xA;&lt;p&gt;ᠦᠭᠡ᠄ ᠴ · ᠴᠢᠮᠡᠳ&lt;br&gt;&#xA;ᠠᠶ᠎ᠠ᠄ ᠰ · ᠲᠩᠷᠢ&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Өвөрхангайн магтаал (ᠥᠪᠦᠷᠬᠠᠩᠭᠠᠢ ᠶᠢᠨ ᠮᠠᠭᠲᠠᠭᠠᠯ 前杭盖之赞/欧布日杭盖赞 A Paean to Övörkhangai/Southern Khangai)</title>
       <link>http://mulliken.github.io/lyrics/uvurhangain-magtaal/</link>
       <pubDate>Fri, 22 Apr 2022 00:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/uvurhangain-magtaal/</guid>
-      <description>Lyrics in Cyrillic Mongolian Үг: Д.Пүрэвдорж
-Сайхан хун жигүүр амраана
-Сангийн далайд чуулах үеэр
-Тэнгис талын сүрэг бэлчин
-Тэнгэрийн заадас шиг тоосрон байдаг
-Хөвч ногоон уулын хангай
-Хөшиг номин талын хангай
-Уужим цэнхэр говийн хангай
-Унаган нутаг минь Өвөрхангай
-Намрын хүйтэн уулан дунд
-Найман нуур уйлах цагаар
-Наран хайлах хонгор говийн
-Нарийн таана хээнзлэн байдаг
-Хөвч ногоон уулын хангай
-Хөшиг номин талын хангай
-Уужим цэнхэр говийн хангай
-Унаган нутаг минь Өвөрхангай</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Үг: &lt;a href=&#34;https://mn.wikipedia.org/wiki/%D0%94%D1%8D%D0%BD%D0%B4%D1%8D%D0%B2%D0%B8%D0%B9%D0%BD_%D0%9F%D2%AF%D1%80%D1%8D%D0%B2%D0%B4%D0%BE%D1%80%D0%B6&#34;&gt;Д.Пүрэвдорж&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Сайхан хун жигүүр амраана&lt;br&gt;&#xA;Сангийн далайд чуулах үеэр&lt;br&gt;&#xA;Тэнгис талын сүрэг бэлчин&lt;br&gt;&#xA;Тэнгэрийн заадас шиг тоосрон байдаг&lt;/p&gt;&#xA;&lt;p&gt;Хөвч ногоон уулын хангай&lt;br&gt;&#xA;Хөшиг номин талын хангай&lt;br&gt;&#xA;Уужим цэнхэр говийн хангай&lt;br&gt;&#xA;Унаган нутаг минь Өвөрхангай&lt;/p&gt;&#xA;&lt;p&gt;Намрын хүйтэн уулан дунд&lt;br&gt;&#xA;Найман нуур уйлах цагаар&lt;br&gt;&#xA;Наран хайлах хонгор говийн&lt;br&gt;&#xA;Нарийн таана хээнзлэн байдаг&lt;/p&gt;&#xA;&lt;p&gt;Хөвч ногоон уулын хангай&lt;br&gt;&#xA;Хөшиг номин талын хангай&lt;br&gt;&#xA;Уужим цэнхэр говийн хангай&lt;br&gt;&#xA;Унаган нутаг минь Өвөрхангай&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Монгол нутаг (ᠮᠣᠩᠭᠣᠯ ᠨᠤᠲᠤᠭ 蒙古赞 Mongolian homeland)</title>
       <link>http://mulliken.github.io/lyrics/mongol-nutag/</link>
       <pubDate>Sun, 17 Apr 2022 20:20:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/mongol-nutag/</guid>
-      <description>Lyrics in Cyrillic Mongolian Үг, ая: Саруулсайхан
-Уудам цэлгэр нутагтай
-Уртын сайхан дуутай
-Морин хуурын эгшигтэй
-Монгол түмний минь нутаг аа
-Танан цагаан өргөө минь
-Таван эрдэнийн сүрэг минь
-Ардын эрхэм заншил минь
-Амин эрдэнийн өлгий минь
-Дх: Хайрлан дуулмаар сайхан нутаг минь
-Хаа ч явсан сэтгэлээс уяатай
-Унасан газар угаасан ус минь
-Угаас хайртай монгол нутаг минь
-Эртний домогт үнэн түүхтэй
-Эцэг өвгөдийн сургаальтай
-Эзэн хаадын минь шүтээнтэй
-Энхрий монгол орон минь</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Үг, ая: Саруулсайхан&lt;/p&gt;&#xA;&lt;p&gt;Уудам цэлгэр нутагтай&lt;br&gt;&#xA;Уртын сайхан дуутай&lt;br&gt;&#xA;Морин хуурын эгшигтэй&lt;br&gt;&#xA;Монгол түмний минь нутаг аа&lt;/p&gt;&#xA;&lt;p&gt;Танан цагаан өргөө минь&lt;br&gt;&#xA;Таван эрдэнийн сүрэг минь&lt;br&gt;&#xA;Ардын эрхэм заншил минь&lt;br&gt;&#xA;Амин эрдэнийн өлгий минь&lt;/p&gt;&#xA;&lt;p&gt;Дх: Хайрлан дуулмаар сайхан нутаг минь&lt;br&gt;&#xA;Хаа ч явсан сэтгэлээс уяатай&lt;br&gt;&#xA;Унасан газар угаасан ус минь&lt;br&gt;&#xA;Угаас хайртай монгол нутаг минь&lt;/p&gt;&#xA;&lt;p&gt;Эртний домогт үнэн түүхтэй&lt;br&gt;&#xA;Эцэг өвгөдийн сургаальтай&lt;br&gt;&#xA;Эзэн хаадын минь шүтээнтэй&lt;br&gt;&#xA;Энхрий монгол орон минь&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Малчин миний жаргал (ᠮᠠᠯᠴᠢᠨ ᠮᠢᠨᠤ ᠵᠢᠷᠭᠠᠯ 牧民的幸福 Herdsman&#39;s happiness)</title>
       <link>http://mulliken.github.io/lyrics/malchin-minii-jargal/</link>
       <pubDate>Sat, 09 Apr 2022 00:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/malchin-minii-jargal/</guid>
-      <description>Шүлэг: Г. Шарүү
-Ая: Сайнцогт
-MIDI хөгжим: Тунгалаг
-Lyrics in Cyrillic Mongolian Энгэртээ униар гүвэлзүүлсэн
-Эрдэнэт сайхан хайрхон минь
-Элгэндээ цэцэг мяралзуулсан
-Эн үгүй ногоон тал минь
-Энэ сайхан нутгийнхаа эзэн нь болж яваа
-Малчин миний жаргал , малчин миний жаргал
-Хотоор дүүрэн ярайсан
-Гүвэн цагаан сүрэг минь
-Хонхроор бялхан тархдаг
-Хулан чигтэй адуу минь
-Энэ сайхан хөрөнгийнхөө эзэн нь болж яваа
-Малчин миний жаргал , малчин миний жаргал байна</description>
+      <description>&lt;p&gt;Шүлэг:  Г. Шарүү&lt;br&gt;&#xA;Ая: Сайнцогт&lt;br&gt;&#xA;MIDI хөгжим: Тунгалаг&lt;/p&gt;&#xA;&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Энгэртээ униар гүвэлзүүлсэн&lt;br&gt;&#xA;Эрдэнэт сайхан хайрхон минь&lt;br&gt;&#xA;Элгэндээ цэцэг мяралзуулсан&lt;br&gt;&#xA;Эн үгүй ногоон тал минь&lt;br&gt;&#xA;Энэ сайхан нутгийнхаа эзэн нь болж яваа&lt;br&gt;&#xA;Малчин миний жаргал , малчин миний жаргал&lt;/p&gt;&#xA;&lt;p&gt;Хотоор дүүрэн ярайсан&lt;br&gt;&#xA;Гүвэн цагаан сүрэг минь&lt;br&gt;&#xA;Хонхроор бялхан тархдаг&lt;br&gt;&#xA;Хулан чигтэй адуу минь&lt;br&gt;&#xA;Энэ сайхан хөрөнгийнхөө эзэн нь болж яваа&lt;br&gt;&#xA;Малчин миний жаргал , малчин миний жаргал байна&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Миний нутгийн бараа (ᠮᠢᠨᠦ ᠨᠤᠲᠤᠭ ᠤᠨ ᠪᠠᠷ᠎ᠠ 故乡情歌/故乡的倩影 Silhouette of my homeland)</title>
       <link>http://mulliken.github.io/lyrics/minii-nutgiin-baraa/</link>
       <pubDate>Sat, 09 Apr 2022 00:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/minii-nutgiin-baraa/</guid>
-      <description>Lyrics in Cyrillic Mongolian Үг. Ш. Сүрэнжав
-Ая. Д. Баттөмөр
-Газрын холоос цайвалзсан
-Ганган цагаан хот (гэрүүд) байна хө
-Ганцхан насанд заяасан
-Миний нутгийн бараа юу даа хө.
-Сүргийн бэлчээр чимэглсэн
-Сүйхэн цагаан гэрүүд байна хө
-Сүүгээ өргөж (өргөөд) хоцорсон
-Миний ээжийн өргөө юу даа хө
-Хоолойн цээлийг бахдуулсан
-Хонгор бүсгүйн дуулал байна хө
-Холын холоос санагдсан
-Миний амрагийн бараа юу даа хө.
-Өндөр тэнгэрийг мөрлөсөн
-Үүлэн цэнхэр уулс байна хө</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Үг. Ш. Сүрэнжав&lt;br&gt;&#xA;Ая. Д. Баттөмөр&lt;/p&gt;&#xA;&lt;p&gt;Газрын холоос цайвалзсан&lt;br&gt;&#xA;Ганган цагаан хот (гэрүүд) байна хө&lt;br&gt;&#xA;Ганцхан насанд заяасан&lt;br&gt;&#xA;Миний нутгийн бараа юу даа хө.&lt;/p&gt;&#xA;&lt;p&gt;Сүргийн бэлчээр чимэглсэн&lt;br&gt;&#xA;Сүйхэн цагаан гэрүүд байна хө&lt;br&gt;&#xA;Сүүгээ өргөж (өргөөд) хоцорсон&lt;br&gt;&#xA;Миний ээжийн өргөө юу даа хө&lt;/p&gt;&#xA;&lt;p&gt;Хоолойн цээлийг бахдуулсан&lt;br&gt;&#xA;Хонгор бүсгүйн дуулал байна хө&lt;br&gt;&#xA;Холын холоос санагдсан&lt;br&gt;&#xA;Миний амрагийн бараа юу даа хө.&lt;/p&gt;&#xA;&lt;p&gt;Өндөр тэнгэрийг мөрлөсөн&lt;br&gt;&#xA;Үүлэн цэнхэр уулс байна хө&lt;br&gt;&#xA;Үргэлж наддаа (надад) зүүдлэгдсэн&lt;br&gt;&#xA;Миний нутгийн бараа юу даа хө.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quantum process tomography and the transfer tensor method for long-time non-Markovian dynamics</title>
       <link>http://mulliken.github.io/post/quantum-process-tomography-and-transfer-tensors/</link>
       <pubDate>Tue, 05 Apr 2022 12:07:40 -0400</pubDate>
-      
       <guid>http://mulliken.github.io/post/quantum-process-tomography-and-transfer-tensors/</guid>
-      <description>Motivation Predicting long-time dynamics from short-time information is a promising way of studying how equilibrium is approached for an open quantum system starting from a non-equilibrium initial condition.
-This post discusses one of the prediction methods for long-time open system dynamics, the transfer tensor method (TTM)1. The TTM is based on (i) the Nakajima-Zwanzig equation of an open quantum system [Eq. (1)], and (ii) the assumption that the state of the open system at a time $t$ is barely correlated with the state at $t&#39;$ if $|t-t&#39;|$ is greater than a certain threshold.</description>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;Predicting long-time dynamics from short-time information is a promising way of studying how equilibrium is approached for an open quantum system starting from a non-equilibrium initial condition.&lt;/p&gt;&#xA;&lt;p&gt;This post discusses one of the prediction methods for long-time open system dynamics, the transfer tensor method (TTM)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The TTM is based on (i) the Nakajima-Zwanzig equation of an open quantum system [Eq. (1)], and (ii) the assumption that the state of the open system at a time &lt;code&gt;$t$&lt;/code&gt; is barely correlated with the state at &lt;code&gt;$t&#39;$&lt;/code&gt; if &lt;code&gt;$|t-t&#39;|$&lt;/code&gt; is greater than a certain threshold.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сүнжидмаа (ᠰᠦᠨᠵᠢᠳᠮ᠎ᠠ 孙吉徳玛/森吉徳玛 Sunjidmaa)</title>
       <link>http://mulliken.github.io/lyrics/sunjidmaa/</link>
       <pubDate>Tue, 29 Mar 2022 22:20:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/sunjidmaa/</guid>
-      <description>Алсаас чиг газраас зориод ирэвээ хө ай хө
-Амраг Сүнжидмаагаа гэсээр ирлээ дээ хө
-Арвуулаа болоод хориулаа
-Аашилж загнаад байхаар нь хө
-Ай Сүнжидмаа минь хө ай хө
-Айлыг чинь тойроод хэсүүчилсээр яваад
-Арав гаруй хонолоо доо
-Ай хөөрхий Сүнжидмаа минь хө
-Хангай хааны хайрхан уул шиг
-Ханагархан цээжинд чинь ээ ай хө
-Хангарьдын тэнхээг нуусан
-Халуун зүрх бас бий шүү хө
-Харзаар ундаалж хадыг дэрлэсэн ч
-Хайрын сэтгэл нөмөрлөө дөө хө</description>
+      <description>&lt;p&gt;Алсаас чиг газраас зориод ирэвээ хө ай хө&lt;br&gt;&#xA;Амраг Сүнжидмаагаа гэсээр ирлээ дээ хө&lt;br&gt;&#xA;Арвуулаа болоод хориулаа&lt;br&gt;&#xA;Аашилж загнаад байхаар нь хө&lt;br&gt;&#xA;Ай Сүнжидмаа минь хө ай хө&lt;br&gt;&#xA;Айлыг чинь тойроод хэсүүчилсээр яваад&lt;br&gt;&#xA;Арав гаруй хонолоо доо&lt;br&gt;&#xA;Ай хөөрхий Сүнжидмаа минь хө&lt;/p&gt;&#xA;&lt;p&gt;Хангай хааны хайрхан уул шиг&lt;br&gt;&#xA;Ханагархан цээжинд чинь ээ ай хө&lt;br&gt;&#xA;Хангарьдын тэнхээг нуусан&lt;br&gt;&#xA;Халуун зүрх бас бий шүү хө&lt;br&gt;&#xA;Харзаар ундаалж хадыг дэрлэсэн ч&lt;br&gt;&#xA;Хайрын сэтгэл нөмөрлөө дөө хө&lt;br&gt;&#xA;Ай замбуулин хорвоо минь ээ хө ай хө&lt;br&gt;&#xA;Халагаа бартал хамтдаа дуулан&lt;br&gt;&#xA;Ханилан суухад гомдолгүй еэ хө&lt;br&gt;&#xA;Ай хөөрхий заяа минь ээ хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Үйтэн хуар (ᠦᠢᠲᠦᠩ ᠬᠤᠸᠠᠷ 微藤花/微腾花 Uiten flower)</title>
       <link>http://mulliken.github.io/lyrics/uiten-huar/</link>
       <pubDate>Tue, 29 Mar 2022 16:20:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/uiten-huar/</guid>
-      <description>Алаг цэцэг шиг үзэсгэлэн юм аа чи
-Аялгуут дуу шиг яруухан юм аа чи
-Арван таваны сарнаас тунгалаг
-Ариухан заяасан үйтэн хуараа хө
-Ай хө арга ч үгүй яэ
-Ариухан заяасан үйтэн хуараа хө
-Зүүдэн дунд минь эрхлэх юм аа чи
-Зүлэгний цэцэг шиг анхилах юм аа чи
-Сэтгэл сэмэртэл санагдаад байдаг
-Сэрэглэн заяасан үйтэн хуараа хө
-Ай хө арга ч үгүй яэ
-Сэрэглэн заяасан үйтэн хуараа хө
-Алаг хонгор нүдтэй юм аа чи</description>
+      <description>&lt;p&gt;Алаг цэцэг шиг үзэсгэлэн юм аа чи&lt;br&gt;&#xA;Аялгуут дуу шиг яруухан юм аа чи&lt;br&gt;&#xA;Арван таваны сарнаас тунгалаг&lt;br&gt;&#xA;Ариухан заяасан үйтэн хуараа хө&lt;br&gt;&#xA;Ай хө арга ч үгүй яэ&lt;br&gt;&#xA;Ариухан заяасан үйтэн хуараа хө&lt;/p&gt;&#xA;&lt;p&gt;Зүүдэн дунд минь эрхлэх юм аа чи&lt;br&gt;&#xA;Зүлэгний цэцэг шиг анхилах юм аа чи&lt;br&gt;&#xA;Сэтгэл сэмэртэл санагдаад байдаг&lt;br&gt;&#xA;Сэрэглэн заяасан үйтэн хуараа хө&lt;br&gt;&#xA;Ай хө арга ч үгүй яэ&lt;br&gt;&#xA;Сэрэглэн заяасан үйтэн хуараа хө&lt;/p&gt;&#xA;&lt;p&gt;Алаг хонгор нүдтэй юм аа чи&lt;br&gt;&#xA;Асгарсан хархан гэзэгтэй юм аа чи&lt;br&gt;&#xA;Холын шувуудаар хайраа шивэнмээр&lt;br&gt;&#xA;Хонгорхон заяасан үйтэн хуараа хө&lt;br&gt;&#xA;Ай хө арга ч үгүй яэ&lt;br&gt;&#xA;Хонгорхон заяасан үйтэн хуараа хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Шар хад (ᠰᠢᠷ᠎ᠠ ᠬᠠᠳᠠ 黄岩/黄色山岩 Yellow mountain) [Баарин ардын дуу)</title>
       <link>http://mulliken.github.io/lyrics/shar-had/</link>
       <pubDate>Sat, 12 Mar 2022 23:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/shar-had/</guid>
-      <description>Шар хадны дээгүүр хөө
-Шар солонго татна хөө
-Шар уургаа шимүүлсэн хөө
-Ижийгээ санавал гиншмээр хөө
-Хөх хадны дээгүүр хөө
-Хөх солонго татна хөө
-Хөхөн сүүгээ мээмүүлсэн хөө
-Ижийгээ санавал гиншмээр хөө
-Улаан шаатан амттай боловч хөө
-Уургийн сүүг гүйцнэ үү дээ хөө
-Ургийн газар сайхан боловч хөө
-Ижий аавыг минь гүйцнэ үү дээ
-Цагаан шаатан амттай боловч хөө
-Цагаан сүүг гүйцнэ үү дээ
-Саадагласан газар сайхан боловч хөө
-Садан төрлийг гүйцнэ үү дээ</description>
+      <description>&lt;p&gt;Шар хадны дээгүүр хөө&lt;br&gt;&#xA;Шар солонго татна хөө&lt;br&gt;&#xA;Шар уургаа шимүүлсэн хөө&lt;br&gt;&#xA;Ижийгээ санавал гиншмээр хөө&lt;/p&gt;&#xA;&lt;p&gt;Хөх хадны дээгүүр хөө&lt;br&gt;&#xA;Хөх солонго татна хөө&lt;br&gt;&#xA;Хөхөн сүүгээ мээмүүлсэн хөө&lt;br&gt;&#xA;Ижийгээ санавал гиншмээр хөө&lt;/p&gt;&#xA;&lt;p&gt;Улаан шаатан амттай боловч хөө&lt;br&gt;&#xA;Уургийн сүүг гүйцнэ үү дээ хөө&lt;br&gt;&#xA;Ургийн газар сайхан боловч хөө&lt;br&gt;&#xA;Ижий аавыг минь гүйцнэ үү дээ&lt;/p&gt;&#xA;&lt;p&gt;Цагаан шаатан амттай боловч хөө&lt;br&gt;&#xA;Цагаан сүүг гүйцнэ үү дээ&lt;br&gt;&#xA;Саадагласан газар сайхан боловч хөө&lt;br&gt;&#xA;Садан төрлийг гүйцнэ үү дээ&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>130 Сээрэмбуу (色仁布)</title>
       <link>http://mulliken.github.io/book/130-seerembuu/</link>
       <pubDate>Tue, 08 Mar 2022 22:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/book/130-seerembuu/</guid>
-      <description>Nowadays, the song is generally known as &amp;ldquo;色仁布水灵&amp;rdquo;.
-这首歌如今一般叫作“色仁布水灵”。
-Шоор найхар толгойг хө хөө
-Шонхор нэртэй мужанаар хий лэгсэн имээ
-Шов руулаад түрэх сүм үангийн уутыг
-Сайхан төрсөн сүй лин ангаа оёж өгөн(?) имээ хөө
-https://mp.weixin.qq.com/s/KBqd8x63WD1SEsD4NIuBtw</description>
+      <description>&lt;p&gt;Nowadays, the song is generally known as &amp;ldquo;色仁布水灵&amp;rdquo;.&lt;br&gt;&#xA;这首歌如今一般叫作“色仁布水灵”。&lt;/p&gt;&#xA;&lt;p&gt;Шоор найхар толгойг хө хөө&lt;br&gt;&#xA;Шонхор нэртэй мужанаар хий лэгсэн имээ&lt;br&gt;&#xA;Шов руулаад түрэх сүм үангийн уутыг&lt;br&gt;&#xA;Сайхан төрсөн сүй лин ангаа оёж өгөн(?) имээ хөө&lt;/p&gt;&#xA;&lt;audio class=&#34;player&#34; controls&gt;&#xA; &lt;source src=&#34;http://mulliken.github.io/book/经典蒙古民歌《色仁布绥棱》（银山演唱）.mp3&#34; type=&#34;audio/mp3&#34;&gt;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/KBqd8x63WD1SEsD4NIuBtw&#34;&gt;https://mp.weixin.qq.com/s/KBqd8x63WD1SEsD4NIuBtw&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>113 Сээлээ лам (色乐喇嘛)</title>
       <link>http://mulliken.github.io/book/113-ceelee-lam/</link>
       <pubDate>Tue, 08 Mar 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/book/113-ceelee-lam/</guid>
-      <description>Алиа саарал морь нь хээ хөө
-Албин чөтгөр орш жээ хөө
-Айлаан тойрсон Сээлээ ламд жээ хөө
-Эмсийн чөтгөр орш жээ хөө
-(1)
-淘气的小白马呀，啊嗬咿
-遇着了鬼火了！嗬咿
-好串门子的色乐喇嘛，啊嗬咿
-遇着了女鬼了！嗬咿
-(2)
-黄色的颠马呀，啊嗬咿
-遇上了糊涂鬼了，嗬咿
-西庙的色乐喇嘛，啊嗬咿
-遇上了女鬼了！嗬咿
-(3)
-把没有人形的秃驴，啊嗬咿
-布如敦村里传说着哩！嗬咿
-心里想着的没有成功，啊嗬咿
-拉嘎拉莫德格发愁呢！嗬咿
-(4)
-流氓样的秃驴坏蛋，啊嗬咿
-在斯钦塔拉地方流传着，嗬咿
-想要做的事没有成功，啊嗬咿
-拉嘎拉莫德格发愁呢！嗬咿
-(5)
-跑到井台上，啊嗬咿
-没有水斗子怎样办呢？嗬咿
-跑进会场去，啊嗬咿
-拉嘎拉莫德格没有了！嗬咿
-(6)
-跑进经堂里，啊嗬咿
-没有灯，漆黑的；嗬咿
-往上往下仔细打量，啊嗬咿
-拉嘎拉莫德格没有了！嗬咿</description>
+      <description>&lt;p&gt;Алиа саарал морь нь хээ хөө&lt;br&gt;&#xA;Албин чөтгөр орш жээ хөө&lt;br&gt;&#xA;Айлаан тойрсон Сээлээ ламд жээ хөө&lt;br&gt;&#xA;Эмсийн чөтгөр орш жээ хөө&lt;/p&gt;&#xA;&lt;p&gt;(1)&lt;br&gt;&#xA;淘气的小白马呀，啊嗬咿&lt;br&gt;&#xA;遇着了鬼火了！嗬咿&lt;br&gt;&#xA;好串门子的色乐喇嘛，啊嗬咿&lt;br&gt;&#xA;遇着了女鬼了！嗬咿&lt;br&gt;&#xA;(2)&lt;br&gt;&#xA;黄色的颠马呀，啊嗬咿&lt;br&gt;&#xA;遇上了糊涂鬼了，嗬咿&lt;br&gt;&#xA;西庙的色乐喇嘛，啊嗬咿&lt;br&gt;&#xA;遇上了女鬼了！嗬咿&lt;br&gt;&#xA;(3)&lt;br&gt;&#xA;把没有人形的秃驴，啊嗬咿&lt;br&gt;&#xA;布如敦村里传说着哩！嗬咿&lt;br&gt;&#xA;心里想着的没有成功，啊嗬咿&lt;br&gt;&#xA;拉嘎拉莫德格发愁呢！嗬咿&lt;br&gt;&#xA;(4)&lt;br&gt;&#xA;流氓样的秃驴坏蛋，啊嗬咿&lt;br&gt;&#xA;在斯钦塔拉地方流传着，嗬咿&lt;br&gt;&#xA;想要做的事没有成功，啊嗬咿&lt;br&gt;&#xA;拉嘎拉莫德格发愁呢！嗬咿&lt;br&gt;&#xA;(5)&lt;br&gt;&#xA;跑到井台上，啊嗬咿&lt;br&gt;&#xA;没有水斗子怎样办呢？嗬咿&lt;br&gt;&#xA;跑进会场去，啊嗬咿&lt;br&gt;&#xA;拉嘎拉莫德格没有了！嗬咿&lt;br&gt;&#xA;(6)&lt;br&gt;&#xA;跑进经堂里，啊嗬咿&lt;br&gt;&#xA;没有灯，漆黑的；嗬咿&lt;br&gt;&#xA;往上往下仔细打量，啊嗬咿&lt;br&gt;&#xA;拉嘎拉莫德格没有了！嗬咿&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Мөхөөрүү (ᠮᠥᠭᠡᠷᠦ 莫合茹/两座山) [Баарин ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/mohooruu/</link>
       <pubDate>Sun, 06 Mar 2022 16:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/mohooruu/</guid>
-      <description>Үг: Б.Бүрэнбэх (巴·布林贝赫)
-Мөхөөрүү мөхөөрүү шорон хад хө
-Мөнгөнд адилхан элс манх хө
-Мээмийн минь өсгөсөн нутаг юмдаа хө
-Мөрөөдөн санагдаад уйтгарлан байна хө
-Уул ус нь үргэлжлэн байна хө
-Адуу малын минь билчээр юмдаа хө
-Аавын минь өсгөсөн нутаг юмдаа хө
-Асар санагдаад уйтгарлан байна хө
-https://www.youtube.com/watch?v=ewTFE4tV0No
-https://www.youtube.com/watch?v=-wpYK8309PE</description>
+      <description>&lt;p&gt;Үг: Б.Бүрэнбэх (巴·布林贝赫)&lt;/p&gt;&#xA;&lt;p&gt;Мөхөөрүү мөхөөрүү шорон хад хө&lt;br&gt;&#xA;Мөнгөнд адилхан элс манх хө&lt;br&gt;&#xA;Мээмийн минь өсгөсөн нутаг юмдаа хө&lt;br&gt;&#xA;Мөрөөдөн санагдаад уйтгарлан байна хө&lt;/p&gt;&#xA;&lt;p&gt;Уул ус нь үргэлжлэн байна хө&lt;br&gt;&#xA;Адуу малын минь билчээр юмдаа хө&lt;br&gt;&#xA;Аавын минь өсгөсөн нутаг юмдаа хө&lt;br&gt;&#xA;Асар санагдаад уйтгарлан байна хө&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ewTFE4tV0No&#34;&gt;https://www.youtube.com/watch?v=ewTFE4tV0No&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=-wpYK8309PE&#34;&gt;https://www.youtube.com/watch?v=-wpYK8309PE&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Танхуар (ᠲᠠᠨ ᠬᠤᠸᠠᠷ 昙花姑娘 The girl tanhuar) [Хорчин ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/tanhuar/</link>
       <pubDate>Wed, 02 Mar 2022 11:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/tanhuar/</guid>
-      <description>Бор саарал илжиг чинь ээ
-Буруушаа чангаана
-Болмоор төрсөн Танхуар анга нь
-Зүрхийг чангаана
-Болмоор төрсөн Танхуарыгаа
-Бодоод ирвэл дэ
-Босч л байна уу сууж л байна уу
-Маам нь мэдэхгүй хө
-Цагаан саарал илжиг чинь ээ
-Цаашаа чангаан
-Цагаахан зүстэй Танхуар чинь
-Зүрхийг чангаана
-Цагаахан төрсөн Танхуарыгаа
-Санаад ирвэл
-Сууж л байна уу босч л байна уу
-Маам нь мэдэхгүй лай хө
-For the (possible) full lyrics in the classical Mongolian script, see here.</description>
+      <description>&lt;p&gt;Бор саарал илжиг чинь ээ&lt;br&gt;&#xA;Буруушаа чангаана&lt;br&gt;&#xA;Болмоор төрсөн Танхуар анга нь&lt;br&gt;&#xA;Зүрхийг чангаана&lt;br&gt;&#xA;Болмоор төрсөн Танхуарыгаа&lt;br&gt;&#xA;Бодоод ирвэл дэ&lt;br&gt;&#xA;Босч л байна уу сууж л байна уу&lt;br&gt;&#xA;Маам нь мэдэхгүй хө&lt;/p&gt;&#xA;&lt;p&gt;Цагаан саарал илжиг чинь ээ&lt;br&gt;&#xA;Цаашаа чангаан&lt;br&gt;&#xA;Цагаахан зүстэй Танхуар чинь&lt;br&gt;&#xA;Зүрхийг чангаана&lt;br&gt;&#xA;Цагаахан төрсөн Танхуарыгаа&lt;br&gt;&#xA;Санаад ирвэл&lt;br&gt;&#xA;Сууж л байна уу босч л байна уу&lt;br&gt;&#xA;Маам нь мэдэхгүй лай хө&lt;/p&gt;&#xA;&lt;p&gt;For the (possible) full lyrics in the classical Mongolian script, see &lt;a href=&#34;http://mulliken.github.io/lyrics/tanhuar_ug.jpg&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Зүүдний Говь (ᠵᠡᠭᠦᠳᠦᠨ ᠦ ᠭᠣᠪᠢ 梦中戈壁/梦中的戈壁 Gobi of dreams)</title>
       <link>http://mulliken.github.io/lyrics/zuudnii-gobi/</link>
       <pubDate>Wed, 02 Mar 2022 08:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/zuudnii-gobi/</guid>
-      <description>Тооройн сүүдэрт ботго минь буйлна
-Тогоотой сүүнд минь саран хөвнө
-Толгодын оройгоор үүл нь нүүнэ
-Тодхон зүүдэнд эжий минь эргэнэ4
-Их манхан тэнгэр говьд уусан алдарна
-Ингэний цагаан буйлаа ботгондоо ирж шингэнэ
-Зүүн бүрдийн зэгсэнд ангир дуугарна
-Зүйлийн буурал зүүдэнд эжий минь эргэнэ
-htps://lyricstranslate.com/en/зүүдний-говь-gobi-dream.html
-https://www.youtube.com/watch?v=gajiBWl_gWg
-https://www.bilibili.com/video/BV1hy4y1574P/</description>
+      <description>&lt;p&gt;Тооройн сүүдэрт ботго минь буйлна&lt;br&gt;&#xA;Тогоотой сүүнд минь саран хөвнө&lt;br&gt;&#xA;Толгодын оройгоор үүл нь нүүнэ&lt;br&gt;&#xA;Тодхон зүүдэнд эжий минь эргэнэ4&lt;/p&gt;&#xA;&lt;p&gt;Их манхан тэнгэр говьд уусан алдарна&lt;br&gt;&#xA;Ингэний цагаан буйлаа ботгондоо ирж шингэнэ&lt;br&gt;&#xA;Зүүн бүрдийн зэгсэнд ангир дуугарна&lt;br&gt;&#xA;Зүйлийн буурал зүүдэнд эжий минь эргэнэ&lt;/p&gt;&#xA;&lt;p&gt;htps://lyricstranslate.com/en/зүүдний-говь-gobi-dream.html&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gajiBWl_gWg&#34;&gt;https://www.youtube.com/watch?v=gajiBWl_gWg&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.bilibili.com/video/BV1hy4y1574P/&#34;&gt;https://www.bilibili.com/video/BV1hy4y1574P/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Саруул тал  (ᠰᠠᠷᠠᠭᠤᠯ ᠲᠠᠯ᠎ᠠ 辽阔的草原 Vast grassland) [Уртын дуу]</title>
       <link>http://mulliken.github.io/lyrics/saruul-tal/</link>
       <pubDate>Mon, 28 Feb 2022 18:20:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/saruul-tal/</guid>
-      <description>Саруул тал минь байбач, хө
-Шавартай намаг-ыг нь мэдээгүй
-Сайхан амраг минь л байбач, хө
-Санаагыг нь уурусуу мэдээгүй
-https://lyricstranslate.com/en/saruul-tal-vast-steppe.html
-https://www.bilibili.com/video/av4765504
-https://www.youtube.com/watch?v=wbAVsEnOPD0</description>
+      <description>&lt;p&gt;Саруул тал минь байбач, хө&lt;br&gt;&#xA;Шавартай намаг-ыг нь мэдээгүй&lt;br&gt;&#xA;Сайхан амраг минь л байбач, хө&lt;br&gt;&#xA;Санаагыг нь уурусуу мэдээгүй&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lyricstranslate.com/en/saruul-tal-vast-steppe.html&#34;&gt;https://lyricstranslate.com/en/saruul-tal-vast-steppe.html&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.bilibili.com/video/av4765504&#34;&gt;https://www.bilibili.com/video/av4765504&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=wbAVsEnOPD0&#34;&gt;https://www.youtube.com/watch?v=wbAVsEnOPD0&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Жаахан шарга (ᠵᠢᠭᠠᠬᠠᠨ ᠰᠢᠷᠭ᠎ᠠ 小黄马 Brown little horse) [Уртын дуу]</title>
       <link>http://mulliken.github.io/lyrics/jaahan-sharga/</link>
       <pubDate>Mon, 28 Feb 2022 17:20:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/jaahan-sharga/</guid>
-      <description>Жаахан шаргын шогшоонд нь
-Томоо нь муухай тасарлаа (тасраад байна уу даа)
-Жаахан түүнийхээ аашинд нь
-Сэтгэл муухай гунихарлаа (гунихарлаа, дасаад байна уу даа)
-Хоёр морьтой гарлаа даа
-Хонгорын ширээг дамжлаа даа
-Хоноглосонгүй явсныг нь бодохоор
-Хоёр нүдэндээ нулимстай
-Буйлаад байгаа тэмээг
-Бурантагны үзүүрээр тогтооно
-Булиглаад байгаа сэтгэлийг
-Одоо юугаар тогтоох вэ
-Дэрвээд байгаа дээврийг
-Дээсний үзүүрээр тогтооно
-Дэнслээд байгаа сэтгэлийг
-Одоо юугаар тогтооно вэ&amp;hellip;
-https://www.youtube.com/watch?v=DdgftPBYeok
-https://www.youtube.com/watch?v=dFHXHGD0Df0
-https://www.youtube.com/watch?v=okW1UiXK6tg
-https://www.bilibili.com/video/av885562309</description>
+      <description>&lt;p&gt;Жаахан шаргын шогшоонд нь&lt;br&gt;&#xA;Томоо нь муухай тасарлаа (тасраад байна уу даа)&lt;br&gt;&#xA;Жаахан түүнийхээ аашинд нь&lt;br&gt;&#xA;Сэтгэл муухай гунихарлаа (гунихарлаа, дасаад байна уу даа)&lt;br&gt;&#xA;Хоёр морьтой гарлаа даа&lt;br&gt;&#xA;Хонгорын ширээг дамжлаа даа&lt;br&gt;&#xA;Хоноглосонгүй явсныг нь бодохоор&lt;br&gt;&#xA;Хоёр нүдэндээ нулимстай&lt;br&gt;&#xA;Буйлаад байгаа тэмээг&lt;br&gt;&#xA;Бурантагны үзүүрээр тогтооно&lt;br&gt;&#xA;Булиглаад байгаа сэтгэлийг&lt;br&gt;&#xA;Одоо юугаар тогтоох вэ&lt;br&gt;&#xA;Дэрвээд байгаа дээврийг&lt;br&gt;&#xA;Дээсний үзүүрээр тогтооно&lt;br&gt;&#xA;Дэнслээд байгаа сэтгэлийг&lt;br&gt;&#xA;Одоо юугаар тогтооно вэ&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DdgftPBYeok&#34;&gt;https://www.youtube.com/watch?v=DdgftPBYeok&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=dFHXHGD0Df0&#34;&gt;https://www.youtube.com/watch?v=dFHXHGD0Df0&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=okW1UiXK6tg&#34;&gt;https://www.youtube.com/watch?v=okW1UiXK6tg&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.bilibili.com/video/av885562309&#34;&gt;https://www.bilibili.com/video/av885562309&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Хүрэн толгойн сүүдэр (ᠬᠦᠷᠢᠨ ᠲᠣᠯᠣᠭᠠᠢ ᠶᠢᠨ ᠰᠡᠭᠦᠳᠡᠷ 忽仁山丘的影子 Shades of brown head)</title>
       <link>http://mulliken.github.io/lyrics/huren-tolgoi-suuder/</link>
       <pubDate>Mon, 28 Feb 2022 16:20:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/huren-tolgoi-suuder/</guid>
-      <description>Хүрэн толгойн сүүдэр хө
-Хөндийгээ дүүрээд хүүшлэнэ дээ хө
-Хүний бага чамтайгаа хө
-Сэтгэл юундаа даслаа даа хө
-Алаг толгойн сүүдэр нь хө
-Араа дүүрээд хүүшлэнэ дээ хө
-Амраг жаахан чамтайгаа хө
-Сэтгэл юундаа даслаа даа хө
-Ангир шувууны дэгдээхий хө
-Арван сардаа жиргэнэ дээ хө
-Аль газрын дудрай хө
-Намайг юундаа шоолов доо хө.
-https://www.youtube.com/watch?v=0cqguui0LM0
-https://www.bilibili.com/video/BV1Tv411w7BC/</description>
+      <description>&lt;p&gt;Хүрэн толгойн сүүдэр хө&lt;br&gt;&#xA;Хөндийгээ дүүрээд хүүшлэнэ дээ хө&lt;br&gt;&#xA;Хүний бага чамтайгаа хө&lt;br&gt;&#xA;Сэтгэл юундаа даслаа даа хө&lt;/p&gt;&#xA;&lt;p&gt;Алаг толгойн сүүдэр нь хө&lt;br&gt;&#xA;Араа дүүрээд хүүшлэнэ дээ хө&lt;br&gt;&#xA;Амраг жаахан чамтайгаа хө&lt;br&gt;&#xA;Сэтгэл юундаа даслаа даа хө&lt;/p&gt;&#xA;&lt;p&gt;Ангир шувууны дэгдээхий хө&lt;br&gt;&#xA;Арван сардаа жиргэнэ дээ хө&lt;br&gt;&#xA;Аль газрын дудрай хө&lt;br&gt;&#xA;Намайг юундаа шоолов доо хө.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0cqguui0LM0&#34;&gt;https://www.youtube.com/watch?v=0cqguui0LM0&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.bilibili.com/video/BV1Tv411w7BC/&#34;&gt;https://www.bilibili.com/video/BV1Tv411w7BC/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Жинчний амраг (ᠵᠢᠩᠴᠢᠨ ᠦ ᠠᠮᠠᠷᠠᠭ 驮夫的爱人 Porter&#39;s lover)</title>
       <link>http://mulliken.github.io/lyrics/jinchnii-amrag/</link>
       <pubDate>Mon, 28 Feb 2022 09:57:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/jinchnii-amrag/</guid>
-      <description>Арван тэмээ байна
-Ачаа нь тэгш л байна
-Алчуур нь хийсээд байна
-Амраг тэр минь байна
-Хорин тэмээ байна
-Хон нь тэгш л байна
-Хормой нь хийсээд байна
-Хонгор тэр минь байна
-Уул нь өндөр байна
-Унаа минь зовох байлгүй
-Уулзалгүй явчихвал
-Чи минь зовох байлгүй
-https://www.youtube.com/watch?v=NJGOsrvGWY0
-https://www.youtube.com/watch?v=fWstR7QdH80</description>
+      <description>&lt;p&gt;Арван тэмээ байна&lt;br&gt;&#xA;Ачаа нь тэгш л байна&lt;br&gt;&#xA;Алчуур нь хийсээд байна&lt;br&gt;&#xA;Амраг тэр минь байна&lt;/p&gt;&#xA;&lt;p&gt;Хорин тэмээ байна&lt;br&gt;&#xA;Хон нь тэгш л байна&lt;br&gt;&#xA;Хормой нь хийсээд байна&lt;br&gt;&#xA;Хонгор тэр минь байна&lt;/p&gt;&#xA;&lt;p&gt;Уул нь өндөр байна&lt;br&gt;&#xA;Унаа минь зовох байлгүй&lt;br&gt;&#xA;Уулзалгүй явчихвал&lt;br&gt;&#xA;Чи минь зовох байлгүй&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NJGOsrvGWY0&#34;&gt;https://www.youtube.com/watch?v=NJGOsrvGWY0&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=fWstR7QdH80&#34;&gt;https://www.youtube.com/watch?v=fWstR7QdH80&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Жинчид ирлээ (ᠵᠢᠩᠴᠢᠳ ᠢᠷᠡᠯ᠎ᠡ 驼队来了 The weighmen arrived)</title>
       <link>http://mulliken.github.io/lyrics/jinchid-irlee/</link>
       <pubDate>Sun, 27 Feb 2022 19:14:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/jinchid-irlee/</guid>
-      <description>Жингийн цуваа жигдрээд байна
-Жинхэнэ амраг минь ирлээ дээ хө
-Аяны ачаа нь жигдрээд байна
-Амраг хүү минь ирлээ дээ хө
-Атан тэмээгээ жигдрүүлсээр
-Аяндаа яваад ирлээ дээ хө
-Амраг чамайгаа санасаар
-Алсаас яваад ирлээ дээ хө
-Холын барааг ширтэн ширтсээр
-Хонгор хүүтэйгээ уулзлаа даа хө
-Хонио эргүүлээд буцъя даа
-Хойшдын амьдралаа ярья даа хө
-Томсон ногтыг чинь хараад
-Торомгор чамайгаа саналаа даа хө
-Урлаж хийснийг чинь хараад
-Уяран хайлан саналаа даа хө</description>
+      <description>&lt;p&gt;Жингийн цуваа жигдрээд байна&lt;br&gt;&#xA;Жинхэнэ амраг минь ирлээ дээ хө&lt;br&gt;&#xA;Аяны ачаа нь жигдрээд байна&lt;br&gt;&#xA;Амраг хүү минь ирлээ дээ хө&lt;/p&gt;&#xA;&lt;p&gt;Атан тэмээгээ жигдрүүлсээр&lt;br&gt;&#xA;Аяндаа яваад ирлээ дээ хө&lt;br&gt;&#xA;Амраг чамайгаа санасаар&lt;br&gt;&#xA;Алсаас яваад ирлээ дээ хө&lt;/p&gt;&#xA;&lt;p&gt;Холын барааг ширтэн ширтсээр&lt;br&gt;&#xA;Хонгор хүүтэйгээ уулзлаа даа хө&lt;br&gt;&#xA;Хонио эргүүлээд буцъя даа&lt;br&gt;&#xA;Хойшдын амьдралаа ярья даа хө&lt;/p&gt;&#xA;&lt;p&gt;Томсон ногтыг чинь хараад&lt;br&gt;&#xA;Торомгор чамайгаа саналаа даа хө&lt;br&gt;&#xA;Урлаж хийснийг чинь хараад&lt;br&gt;&#xA;Уяран хайлан саналаа даа хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Арван хоёр жилийн магтаал (ᠠᠷᠪᠠᠨ ᠬᠣᠶᠠᠷ ᠵᠢᠯ 十二生肖 12 zodiac animals)</title>
       <link>http://mulliken.github.io/lyrics/arvan-hoyor-jil/</link>
       <pubDate>Thu, 24 Feb 2022 00:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/arvan-hoyor-jil/</guid>
-      <description>Lyrics in Cyrillic Mongolian Эрдэнийн зүйлээр бөөлжөөд байдаг
-Эрүү цагаан хулгана нэгэн жил
-Эвэр сүүл нь тэнцүүхэн байдаг
-Эзэндээ ээлтэй үхэр хоёр жил
-Арын модонд алаглаад байдаг
-Алаг эрээн бар гурван жил
-Дэлхий дээгүүр дэгдээд байдаг
-Дэлдэн чихтэй туулай дөрвөн жил
-Хөх тэнгэрт хүржигнээд байдаг
-Хүч ихтэй луу таван жил
-Цаг үргэлж цагриглаад байдаг
-Цагаан эрээн могой зургаан жил
-Холын газрыг товчлоод байдаг
-Хомбон туурайтай морь долоон жил
-Хотгор газрыг хорголоор дүүргэдэг</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Эрдэнийн зүйлээр бөөлжөөд байдаг&lt;br&gt;&#xA;Эрүү цагаан хулгана нэгэн жил&lt;/p&gt;&#xA;&lt;p&gt;Эвэр сүүл нь тэнцүүхэн байдаг&lt;br&gt;&#xA;Эзэндээ ээлтэй үхэр хоёр жил&lt;/p&gt;&#xA;&lt;p&gt;Арын модонд алаглаад байдаг&lt;br&gt;&#xA;Алаг эрээн бар гурван жил&lt;/p&gt;&#xA;&lt;p&gt;Дэлхий дээгүүр дэгдээд байдаг&lt;br&gt;&#xA;Дэлдэн чихтэй туулай дөрвөн жил&lt;/p&gt;&#xA;&lt;p&gt;Хөх тэнгэрт хүржигнээд байдаг&lt;br&gt;&#xA;Хүч ихтэй луу таван жил&lt;/p&gt;&#xA;&lt;p&gt;Цаг үргэлж цагриглаад байдаг&lt;br&gt;&#xA;Цагаан эрээн могой зургаан жил&lt;/p&gt;&#xA;&lt;p&gt;Холын газрыг товчлоод байдаг&lt;br&gt;&#xA;Хомбон туурайтай морь долоон жил&lt;/p&gt;&#xA;&lt;p&gt;Хотгор газрыг хорголоор дүүргэдэг&lt;br&gt;&#xA;Хотондоо ээлтэй хонь найман жил&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Үхэрт хүйтэн (ᠦᠬᠡᠷᠲᠦ ᠬᠦᠢᠲᠡᠨ 乌赫尔图·辉腾 The moutains Uhertu and Huiten); [Барга ардын дуу)</title>
       <link>http://mulliken.github.io/lyrics/uhert-huiten/</link>
       <pubDate>Mon, 21 Feb 2022 02:36:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/uhert-huiten/</guid>
-      <description>The melody is also known as Pastoral (牧歌). Pastoral was adapted from this folk song and has different (even somewhat opposite) lyrics.
-Үргэлжийн ойрхан харагдагч
-Үхэрт хүйтэн хоёр уу
-Үеийн жаахан долгороо
-Үйлэрт даарахыг нь хүүргээ
-Арын бууцанд буусаар
-Адуу тогтохоо байлаа даа
-Аяганд хийсэн хоол нь
-Аманд орхоо болилоо даа
-Хоолайн бууцанд буусаар
-Хони тогтохоо байлаа даа
-Хоол умд хоёр ни
-Хоолойд орхоо болилоо даа
-Алттай магнаг оожыг
-Ар л биендээ шингээгээсэй</description>
+      <description>&lt;p&gt;The &lt;strong&gt;melody&lt;/strong&gt; is also known as &lt;em&gt;Pastoral&lt;/em&gt; (牧歌). &lt;em&gt;Pastoral&lt;/em&gt; was adapted from this folk song and has different (even somewhat opposite) lyrics.&lt;/p&gt;&#xA;&lt;p&gt;Үргэлжийн ойрхан харагдагч&lt;br&gt;&#xA;Үхэрт хүйтэн хоёр уу&lt;br&gt;&#xA;Үеийн жаахан долгороо&lt;br&gt;&#xA;Үйлэрт даарахыг нь хүүргээ&lt;/p&gt;&#xA;&lt;p&gt;Арын бууцанд буусаар&lt;br&gt;&#xA;Адуу тогтохоо байлаа даа&lt;br&gt;&#xA;Аяганд хийсэн хоол нь&lt;br&gt;&#xA;Аманд орхоо болилоо даа&lt;/p&gt;&#xA;&lt;p&gt;Хоолайн бууцанд буусаар&lt;br&gt;&#xA;Хони тогтохоо байлаа даа&lt;br&gt;&#xA;Хоол умд хоёр ни&lt;br&gt;&#xA;Хоолойд орхоо болилоо даа&lt;/p&gt;&#xA;&lt;p&gt;Алттай магнаг оожыг&lt;br&gt;&#xA;Ар л биендээ шингээгээсэй&lt;br&gt;&#xA;Алаг нидүн Долгорийг&lt;br&gt;&#xA;Аюул дайрахыг хүүрсэнгүй&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Тал нүтаг / Их Хаан (ᠲᠠᠯ᠎ᠠ ᠨᠤᠲᠤᠭ 大草原; soundtrack from the TV series [*Genghis Khan*](https://en.wikipedia.org/wiki/Genghis_Khan_(2004_TV_series))</title>
       <link>http://mulliken.github.io/lyrics/tal-nutag-or-ih-khan/</link>
       <pubDate>Sat, 19 Feb 2022 12:57:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/tal-nutag-or-ih-khan/</guid>
-      <description>Газар дэлхийг донсолгосон алдартай
-Ган туурайт хүлэг (хөлөг) морьд минь
-Галавд хосгүй алдартай
-Гармагай/Гарамгай баатрууд минь
-Начин шонхор шувууны дэвэлтээр
-Халин туулин айсуй л байна
-Өлгий минь нутаг минь
-Өншиг сайхан билчээртай
-Өргөн их тал нутаг минь
-Уураг цагаан үүлэн нөмрөг
-Усны тунгалаг уулын хөтөлөөр
-Урсгал түлгэн гол мөрөн нууд
-Ээжийн сүү шиг эрдэнийн аршаан
-Уртын дуу шиг салхин исгэрэг
-Уран гоёхон тал цэлгэр
-Ургамал цэцэг дэлгэрсэн уудам тал минь</description>
+      <description>&lt;p&gt;Газар дэлхийг донсолгосон алдартай&lt;br&gt;&#xA;Ган туурайт хүлэг (хөлөг) морьд минь&lt;br&gt;&#xA;Галавд хосгүй алдартай&lt;br&gt;&#xA;Гармагай/Гарамгай баатрууд минь&lt;br&gt;&#xA;Начин шонхор шувууны дэвэлтээр&lt;br&gt;&#xA;Халин туулин айсуй л байна&lt;/p&gt;&#xA;&lt;p&gt;Өлгий минь нутаг минь&lt;br&gt;&#xA;Өншиг сайхан билчээртай&lt;br&gt;&#xA;Өргөн их тал нутаг минь&lt;/p&gt;&#xA;&lt;p&gt;Уураг цагаан үүлэн нөмрөг&lt;br&gt;&#xA;Усны тунгалаг уулын хөтөлөөр&lt;br&gt;&#xA;Урсгал түлгэн гол мөрөн нууд&lt;br&gt;&#xA;Ээжийн сүү шиг эрдэнийн аршаан&lt;br&gt;&#xA;Уртын дуу шиг салхин исгэрэг&lt;br&gt;&#xA;Уран гоёхон тал цэлгэр&lt;br&gt;&#xA;Ургамал цэцэг дэлгэрсэн уудам тал минь&lt;br&gt;&#xA;Таван эрдэнийн мал сүрэг тараах (&lt;strong&gt;unsure&lt;/strong&gt;) бэлчинэ&lt;br&gt;&#xA;Тал минь нутаг минь&lt;br&gt;&#xA;Морин хуурын эгшиг тор&lt;br&gt;&#xA;Морьтон Баатарын дууг шингээрэй&lt;br&gt;&#xA;Үлгэрт шингээрэй&lt;br&gt;&#xA;Аа&amp;hellip;аа хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Данаабал (ᠳᠠᠨᠠᠪᠠᠯ 达那巴拉 My bodyfriend Danabal) [Баарин ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/danaabal/</link>
       <pubDate>Fri, 18 Feb 2022 00:51:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/danaabal/</guid>
-      <description>Lyrics in Cyrillic Mongolian Ү түн шү мод чинь да
-Үжрээд унавал хө
-Өдөн жигүүртэй ингэр шувуу чинь
-Хаанаа сууж донгодьё хө
-Үерхэж наадсан Данаавал гэгээ минь
-Ү жангийн цэрэгтээ мордвол до
-Аа ха хө
-Үлдэж суусан Жйн шян чинь
-Хэнээ харж сууя хө
-Ү түн шү мод чинь да
-Үжрээд унавал хө
-Өдөн жигүүртэй ингэр шувуу чинь
-Уулныхаа дээрээ донгодно хө
-Ханилж санасан Данаавал гэгээ минь
-Ү жангийн цэрэгтээ мордвол</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Ү түн шү мод чинь да&lt;br&gt;&#xA;Үжрээд унавал хө&lt;br&gt;&#xA;Өдөн жигүүртэй ингэр шувуу чинь&lt;br&gt;&#xA;Хаанаа сууж донгодьё хө&lt;br&gt;&#xA;Үерхэж наадсан Данаавал гэгээ минь&lt;br&gt;&#xA;Ү жангийн цэрэгтээ мордвол до&lt;br&gt;&#xA;Аа ха хө&lt;br&gt;&#xA;Үлдэж суусан Жйн шян чинь&lt;br&gt;&#xA;Хэнээ харж сууя хө&lt;/p&gt;&#xA;&lt;p&gt;Ү түн шү мод чинь да&lt;br&gt;&#xA;Үжрээд унавал хө&lt;br&gt;&#xA;Өдөн жигүүртэй ингэр шувуу чинь&lt;br&gt;&#xA;Уулныхаа дээрээ донгодно хө&lt;br&gt;&#xA;Ханилж санасан Данаавал гэгээ минь&lt;br&gt;&#xA;Ү жангийн цэрэгтээ мордвол&lt;br&gt;&#xA;Аа ха хө&lt;br&gt;&#xA;Ирэх жилийн гурван сартаа&lt;br&gt;&#xA;Чөлөөгөө гуйгаад ирэхгүй юү дэ хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Агьт толгой (ᠠᠭᠢᠲᠤ ᠲᠣᠯᠣᠭᠠᠢ 艾蒿山头/阿黑图 The hill with grass) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/agit-tolgoi/</link>
       <pubDate>Thu, 17 Feb 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/agit-tolgoi/</guid>
-      <description>Cyrillic Mongolian Lyrics Агьт толгой арцат балар (булаг)
-Адуу малын билчээр (бэлчээр) шүү
-Аав л ээж хоёр минь
-Амьд бурхан шүү
-Эрэг нь (Эрэгэн) дээгүүр эргэлээд байдаг
-Эрвээхэй цоохор шүү,
-Элэг зүрхийг минь шимшрүүлээд байдаг
-Ээж аав хоёр шүү
-Listen to the Music Agit Tolgoi- Sarul-SaihanYour browser does not support the audio element.Relevant Links https://mp.weixin.qq.com/s/jct9Zp2FOMZiRn5DnXNiiA</description>
+      <description>&lt;h2 id=&#34;cyrillic-mongolian-lyrics&#34;&gt;Cyrillic Mongolian Lyrics&lt;/h2&gt;&#xA;&lt;p&gt;Агьт толгой арцат балар (булаг)&lt;br&gt;&#xA;Адуу малын билчээр (бэлчээр) шүү&lt;br&gt;&#xA;Аав л ээж хоёр минь&lt;br&gt;&#xA;Амьд бурхан шүү&lt;/p&gt;&#xA;&lt;p&gt;Эрэг нь (Эрэгэн) дээгүүр эргэлээд байдаг&lt;br&gt;&#xA;Эрвээхэй цоохор шүү,&lt;br&gt;&#xA;Элэг зүрхийг минь шимшрүүлээд байдаг&lt;br&gt;&#xA;Ээж аав хоёр шүү&lt;/p&gt;&#xA;&lt;h2 id=&#34;listen-to-the-music&#34;&gt;Listen to the Music&lt;/h2&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;music-container&#34;&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;track&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;track-info&#34;&gt;&#xD;&#xA;            &lt;span class=&#34;track-title&#34;&gt;Agit Tolgoi&lt;/span&gt;&#xD;&#xA;            &lt;span class=&#34;track-artist&#34;&gt;- Sarul-Saihan&lt;/span&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;audio controls class=&#34;audio-player&#34;&gt;&#xD;&#xA;            &lt;source src=&#34;http://mulliken.github.io/lyrics/Saruulsaihan_agit_tolgoi.mp3&#34; type=&#34;audio/mpeg&#34;&gt;&#xD;&#xA;            Your browser does not support the audio element.&#xD;&#xA;        &lt;/audio&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;relevant-links&#34;&gt;Relevant Links&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/jct9Zp2FOMZiRn5DnXNiiA&#34;&gt;https://mp.weixin.qq.com/s/jct9Zp2FOMZiRn5DnXNiiA&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Агь нь үгүй газар (ᠠᠬᠢ ᠦᠭᠡᠢ ᠭᠠᠵᠠᠷ 没有/不长矮草的地方 Places without grass) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/agi-ni-ugui-gazar/</link>
       <pubDate>Wed, 16 Feb 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/agi-ni-ugui-gazar/</guid>
-      <description>Cyrillic Mongolian Lyrics Агь нь үгүй газарт
-Адуу нь юунд эргэнэ вэ
-Аав нь л үгүй газар
-Бидэн юунд ч ирнэ вэ?!
-Эрэг нь үгүй газар
-Элээ юунд эргэнэ вэ,
-Ээж нь л үгүй газарт
-Бидэн юунд ч ирнэ вэ
-Listen to the Music Relevant Links https://www.facebook.com/watch/?v=1553162171511749
-https://mp.weixin.qq.com/s/xY3l-5QnsOPkngAOfPtgZg</description>
+      <description>&lt;h2 id=&#34;cyrillic-mongolian-lyrics&#34;&gt;Cyrillic Mongolian Lyrics&lt;/h2&gt;&#xA;&lt;p&gt;Агь нь үгүй газарт&lt;br&gt;&#xA;Адуу нь юунд эргэнэ вэ&lt;br&gt;&#xA;Аав нь л үгүй газар&lt;br&gt;&#xA;Бидэн юунд ч ирнэ вэ?!&lt;/p&gt;&#xA;&lt;p&gt;Эрэг нь үгүй газар&lt;br&gt;&#xA;Элээ юунд эргэнэ вэ,&lt;br&gt;&#xA;Ээж нь л үгүй газарт&lt;br&gt;&#xA;Бидэн юунд ч ирнэ вэ&lt;/p&gt;&#xA;&lt;h2 id=&#34;listen-to-the-music&#34;&gt;Listen to the Music&lt;/h2&gt;&#xA;&lt;audio class=&#34;audio-player&#34; controls&gt;&#xA; &lt;source src=&#34;http://mulliken.github.io/lyrics/腾格尔-没有矮草的地方.mp3&#34; type=&#34;audio/mp3&#34;&gt;&#xA;&lt;/audio&gt;&#xA;&lt;audio class=&#34;audio-player&#34; controls&gt;&#xA; &lt;source src=&#34;http://mulliken.github.io/lyrics/朝格吉勒图_不长矮草的地方.mp3&#34; type=&#34;audio/mp3&#34;&gt;&#xA;&lt;/audio&gt;&#xA;&lt;h2 id=&#34;relevant-links&#34;&gt;Relevant Links&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/watch/?v=1553162171511749&#34;&gt;https://www.facebook.com/watch/?v=1553162171511749&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://mp.weixin.qq.com/s/xY3l-5QnsOPkngAOfPtgZg&#34;&gt;https://mp.weixin.qq.com/s/xY3l-5QnsOPkngAOfPtgZg&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Хөх Монгол нутаг (ᠬᠦᠬᠡ ᠮᠤᠩᠭᠤᠯ ᠨᠤᠳᠤᠭ 蓝色的故乡 Blue Mongolia)</title>
       <link>http://mulliken.github.io/lyrics/hoh-mongol-nutag/</link>
       <pubDate>Wed, 16 Feb 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/hoh-mongol-nutag/</guid>
-      <description>Үг: Т. Дэлгэрсан
-Ая: С. Тэнгэр
-Алтан гарьдын зулзага
-Дэвээд дэвээд гэтлэшгүй
-Аралт тэрэгний хүрд
-Давхиад давхиад туулашгүй
-Хөх Монгол нутаг минь
-Хүү нь наддаа сайхан даа
-Урьхан хаврын цагт
-Усны өнгөөр хөхөрсөн
-Уургын үзүүрийг дагаад
-Хурга ишиг майлалдсан
-Хөх Монгол нутаг минь
-Хүү нь наддаа сайхан даа
-https://www.facebook.com/watch/?v=263177371011308
-https://www.youtube.com/watch?v=8oECQhg_e5s
-https://www.youtube.com/watch?v=5xLHQzyPIgY</description>
+      <description>&lt;p&gt;Үг: Т. Дэлгэрсан&lt;br&gt;&#xA;Ая: С. Тэнгэр&lt;/p&gt;&#xA;&lt;p&gt;Алтан гарьдын зулзага&lt;br&gt;&#xA;Дэвээд дэвээд гэтлэшгүй&lt;br&gt;&#xA;Аралт тэрэгний хүрд&lt;br&gt;&#xA;Давхиад давхиад туулашгүй&lt;br&gt;&#xA;Хөх Монгол нутаг минь&lt;br&gt;&#xA;Хүү нь наддаа сайхан даа&lt;/p&gt;&#xA;&lt;p&gt;Урьхан хаврын цагт&lt;br&gt;&#xA;Усны өнгөөр хөхөрсөн&lt;br&gt;&#xA;Уургын үзүүрийг дагаад&lt;br&gt;&#xA;Хурга ишиг майлалдсан&lt;br&gt;&#xA;Хөх Монгол нутаг минь&lt;br&gt;&#xA;Хүү нь наддаа сайхан даа&lt;/p&gt;&#xA;&lt;audio class=&#34;player&#34; controls style=&#34;width: 700px;&#34;&gt;&#xA; &lt;source src=&#34;http://mulliken.github.io/lyrics/Hoh-Mongol-nutag.mp3&#34; type=&#34;audio/mp3&#34;&gt;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/watch/?v=263177371011308&#34;&gt;https://www.facebook.com/watch/?v=263177371011308&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=8oECQhg_e5s&#34;&gt;https://www.youtube.com/watch?v=8oECQhg_e5s&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=5xLHQzyPIgY&#34;&gt;https://www.youtube.com/watch?v=5xLHQzyPIgY&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Дүүриймаа</title>
       <link>http://mulliken.github.io/lyrics/duuriimaa/</link>
       <pubDate>Tue, 15 Feb 2022 16:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/duuriimaa/</guid>
-      <description>Хадтай юу Сүмбэр ууланд нь болбол до хө Ай Дүүриймаа минь ээ
-Харцага шувуу нь жиргээд байна аа хө
-Хавар намрын зургаахан сард нь хө Ай Дүүриймаа минь нь
-Хайрын маань сэтгэл гэдэг хөвөлзөөд байна аа хө
-Зүүн Сүмбэр ууланд нь болбол до хө Ай Дүүриймаа минь ээ
-Зүр﻿ гур нь зөрөлдөөд байна аа хө
-Зүрхний маань жаалхан амраг тэр минь ээ хө Ай Дүүриймаа минь ээ
-Зүүд нойронд минь үзэгдээд байна аа хө</description>
+      <description>&lt;p&gt;Хадтай юу Сүмбэр ууланд нь болбол до хө Ай Дүүриймаа минь ээ&lt;/p&gt;&#xA;&lt;p&gt;Харцага шувуу нь жиргээд байна аа хө&lt;/p&gt;&#xA;&lt;p&gt;Хавар намрын зургаахан сард нь хө Ай Дүүриймаа минь нь&lt;/p&gt;&#xA;&lt;p&gt;Хайрын маань сэтгэл гэдэг хөвөлзөөд байна аа хө&lt;/p&gt;&#xA;&lt;p&gt;Зүүн Сүмбэр ууланд нь болбол до хө Ай Дүүриймаа минь ээ&lt;/p&gt;&#xA;&lt;p&gt;Зүр﻿ гур нь зөрөлдөөд байна аа хө&lt;/p&gt;&#xA;&lt;p&gt;Зүрхний маань жаалхан амраг тэр минь ээ хө Ай Дүүриймаа минь ээ&lt;/p&gt;&#xA;&lt;p&gt;Зүүд нойронд минь үзэгдээд байна аа хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Заллага (ᠵᠠᠯᠠᠯᠭ᠎ᠠ 邀请 Invitation)</title>
       <link>http://mulliken.github.io/lyrics/zallaga/</link>
       <pubDate>Tue, 08 Feb 2022 14:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/zallaga/</guid>
-      <description>Айраг байна уугаарай
-Аятай байна өнжөөрэй
-Агсал байна эмээллээрэй
-Ах дүү нараар минь ороорой ээ
-Агсал[^1] байна эмээллээрэй
-Ах дүү нараар минь ороорой ээ
-Сөлтэй байна ирээрэй
-Сөн хундагаа түшээрэй
-Шүлэг найргаа хэлээрэй
-Шүүдэрт талаар минь нисээрэй
-Шүлэг найргаа хэлээрэй
-Шүүдэрт талаар минь нисээрэй
-Мандах нарнаар буугаарай
-Манай голоор айлчлаарай
-Манараад байна өнжөөрэй
-Маралын гялаанаар мордоорой
-Манараад байна өнжөөрэй
-Маралын гялаанаар мордоорой
-https://www.youtube.com/watch?v=_5mqeOh0g0c&amp;amp;</description>
+      <description>&lt;p&gt;Айраг байна уугаарай&lt;br&gt;&#xA;Аятай байна өнжөөрэй&lt;br&gt;&#xA;Агсал байна эмээллээрэй&lt;br&gt;&#xA;Ах дүү нараар минь ороорой ээ&lt;br&gt;&#xA;Агсал[^1] байна эмээллээрэй&lt;br&gt;&#xA;Ах дүү нараар минь ороорой ээ&lt;/p&gt;&#xA;&lt;p&gt;Сөлтэй байна ирээрэй&lt;br&gt;&#xA;Сөн хундагаа түшээрэй&lt;br&gt;&#xA;Шүлэг найргаа хэлээрэй&lt;br&gt;&#xA;Шүүдэрт талаар минь нисээрэй&lt;br&gt;&#xA;Шүлэг найргаа хэлээрэй&lt;br&gt;&#xA;Шүүдэрт талаар минь нисээрэй&lt;/p&gt;&#xA;&lt;p&gt;Мандах нарнаар буугаарай&lt;br&gt;&#xA;Манай голоор айлчлаарай&lt;br&gt;&#xA;Манараад байна өнжөөрэй&lt;br&gt;&#xA;Маралын гялаанаар мордоорой&lt;br&gt;&#xA;Манараад байна өнжөөрэй&lt;br&gt;&#xA;Маралын гялаанаар мордоорой&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_5mqeOh0g0c&amp;amp;&#34;&gt;https://www.youtube.com/watch?v=_5mqeOh0g0c&amp;amp;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Гажалин (ᠭᠠᠵᠠᠯᠢᠨ 嘎扎玲 The girl Gatzalin) [Хорчин ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/gajalin/</link>
       <pubDate>Mon, 07 Feb 2022 01:53:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/gajalin/</guid>
-      <description>Lyrics in Cyrillic Mongolian Жирмийчихсэн хөмсөгтэй
-Жимсэн улаан хацартай
-Зүс өнгийнх иь сайхан нь
-Зураг дээр гарснаас дооргүй Гажалин хө
-Хулсан навчин хөмсөгтэй
-Хундан улаан хацартай
-Хөмсөг нүдний сайхан нь
-Хуар дээр гарснаас дооргүй Гажалин хө
-үүл салхи нь гарвал
-Өвс ногоо нь найгана.
-Эрлэг чамайгаа бодоод хэлбэл
-Өвчүү цээжинд нулимстай Гажалин хө
-Жавар салхи нь гарвал хө
-Жимс ногоо нь найгана.
-Зүйтэй чамайгаа бодоод хэлбэл
-Зүрх цээжинд нулимстай Гажалин хө</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Жирмийчихсэн хөмсөгтэй&lt;br&gt;&#xA;Жимсэн улаан хацартай&lt;br&gt;&#xA;Зүс өнгийнх иь сайхан нь&lt;br&gt;&#xA;Зураг дээр гарснаас дооргүй Гажалин хө&lt;/p&gt;&#xA;&lt;p&gt;Хулсан навчин хөмсөгтэй&lt;br&gt;&#xA;Хундан улаан хацартай&lt;br&gt;&#xA;Хөмсөг нүдний сайхан нь&lt;br&gt;&#xA;Хуар дээр гарснаас дооргүй Гажалин хө&lt;/p&gt;&#xA;&lt;p&gt;үүл салхи нь гарвал&lt;br&gt;&#xA;Өвс ногоо нь найгана.&lt;br&gt;&#xA;Эрлэг чамайгаа бодоод хэлбэл&lt;br&gt;&#xA;Өвчүү цээжинд нулимстай Гажалин хө&lt;/p&gt;&#xA;&lt;p&gt;Жавар салхи нь гарвал хө&lt;br&gt;&#xA;Жимс ногоо нь найгана.&lt;br&gt;&#xA;Зүйтэй чамайгаа бодоод хэлбэл&lt;br&gt;&#xA;Зүрх цээжинд нулимстай Гажалин хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Эртний сайхан</title>
       <link>http://mulliken.github.io/lyrics/ertnii-saihan/</link>
       <pubDate>Mon, 07 Feb 2022 01:00:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/ertnii-saihan/</guid>
-      <description>Эртний сайхан ерөөлөөр
-Энэ Монгол оронд
-Эзэн Чингис хааныхаа
-Язгуураас бүрдэгсэн зээ
-жаргатугай! (түрлэг)
-Тэнцэш үгүй заяатай
-Тэнүүн уудам оюунтай
-Тэгш сайхан шинжтэй
-Тэнгэрийн үрс Та мину зээ
-жаргатугай!
-Мөнх тэнгэрийн ивээлээр
-Мөхөшгүй Чингис хааныхаа
-Үрс нь болж
-Хувьтайхан төрсөнТа нар мину зээ
-жаргатугай!
-Сүмбэр уулын оройгоос
-Сүндэрлэсэн Хан
-Сүр жавхлан нь бадраад
-Сүлд чинь бэх байтугай
-жаргатугай!
-Од нь олон боловч
-Сарны гэрэл адилгүй
-Түмэн олон байвч
-Түүний минь гүйцэхгүй /царай адилгүй/</description>
+      <description>&lt;p&gt;Эртний сайхан ерөөлөөр&lt;br&gt;&#xA;Энэ Монгол оронд&lt;br&gt;&#xA;Эзэн Чингис хааныхаа&lt;br&gt;&#xA;Язгуураас бүрдэгсэн зээ&lt;br&gt;&#xA;жаргатугай! (түрлэг)&lt;/p&gt;&#xA;&lt;p&gt;Тэнцэш үгүй заяатай&lt;br&gt;&#xA;Тэнүүн уудам оюунтай&lt;br&gt;&#xA;Тэгш сайхан шинжтэй&lt;br&gt;&#xA;Тэнгэрийн үрс Та мину зээ&lt;br&gt;&#xA;жаргатугай!&lt;/p&gt;&#xA;&lt;p&gt;Мөнх тэнгэрийн ивээлээр&lt;br&gt;&#xA;Мөхөшгүй Чингис хааныхаа&lt;br&gt;&#xA;Үрс нь болж&lt;br&gt;&#xA;Хувьтайхан төрсөнТа нар мину зээ&lt;br&gt;&#xA;жаргатугай!&lt;/p&gt;&#xA;&lt;p&gt;Сүмбэр уулын оройгоос&lt;br&gt;&#xA;Сүндэрлэсэн Хан&lt;br&gt;&#xA;Сүр жавхлан нь бадраад&lt;br&gt;&#xA;Сүлд чинь бэх байтугай&lt;br&gt;&#xA;жаргатугай!&lt;/p&gt;&#xA;&lt;p&gt;Од нь олон боловч&lt;br&gt;&#xA;Сарны гэрэл адилгүй&lt;br&gt;&#xA;Түмэн олон байвч&lt;br&gt;&#xA;Түүний минь гүйцэхгүй  /царай адилгүй/&lt;br&gt;&#xA;жаргатугай!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Тоохуу нэгэн гос (ᠲᠣᠭᠣᠬᠤ ᠨᠢᠭᠡᠨ ᠭᠣᠰ 托扈靴子 Toohuu boots) [Торгууд  ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/toohuu-negen-gos/</link>
       <pubDate>Mon, 07 Feb 2022 00:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/toohuu-negen-gos/</guid>
-      <description>Тоохуу нэгэн гос нь
-Тов хийгээд байна
-Торгууд нэгэн сэвгэр
-Толгой дохиод байна
-Хар манхан тайлаг нь
-Хамар сунгаад байна
-Халхын оёсон гос нь
-Хажуу холгоогоод байна
-Өл манхан тайлаг нь
-Өвдөг сөхрөөд байна
-Өөлдын оёсон гос нь
-Өсгий холгоогоод байна
-Илжиг манхан тайлаг нь
-Ширвэс татаад байна
-Жил нэгтэй тэр минь
-Намайг гээд байна
-Тоохуу нэгэн гос нь
-Тов хийгээд байна
-Торгууд нэгэн сэвгэр
-Толгой дохиод байна
-https://www.youtube.com/watch?v=tosCufuQ0H8</description>
+      <description>&lt;p&gt;Тоохуу нэгэн гос нь&lt;br&gt;&#xA;Тов хийгээд байна&lt;br&gt;&#xA;Торгууд нэгэн сэвгэр&lt;br&gt;&#xA;Толгой дохиод байна&lt;/p&gt;&#xA;&lt;p&gt;Хар манхан тайлаг нь&lt;br&gt;&#xA;Хамар сунгаад байна&lt;br&gt;&#xA;Халхын оёсон гос нь&lt;br&gt;&#xA;Хажуу холгоогоод байна&lt;/p&gt;&#xA;&lt;p&gt;Өл манхан тайлаг нь&lt;br&gt;&#xA;Өвдөг сөхрөөд байна&lt;br&gt;&#xA;Өөлдын оёсон гос нь&lt;br&gt;&#xA;Өсгий холгоогоод байна&lt;/p&gt;&#xA;&lt;p&gt;Илжиг манхан тайлаг нь&lt;br&gt;&#xA;Ширвэс татаад байна&lt;br&gt;&#xA;Жил нэгтэй тэр минь&lt;br&gt;&#xA;Намайг гээд байна&lt;/p&gt;&#xA;&lt;p&gt;Тоохуу нэгэн гос нь&lt;br&gt;&#xA;Тов хийгээд байна&lt;br&gt;&#xA;Торгууд нэгэн сэвгэр&lt;br&gt;&#xA;Толгой дохиод байна&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tosCufuQ0H8&#34;&gt;https://www.youtube.com/watch?v=tosCufuQ0H8&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Чингисхаан олон ангит киноны дуу 2004 он - 30 ангитай</title>
       <link>http://mulliken.github.io/lyrics/chigishaan-duu/</link>
       <pubDate>Sat, 05 Feb 2022 20:20:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/chigishaan-duu/</guid>
-      <description>Lyrics in Cyrillic Mongolian Сая түмэн буурлын домог
-Салхины аясаар хулбираагүй
-Богд Чингисийн үлгэр түүх
-Баатарлаг тууль хайлаад байна
-Түмэн агтын төвөргөөнд
-Тив дэлхийг хураан эзэмдсэн
-Өрлөг үйлсийн чинь алдар гавьяаг
-Үр хойч чинь зүрхэндээ сийлээд байна
-Зулай зөөлөн нялхын цог заль
-Зүс зоригоор чинь шандаслаад байна
-Зуузай холбосон малчдын царай
-Суу билгээр чинь мишээгээд байна
-Тулгаа манасан тайван зууныг
-Туурайн чимээ чинь сэрээгээд байна﻿
-Related Links (Videos) https://www.youtube.com/watch?v=9UbvMmmWyyc
-https://www.bilibili.com/video/BV11s411r7kz (a Chinese version; the lyrics roughly correspond to the Mongolian version)</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Сая түмэн буурлын домог&lt;br&gt;&#xA;Салхины аясаар хулбираагүй&lt;br&gt;&#xA;Богд Чингисийн үлгэр түүх&lt;br&gt;&#xA;Баатарлаг тууль хайлаад байна&lt;/p&gt;&#xA;&lt;p&gt;Түмэн агтын төвөргөөнд&lt;br&gt;&#xA;Тив дэлхийг хураан эзэмдсэн&lt;br&gt;&#xA;Өрлөг үйлсийн чинь алдар гавьяаг&lt;br&gt;&#xA;Үр хойч чинь зүрхэндээ сийлээд байна&lt;/p&gt;&#xA;&lt;p&gt;Зулай зөөлөн нялхын цог заль&lt;br&gt;&#xA;Зүс зоригоор чинь шандаслаад байна&lt;br&gt;&#xA;Зуузай холбосон малчдын царай&lt;br&gt;&#xA;Суу билгээр чинь мишээгээд байна&lt;/p&gt;&#xA;&lt;p&gt;Тулгаа манасан тайван зууныг&lt;br&gt;&#xA;Туурайн чимээ чинь сэрээгээд байна﻿&lt;/p&gt;&#xA;&lt;h2 id=&#34;related-links-videos&#34;&gt;Related Links (Videos)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9UbvMmmWyyc&#34;&gt;https://www.youtube.com/watch?v=9UbvMmmWyyc&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.bilibili.com/video/BV11s411r7kz&#34;&gt;https://www.bilibili.com/video/BV11s411r7kz&lt;/a&gt; (a Chinese version; the lyrics roughly correspond to the Mongolian version)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Хун галуу (ᠬᠤᠨ ᠭᠠᠯᠠᠭᠤ 鸿嘎鲁/鸿雁 Swan) [Урад ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/hun-galuu/</link>
       <pubDate>Fri, 28 Jan 2022 18:00:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/hun-galuu/</guid>
-      <description>Хун юу цагаан галуу шувуу нь ээ
-Хулстай юу нуурандаа шумбан суунаа хө
-Холын ах дүүс минь хүрээд ирэв үү дээ
-Хонуудаар өнжүүдээр
-Найрлан сууя аа хө
-Хун юу цагаан галуу шувуухай
-Тунгалаг юу нуурандаа шумбан суунаа хө
-Бодлын ах дүүс минь хүрээд ирэв үү дээ
-Хонуулаад өнжүүлээд найрлан сууя аа хө
-https://www.youtube.com/watch?v=L5Msefo1y3g</description>
+      <description>&lt;p&gt;Хун юу цагаан галуу шувуу нь ээ&lt;br&gt;&#xA;Хулстай юу нуурандаа шумбан суунаа хө&lt;br&gt;&#xA;Холын ах дүүс минь хүрээд ирэв үү дээ&lt;br&gt;&#xA;Хонуудаар өнжүүдээр&lt;br&gt;&#xA;Найрлан сууя аа хө&lt;/p&gt;&#xA;&lt;p&gt;Хун юу цагаан галуу шувуухай&lt;br&gt;&#xA;Тунгалаг юу нуурандаа шумбан суунаа хө&lt;br&gt;&#xA;Бодлын ах дүүс минь хүрээд ирэв үү дээ&lt;br&gt;&#xA;Хонуулаад өнжүүлээд найрлан сууя аа хө&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=L5Msefo1y3g&#34;&gt;https://www.youtube.com/watch?v=L5Msefo1y3g&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ши түү гээгээ/ (ᠱᠢ ᠲᠡᠭᠦ ᠭᠡ ᠭᠡ 石头哥哥/喜(西)吉德姑娘 Lover Shitou) [Хорчин ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/shi-tuu-geegee/</link>
       <pubDate>Thu, 27 Jan 2022 21:08:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/shi-tuu-geegee/</guid>
-      <description>Хашаанд зайлтсан хайдан лянхуа цэцэг нь
-Хур борооноо үзвэл сарвалзана хөө
-Сайхан төртсан шижид анга чинь
-Ши түү гээгээ үзвэл баярлачихана хөө
-Баярлахгүй яахина да хөө
-Нарийн чийгтээ нарим будаа чинь хөө
-Наран хураа үзвэл найгаад байна хөө
-Намуухан төртсэн шижид анга чинь
-Ши түү гээгээ бодоод дурсаад байна хөө
-Тэгээд
-Дурсахгүйгээр болно уу да хөө
-Хашаанд зайлтсан хайдан лянхуа цэцэг нь
-Хур борооноо үзвэл сарвалзана хөө
-Сайхан дүрсэн шижид анга чинь</description>
+      <description>&lt;p&gt;Хашаанд зайлтсан хайдан лянхуа цэцэг нь&lt;br&gt;&#xA;Хур борооноо үзвэл сарвалзана хөө&lt;br&gt;&#xA;Сайхан төртсан шижид анга чинь&lt;br&gt;&#xA;Ши түү гээгээ үзвэл баярлачихана хөө&lt;br&gt;&#xA;Баярлахгүй яахина да хөө&lt;br&gt;&#xA;Нарийн чийгтээ нарим будаа чинь хөө&lt;br&gt;&#xA;Наран хураа үзвэл найгаад байна хөө&lt;br&gt;&#xA;Намуухан төртсэн шижид анга чинь&lt;br&gt;&#xA;Ши түү гээгээ бодоод дурсаад байна хөө&lt;br&gt;&#xA;Тэгээд&lt;br&gt;&#xA;Дурсахгүйгээр болно уу да хөө&lt;br&gt;&#xA;Хашаанд зайлтсан хайдан лянхуа цэцэг нь&lt;br&gt;&#xA;Хур борооноо үзвэл сарвалзана хөө&lt;br&gt;&#xA;Сайхан дүрсэн шижид анга чинь&lt;br&gt;&#xA;Ши түү гээгээ үзвэл баярлачихана хөө&lt;br&gt;&#xA;Баярлахгүй яахина да хөө&lt;br&gt;&#xA;Чизад дарисан шиш будаа чинь&lt;br&gt;&#xA;Чийг хураа үзвэл сарвалзана хөө&lt;br&gt;&#xA;Цэвэрхэн дүрсэн шижид анга чинь&lt;br&gt;&#xA;Ши түү гээгээ үзвэл мишмалзана хөө&lt;br&gt;&#xA;Тэгээд&lt;br&gt;&#xA;Мишмэлзүү&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сэр сэр салхи (ᠰᠡᠷ ᠰᠡᠷ ᠰᠠᠯᠬᠢ 飒飒的风 Cool breeze)</title>
       <link>http://mulliken.github.io/lyrics/ser-ser-salhi/</link>
       <pubDate>Thu, 27 Jan 2022 18:28:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/ser-ser-salhi/</guid>
-      <description>Сэр сэр жавар салхи нь салхилаад байна хө хө
-Цэн цэнгийн хур бороо нь дуслаад байна даа хө хө хө.
-Жир жир жавар салхи нь салхилаад байна хө хө
-Цэн цэнгийн хур бороо дуслаад байна даа хө хө хө.
-Удирдах улаан салхи нь умард зүгээс хө хө
-Утан авах жавар салх нь өмнө зүгээс дээ хө хө хө.
-Дэгдэн гарах жавар салхи дээд зүгээс хө хө
-Дэмжин авах жавар салхи нь дор зүгээс дээ хө хө хө.</description>
+      <description>&lt;p&gt;Сэр сэр жавар салхи нь салхилаад байна хө хө&lt;br&gt;&#xA;Цэн цэнгийн хур бороо нь дуслаад байна даа хө хө хө.&lt;/p&gt;&#xA;&lt;p&gt;Жир жир жавар салхи нь салхилаад байна хө хө&lt;br&gt;&#xA;Цэн цэнгийн хур бороо дуслаад байна даа хө хө хө.&lt;/p&gt;&#xA;&lt;p&gt;Удирдах улаан салхи нь умард зүгээс хө хө&lt;br&gt;&#xA;Утан авах жавар салх нь өмнө зүгээс дээ хө хө хө.&lt;/p&gt;&#xA;&lt;p&gt;Дэгдэн гарах жавар салхи дээд зүгээс хө хө&lt;br&gt;&#xA;Дэмжин авах жавар салхи нь дор зүгээс дээ хө хө хө.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Арван тавны сар (ᠠᠷᠪᠠᠨ ᠲᠠᠪᠤᠨ ᠤ ᠰᠠᠷᠠ 十五的月亮) [Хорчин ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/arvan-tavni-sar/</link>
       <pubDate>Thu, 27 Jan 2022 18:22:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/arvan-tavni-sar/</guid>
-      <description>Lyrics in Cyrillic Mongolian Арван тавны саран агаартаа дэгдэнэ хөө
-Ар өврөө дагаад үүл нь үгүй юу юм бэ хө
-Хайртай хонгор чамайгаа хүлээсээр удлаа би
-Харин чи минь хүрээд ирдэггүй юу юуны учир бэ хө
-Хур борооны чийг нь агаараас буухгүй бол
-Хайтан ягаан (лянхуа) цэцэг өөрөө юундаа дэлгэрэх юм бэ хө
-Хайртай ах минь хашир нь үгүй хүлээвэл дээ хө
-Хайрлаж санасан хонгор дүү чинь аяндаа хүрээд ирнэ дээ хө</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Арван тавны саран агаартаа дэгдэнэ хөө&lt;br&gt;&#xA;Ар өврөө дагаад үүл нь үгүй юу юм бэ хө&lt;br&gt;&#xA;Хайртай хонгор чамайгаа хүлээсээр удлаа би&lt;br&gt;&#xA;Харин чи минь хүрээд ирдэггүй юу юуны учир бэ хө&lt;/p&gt;&#xA;&lt;p&gt;Хур борооны чийг нь агаараас буухгүй бол&lt;br&gt;&#xA;Хайтан ягаан (лянхуа) цэцэг өөрөө юундаа дэлгэрэх юм бэ хө&lt;br&gt;&#xA;Хайртай ах минь хашир нь үгүй хүлээвэл дээ хө&lt;br&gt;&#xA;Хайрлаж санасан хонгор дүү чинь аяндаа хүрээд ирнэ дээ хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Алсын газрын зэрэглээ (ᠠᠯᠤᠰ ᠤᠨ ᠭᠠᠵᠠᠷ ᠤᠨ ᠵᠡᠷᠭᠡᠯᠭᠡ 远方的蜃景/海市蜃楼 Mirage at far)</title>
       <link>http://mulliken.github.io/lyrics/alsin-gazrin-zereglee/</link>
       <pubDate>Thu, 27 Jan 2022 18:20:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/alsin-gazrin-zereglee/</guid>
-      <description>Lyrics in Cyrillic Mongolian Алсын газрын зэрэглээ нь хө
-Адуу шиг мал шиг торолзоно
-Алиа хонгор хүүгээ хө
-Айсуй байхад нь баярлалаа
-Холын газрын зэрэглээ нь хө
-Хонь шиг мал шиг торолзоно
-Хонгор жаахан хүүгээ
-Хоноод явахыг хүснэ хө
-Relevant Links https://www.youtube.com/watch?v=EyqSNSdm8Us
-https://www.youtube.com/watch?v=vlQMyOONstA</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Алсын газрын зэрэглээ нь хө&lt;br&gt;&#xA;Адуу шиг мал шиг торолзоно&lt;br&gt;&#xA;Алиа хонгор хүүгээ хө&lt;br&gt;&#xA;Айсуй байхад нь баярлалаа&lt;/p&gt;&#xA;&lt;p&gt;Холын газрын зэрэглээ нь хө&lt;br&gt;&#xA;Хонь шиг мал шиг торолзоно&lt;br&gt;&#xA;Хонгор жаахан хүүгээ&lt;br&gt;&#xA;Хоноод явахыг хүснэ хө&lt;/p&gt;&#xA;&lt;h2 id=&#34;relevant-links&#34;&gt;Relevant Links&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EyqSNSdm8Us&#34;&gt;https://www.youtube.com/watch?v=EyqSNSdm8Us&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=vlQMyOONstA&#34;&gt;https://www.youtube.com/watch?v=vlQMyOONstA&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Тэнгэрийн салхи (ᠲᠩᠷᠢ ᠶᠢᠨ ᠰᠠᠯᠬᠢ 天上的风 Wind) [Хорчин ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/tengeriin-salh/</link>
       <pubDate>Thu, 27 Jan 2022 18:08:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/tengeriin-salh/</guid>
-      <description>Version 1 Тэнгэрийн салхи тэгш үгүй
-Төрсөн бие минь мөнхрөшгүй
-Мөнхн рашааныг хэн хүн уулаа да
-Мөнөөхөн чөлөөнд жаргая биедээ
-Огторгуйн салхи оосор үгүй
-Олсон бие минь мөнхрөшгүй
-Мөнх-н рашааныг хэн хүн уулаа да
-Мөнөөхөн чөлөөнд жаргая биедээ
-https://www.youtube.com/watch?v=osB1mghMSbo
-Version 2 Тэнгэрийн салхи нь
-Тэгш үгүй
-Төрсөн бие минь
-Мөнх үгүй
-Мөнхийн рашааныг хэн маань ч уулаа
-Мөнөөхөн чөлөөндөө цэнгэн жаргая
-Огторгуйн салхи нь
-Оосор үгүй
-Олдсон бие минь
-Мөнх үгүй</description>
+      <description>&lt;h3 id=&#34;version-1&#34;&gt;Version 1&lt;/h3&gt;&#xA;&lt;p&gt;Тэнгэрийн салхи тэгш үгүй&lt;br&gt;&#xA;Төрсөн бие минь мөнхрөшгүй&lt;/p&gt;&#xA;&lt;p&gt;Мөнхн рашааныг хэн хүн уулаа да&lt;br&gt;&#xA;Мөнөөхөн чөлөөнд жаргая биедээ&lt;/p&gt;&#xA;&lt;p&gt;Огторгуйн салхи оосор үгүй&lt;br&gt;&#xA;Олсон бие минь мөнхрөшгүй&lt;/p&gt;&#xA;&lt;p&gt;Мөнх-н рашааныг хэн хүн уулаа да&lt;br&gt;&#xA;Мөнөөхөн чөлөөнд жаргая биедээ&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=osB1mghMSbo&#34;&gt;https://www.youtube.com/watch?v=osB1mghMSbo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;version-2&#34;&gt;Version 2&lt;/h3&gt;&#xA;&lt;p&gt;Тэнгэрийн салхи нь&lt;br&gt;&#xA;Тэгш үгүй&lt;br&gt;&#xA;Төрсөн бие минь&lt;/p&gt;&#xA;&lt;p&gt;Мөнх үгүй&lt;br&gt;&#xA;Мөнхийн рашааныг хэн маань ч уулаа&lt;br&gt;&#xA;Мөнөөхөн чөлөөндөө цэнгэн жаргая&lt;/p&gt;&#xA;&lt;p&gt;Огторгуйн салхи нь&lt;br&gt;&#xA;Оосор үгүй&lt;br&gt;&#xA;Олдсон бие минь&lt;/p&gt;&#xA;&lt;p&gt;Мөнх үгүй&lt;br&gt;&#xA;Мөнхийн рашааныг хэн маань ч уулаа&lt;br&gt;&#xA;Мөнөөхөн чөлөөндөө цэнгэн жаргая&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Тал нутаг минь (ᠲᠠᠯ᠎ᠠ ᠨᠤᠲᠤᠭ ᠮᠢᠨᠢ 我的草原/我的草原故乡 My steppe homeland)</title>
       <link>http://mulliken.github.io/lyrics/tal-nutag-minii/</link>
       <pubDate>Thu, 27 Jan 2022 18:01:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/tal-nutag-minii/</guid>
-      <description>Ая: Л.Балхжав
-Үг: Зайран Д.Бямбадорж
-Тараг идээний амт нь
-Ээжийн сүүний шимтэй
-Талын зэрэглээ мяралзсан
-Ээлийн цагаан суврага шиг
-Миний Монгол талын Монгол
-Мэнд амрын жаргалын орон
-Мөнх Тэнгэрийн шүтээнтэй
-Мөнгөн хундагын дугараатай
-Өргөн уудам тал даа
-Өнжөөд амраад явна даа
-Миний Монгол талын Монгол
-Мэнд амрын жаргалын орон
-Мандах улаан наран
-Тал даа саатан нүүдэллэдэг
-Манхан хөх уулс нь
-Нутгийн овоон сахиустэй
-Миний Монгол талын Монгол
-Мэнд амрын жаргалын орон</description>
+      <description>&lt;p&gt;Ая: Л.Балхжав&lt;br&gt;&#xA;Үг: Зайран Д.Бямбадорж&lt;/p&gt;&#xA;&lt;p&gt;Тараг идээний амт нь&lt;br&gt;&#xA;Ээжийн сүүний шимтэй&lt;br&gt;&#xA;Талын зэрэглээ мяралзсан&lt;br&gt;&#xA;Ээлийн цагаан суврага шиг&lt;/p&gt;&#xA;&lt;p&gt;Миний Монгол талын Монгол&lt;br&gt;&#xA;Мэнд амрын жаргалын орон&lt;/p&gt;&#xA;&lt;p&gt;Мөнх Тэнгэрийн шүтээнтэй&lt;br&gt;&#xA;Мөнгөн хундагын дугараатай&lt;br&gt;&#xA;Өргөн уудам тал даа&lt;br&gt;&#xA;Өнжөөд амраад явна даа&lt;/p&gt;&#xA;&lt;p&gt;Миний Монгол талын Монгол&lt;br&gt;&#xA;Мэнд амрын жаргалын орон&lt;/p&gt;&#xA;&lt;p&gt;Мандах улаан наран&lt;br&gt;&#xA;Тал даа саатан нүүдэллэдэг&lt;br&gt;&#xA;Манхан хөх уулс нь&lt;br&gt;&#xA;Нутгийн овоон сахиустэй&lt;/p&gt;&#xA;&lt;p&gt;Миний Монгол талын Монгол&lt;br&gt;&#xA;Мэнд амрын жаргалын орон&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Дөрвөн настай халиун (ᠳᠥᠷᠪᠡᠨ ᠨᠠᠰᠤᠲᠠᠢ ᠬᠠᠯᠢᠭᠤᠨ 四岁的海骝马 A four-year-old horse)</title>
       <link>http://mulliken.github.io/lyrics/dorvon-nactai-haliun/</link>
       <pubDate>Thu, 27 Jan 2022 18:00:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/dorvon-nactai-haliun/</guid>
-      <description>Version 1 Дөрвөн настай халиун ээ
-Дөрөө жийгээд дэргүүлнээ
-Ай хө
-Дөрвөлжилөн харагдах ар нь ээ
-Дөтөлсөн амрагийн бараа юу даа
-Таваар тавьсан гэзгээрээ
-Талын бутууд шиг саглайна аа
-Ай хө
-Тавалана харагдах бараа нь ээ
-Танилцсан амрагын бараа юу дээ
-Дөрвөн настай халиун ээ
-Дөрөө жийгээд дэргүүлнээ
-Ай хө
-Бараа юу зээ
-Version 2 Дөрвөн настай халиун
-Дөрвөн настай халиун нь
-Дөрөө жийхэд ергөөтэй
-Дөрвөлжлөөд харагдах бараа нь
-Халхын дөрвөн хансар уу даа</description>
+      <description>&lt;h2 id=&#34;version-1&#34;&gt;Version 1&lt;/h2&gt;&#xA;&lt;p&gt;Дөрвөн настай халиун ээ&lt;br&gt;&#xA;Дөрөө жийгээд дэргүүлнээ&lt;br&gt;&#xA;Ай хө&lt;/p&gt;&#xA;&lt;p&gt;Дөрвөлжилөн харагдах ар нь ээ&lt;br&gt;&#xA;Дөтөлсөн амрагийн бараа юу даа&lt;br&gt;&#xA;Таваар тавьсан гэзгээрээ&lt;br&gt;&#xA;Талын бутууд шиг саглайна аа&lt;br&gt;&#xA;Ай хө&lt;/p&gt;&#xA;&lt;p&gt;Тавалана харагдах бараа нь ээ&lt;br&gt;&#xA;Танилцсан амрагын бараа юу дээ&lt;br&gt;&#xA;Дөрвөн настай халиун ээ&lt;br&gt;&#xA;Дөрөө жийгээд дэргүүлнээ&lt;br&gt;&#xA;Ай хө&lt;br&gt;&#xA;Бараа юу зээ&lt;/p&gt;&#xA;&lt;h2 id=&#34;version-2&#34;&gt;Version 2&lt;/h2&gt;&#xA;&lt;p&gt;Дөрвөн настай халиун&lt;br&gt;&#xA;Дөрвөн настай халиун нь&lt;br&gt;&#xA;Дөрөө жийхэд ергөөтэй&lt;br&gt;&#xA;Дөрвөлжлөөд харагдах бараа нь&lt;br&gt;&#xA;Халхын дөрвөн хансар уу даа&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Хар торгон хамжаар (ᠬᠠᠷ᠎ᠠ ᠲᠣᠷᠭᠠᠨ ᠬᠠᠮᠵᠢᠷ᠎ᠠ 黑缎子坎肩 Black satin waistcoat) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/har-torgon-hamjaar/</link>
       <pubDate>Thu, 27 Jan 2022 16:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/har-torgon-hamjaar/</guid>
-      <description>Хар торгон хамжаарийг ээ
-Харанхуй шөнөөр шаглаад оёсон юм аа хө
-Хаяад явахыг чинь мэдсэн болвол доо хө
-Хайран чиг оёод өгсөн арван хуруу нь ээ хө
-Ай хө чи мниь явчихаар яах юм бэ хө
-Шар торгон хамжаарийг ээ
-Сартай шөнөөр шаглаад оёсон өгсөн юм аа
-Салаад явахыг чинь мэдсэн болвол доо хө
-Хайран чиг оёоод өгсөн арван хуруу нь ээ хө
-Ай хө чи минь явчихаар яах юм бэ хө</description>
+      <description>&lt;p&gt;Хар торгон хамжаарийг ээ&lt;br&gt;&#xA;Харанхуй шөнөөр шаглаад оёсон юм аа хө&lt;br&gt;&#xA;Хаяад явахыг чинь мэдсэн болвол доо хө&lt;br&gt;&#xA;Хайран чиг оёод өгсөн арван хуруу нь ээ хө&lt;br&gt;&#xA;Ай хө чи мниь явчихаар яах юм бэ хө&lt;/p&gt;&#xA;&lt;p&gt;Шар торгон хамжаарийг ээ&lt;br&gt;&#xA;Сартай шөнөөр шаглаад оёсон өгсөн юм аа&lt;br&gt;&#xA;Салаад явахыг чинь мэдсэн болвол доо хө&lt;br&gt;&#xA;Хайран чиг оёоод өгсөн арван хуруу нь ээ хө&lt;br&gt;&#xA;Ай хө чи минь явчихаар яах юм бэ хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Архины дуу (ᠠᠷᠢᠬᠢᠨ ᠤ ᠳᠠᠭᠤᠤ 酒歌 Drinking song) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/arhini-duu/</link>
       <pubDate>Thu, 27 Jan 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/arhini-duu/</guid>
-      <description>Lyrics Version 1 (Cyrillic Mongolian) Лонхон дотроо байхуй дор
-Номхон Хар архи л байна
-Лонхоноосоо гархуй дор
-Догшин хар архи л байна
-Yйлс тандаа сайн
-Аяс мандаа сайн
-Айлттаж барья хө
-Лонхон дотроо байхуй дор
-Номхон хар архи л байна
-Ноëн тандаа барихуй дор
-Догшин хар архи л байна
-Үйлс тандаа сайн
-Аяс манлаа сайн
-Айлттаж барья хө
-Айлттаж барья хө
-Lyrics Version 2 (Cyrillic Mongolian) Лонхон дотроо байхуй дор</description>
+      <description>&lt;h2 id=&#34;lyrics-version-1-cyrillic-mongolian&#34;&gt;Lyrics Version 1 (Cyrillic Mongolian)&lt;/h2&gt;&#xA;&lt;p&gt;Лонхон дотроо байхуй дор&lt;br&gt;&#xA;Номхон Хар архи л байна&lt;br&gt;&#xA;Лонхоноосоо гархуй дор&lt;br&gt;&#xA;Догшин хар архи л байна&lt;br&gt;&#xA;Yйлс тандаа сайн&lt;br&gt;&#xA;Аяс мандаа сайн&lt;br&gt;&#xA;Айлттаж барья хө&lt;/p&gt;&#xA;&lt;p&gt;Лонхон дотроо байхуй дор&lt;br&gt;&#xA;Номхон хар архи л байна&lt;br&gt;&#xA;Ноëн тандаа барихуй дор&lt;br&gt;&#xA;Догшин хар архи л байна&lt;br&gt;&#xA;Үйлс тандаа сайн&lt;br&gt;&#xA;Аяс манлаа сайн&lt;br&gt;&#xA;Айлттаж барья хө&lt;br&gt;&#xA;Айлттаж барья хө&lt;/p&gt;&#xA;&lt;h2 id=&#34;lyrics-version-2-cyrillic-mongolian&#34;&gt;Lyrics Version 2 (Cyrillic Mongolian)&lt;/h2&gt;&#xA;&lt;p&gt;Лонхон дотроо байхуй дор&lt;br&gt;&#xA;Номхон хар архи л байна&lt;br&gt;&#xA;Ноён тандаа барихуй дор&lt;br&gt;&#xA;Догшин хар арз л байна&lt;br&gt;&#xA;Аяс маньдаа сайн&lt;br&gt;&#xA;Үйлс тандаа сайн&lt;br&gt;&#xA;Айлтгаж барья хөөё&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Сайнчимэг (ᠰᠠᠶᠢᠨᠴᠢᠮᠡᠭ 赛音其木格 Sainchimeg)</title>
       <link>http://mulliken.github.io/lyrics/sain-chimeg/</link>
       <pubDate>Thu, 27 Jan 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/sain-chimeg/</guid>
-      <description>Саарал морьтой Сайнчимэг хө
-Садруулж л явна Сайнчимэг хө
-Шаазангийн наймаа нь хаа байна гээд
-Асууж л явна Сайнчимэг хө
-Буурал морьтой Сайнчимэг хө
-Бутруулж л явна Сайнчимэг хө
-Борхотын наймаа нь хаа байна гээд
-Асууж л явна Сайнчимэг хө
-Манжин гада нь байвал хө
-Махтай будаагаар юу хийнэ хө
-Наймаагийн жангуйд нь байвал хө
-Манай муу ядраар юу хийнэ хө
-И Жөу наймаагийн жангуйдаа хө
-Их л юмаар бодов уу даа хө</description>
+      <description>&lt;p&gt;Саарал морьтой Сайнчимэг хө&lt;br&gt;&#xA;Садруулж л явна Сайнчимэг хө&lt;br&gt;&#xA;Шаазангийн наймаа нь хаа байна гээд&lt;br&gt;&#xA;Асууж л явна Сайнчимэг хө&lt;/p&gt;&#xA;&lt;p&gt;Буурал морьтой Сайнчимэг хө&lt;br&gt;&#xA;Бутруулж л явна Сайнчимэг хө&lt;br&gt;&#xA;Борхотын наймаа нь хаа байна гээд&lt;br&gt;&#xA;Асууж л явна Сайнчимэг хө&lt;/p&gt;&#xA;&lt;p&gt;Манжин гада нь байвал хө&lt;br&gt;&#xA;Махтай будаагаар юу хийнэ хө&lt;br&gt;&#xA;Наймаагийн жангуйд нь байвал хө&lt;br&gt;&#xA;Манай муу ядраар юу хийнэ хө&lt;/p&gt;&#xA;&lt;p&gt;И Жөу наймаагийн жангуйдаа хө&lt;br&gt;&#xA;Их л юмаар бодов уу даа хө&lt;br&gt;&#xA;Ягжиг биетэй Доржийгоо&lt;br&gt;&#xA;Юу ч үгүйгээр бодов уу даа хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Цэнхэр цагаан үүл (ᠴᠡᠩᠬᠡᠷ ᠴᠠᠭᠠᠨ ᠡᠭᠦᠯᠡ 洁白的云  White Clouds) [Урад ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/tsenher-tsagan-uul/</link>
       <pubDate>Thu, 27 Jan 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/tsenher-tsagan-uul/</guid>
-      <description>Lyrics (Cyrillic Mongolian) Цэнхэр цагаан үүлээс нь
-Чийгийн хур нь ордог юм аа хө
-Чинд сэтгэл чинь зангаараа байвал
-Чиглээд ирдэг юм аа хө
-Бадрангуй үүлээс нь
-Бороо ордог юм аа хө
-Бат сэтгэл зангаараа байвал
-Буцаад ирдэг юм аа хө
-Агаар тэнгэрийн үүлээс нь
-Рашаан нь буудаг юм аа хө
-Ааш сэтгэл чинь зангаараа байвал
-Алиархаад ирдэг юм аа хө
-Өндөр тэнгэрийн үүнээс нь
-Бороо нь ордог юм аа хө</description>
+      <description>&lt;h2 id=&#34;lyrics-cyrillic-mongolian&#34;&gt;Lyrics (Cyrillic Mongolian)&lt;/h2&gt;&#xA;&lt;p&gt;Цэнхэр цагаан үүлээс нь&lt;br&gt;&#xA;Чийгийн хур нь ордог юм аа хө&lt;br&gt;&#xA;Чинд сэтгэл чинь зангаараа байвал&lt;br&gt;&#xA;Чиглээд ирдэг юм аа хө&lt;/p&gt;&#xA;&lt;p&gt;Бадрангуй үүлээс нь&lt;br&gt;&#xA;Бороо ордог юм аа хө&lt;br&gt;&#xA;Бат сэтгэл зангаараа байвал&lt;br&gt;&#xA;Буцаад ирдэг юм аа хө&lt;/p&gt;&#xA;&lt;p&gt;Агаар тэнгэрийн үүлээс нь&lt;br&gt;&#xA;Рашаан нь буудаг юм аа хө&lt;br&gt;&#xA;Ааш сэтгэл чинь зангаараа байвал&lt;br&gt;&#xA;Алиархаад ирдэг юм аа хө&lt;/p&gt;&#xA;&lt;p&gt;Өндөр тэнгэрийн үүнээс нь&lt;br&gt;&#xA;Бороо нь ордог юм аа хө&lt;br&gt;&#xA;Үнэн сэтгэл чинь зангаараа байвал&lt;br&gt;&#xA;Үерхээд ирдэг юм аа хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Шанхай хийцтэй бандоти (ᠱᠠᠩᠬᠠᠢ ᠬᠢᠴᠡ ᠲᠡᠢ ᠪᠠᠨᠳᠣᠲ᠋ᠢ 上海产的半导体 Shanghai style radio)</title>
       <link>http://mulliken.github.io/lyrics/shanhai-hiitstai-bandoti/</link>
       <pubDate>Thu, 27 Jan 2022 15:21:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/shanhai-hiitstai-bandoti/</guid>
-      <description>Шанхай хийцтэй бандоти
-Шагналд ирсэн бэлэг даа хө
-Шаламгай сайнаар ажиллаа гээд
-СайшааЖ өгсөн радио даа хө
-Адуу малдаа явсан ч
-Алган дээр минь дуугардаг юм шуу хө
-Айл гэртээ суухын уед
-Авдар дээр минь ярьдаг шуу хө
-Хуван гэртэй радио минь
-Хурдан хэлтэй эрдэнэ шуу хө
-Хувьсгалын улаан зурхыг минь
-Хурцалж өгдөг хань шуу хө
-Бэлэгт ирсэн радио минь
-Бэлхэн ярих нь сайхан да хө
-Билгийн хоëр чихэнд минь</description>
+      <description>&lt;p&gt;Шанхай хийцтэй бандоти&lt;br&gt;&#xA;Шагналд ирсэн бэлэг даа хө&lt;br&gt;&#xA;Шаламгай сайнаар ажиллаа гээд&lt;br&gt;&#xA;СайшааЖ өгсөн радио даа хө&lt;/p&gt;&#xA;&lt;p&gt;Адуу малдаа явсан ч&lt;br&gt;&#xA;Алган дээр минь дуугардаг юм шуу хө&lt;br&gt;&#xA;Айл гэртээ суухын уед&lt;br&gt;&#xA;Авдар дээр минь ярьдаг шуу хө&lt;/p&gt;&#xA;&lt;p&gt;Хуван гэртэй радио минь&lt;br&gt;&#xA;Хурдан хэлтэй эрдэнэ шуу хө&lt;br&gt;&#xA;Хувьсгалын улаан зурхыг минь&lt;br&gt;&#xA;Хурцалж өгдөг хань шуу хө&lt;/p&gt;&#xA;&lt;p&gt;Бэлэгт ирсэн радио минь&lt;br&gt;&#xA;Бэлхэн ярих нь сайхан да хө&lt;br&gt;&#xA;Билгийн хоëр чихэнд минь&lt;br&gt;&#xA;Бээжингийн дуу л гоёхон доо хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Монгол нутгийн үзэсгэлэн (ᠮᠣᠩᠭᠣᠯ ᠨᠤᠲᠤᠭ ᠤᠨ ᠦᠵᠡᠰᠬᠦᠯᠡᠩ 蒙古故乡美 Beauty of Mongolia)</title>
       <link>http://mulliken.github.io/lyrics/mongol-nutgiin-uzesgelen/</link>
       <pubDate>Thu, 27 Jan 2022 00:21:40 -0300</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/mongol-nutgiin-uzesgelen/</guid>
-      <description>Зээрийн сүрэг бэлчсэн
-Шаргал талын зэрэглээ
-Хээрийн салхи үлээсэн
-Монгол нутгийн үзэсгэлэн (Монгол нутгийн цэлмэг тал)
-Миний нутгийн сайхныг
-Мэлмий тэнүүн ширтмээр
-Мэндэлж төрсөн болохоороо
-Мишилзэн харахад бахадмаар
-Аавын хүүгийн чадлыг
-Атраар сорьсон нутаг
-Ажил хөдөлмөр хосолж
-Амьдрал бялхсан нутаг
-Миний нутгийн сайхныг
-Мэлмий тэнүүн ширтмээр
-Мэндэлж төрсөн болохоороо
-Мишээж харан бахадмаар
-https://www.youtube.com/watch?v=EEK6iIe31aI
-https://www.youtube.com/watch?v=BkdPLKvjgAs</description>
+      <description>&lt;p&gt;Зээрийн сүрэг бэлчсэн&lt;br&gt;&#xA;Шаргал талын зэрэглээ&lt;br&gt;&#xA;Хээрийн салхи үлээсэн&lt;br&gt;&#xA;Монгол нутгийн үзэсгэлэн (Монгол нутгийн цэлмэг тал)&lt;/p&gt;&#xA;&lt;p&gt;Миний нутгийн сайхныг&lt;br&gt;&#xA;Мэлмий тэнүүн ширтмээр&lt;br&gt;&#xA;Мэндэлж төрсөн болохоороо&lt;br&gt;&#xA;Мишилзэн харахад бахадмаар&lt;/p&gt;&#xA;&lt;p&gt;Аавын хүүгийн чадлыг&lt;br&gt;&#xA;Атраар сорьсон нутаг&lt;br&gt;&#xA;Ажил хөдөлмөр хосолж&lt;br&gt;&#xA;Амьдрал бялхсан нутаг&lt;/p&gt;&#xA;&lt;p&gt;Миний нутгийн сайхныг&lt;br&gt;&#xA;Мэлмий тэнүүн ширтмээр&lt;br&gt;&#xA;Мэндэлж төрсөн болохоороо&lt;br&gt;&#xA;Мишээж харан бахадмаар&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EEK6iIe31aI&#34;&gt;https://www.youtube.com/watch?v=EEK6iIe31aI&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=BkdPLKvjgAs&#34;&gt;https://www.youtube.com/watch?v=BkdPLKvjgAs&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Үзэсгэлэнт сайхан миний нутаг (ᠦᠵᠡᠰᠬᠦᠯᠡᠩᠲᠦ ᠰᠠᠶᠢᠬᠠᠨ ᠮᠢᠨᠦ ᠨᠤᠲᠤᠭ 美丽的草原我的家 My beautiful homeland)</title>
       <link>http://mulliken.github.io/lyrics/uzesgelent-saihan-nutag/</link>
       <pubDate>Wed, 26 Jan 2022 23:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/uzesgelent-saihan-nutag/</guid>
-      <description>Үзэсгэлэнт сайхан миний нутаг аа
-Өнгийн цэцэг солонгорно
-Уран болжмор жиргэн донгодоод
-Усан болор гол туналзана
-Алтай талдаа адуу давхилдаад
-Асгасан сувд шиг хоньд бэлчинэ
-Хоньчин хүүхний уянгат дуу
-Хөдөө талд хангинан цуурайтна
-Ус бэлчээр тэнцсэн нутгаа
-Үнэн сэтгэлээсээ би хайрлана
-Цэлгэр тал нь саруулхан тэнийгээд
-Чандган цагаан гэр харагдана
-Хөдөө нутгаа цогцлон байгуулаад
-Хөгжилтэй сайхан орон болгоно оо
-Хоньчин хүүхний уянгат дуу
-Хөдөө талд хангинан цуурайтна</description>
+      <description>&lt;p&gt;Үзэсгэлэнт сайхан миний нутаг аа&lt;br&gt;&#xA;Өнгийн цэцэг солонгорно&lt;br&gt;&#xA;Уран болжмор жиргэн донгодоод&lt;br&gt;&#xA;Усан болор гол туналзана&lt;br&gt;&#xA;Алтай талдаа адуу давхилдаад&lt;br&gt;&#xA;Асгасан сувд шиг хоньд бэлчинэ&lt;/p&gt;&#xA;&lt;p&gt;Хоньчин хүүхний уянгат дуу&lt;br&gt;&#xA;Хөдөө талд хангинан цуурайтна&lt;/p&gt;&#xA;&lt;p&gt;Ус бэлчээр тэнцсэн нутгаа&lt;br&gt;&#xA;Үнэн сэтгэлээсээ би хайрлана&lt;br&gt;&#xA;Цэлгэр тал нь саруулхан тэнийгээд&lt;br&gt;&#xA;Чандган цагаан гэр харагдана&lt;br&gt;&#xA;Хөдөө нутгаа цогцлон байгуулаад&lt;br&gt;&#xA;Хөгжилтэй сайхан орон болгоно оо&lt;/p&gt;&#xA;&lt;p&gt;Хоньчин хүүхний уянгат дуу&lt;br&gt;&#xA;Хөдөө талд хангинан цуурайтна&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Миний аав улаанбаатарт байна (ᠮᠢᠨᠦ ᠠᠪᠤ ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ ᠲᠤ ᠪᠠᠶᠢᠨ᠎ᠠ My father in Ulaanbaatar)</title>
       <link>http://mulliken.github.io/lyrics/minii-aav-ulaanbaatart-baina/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/minii-aav-ulaanbaatart-baina/</guid>
-      <description>Миний аав Улаанбаатарт байна (миний хүү аавыгаан их санасан юм бай)
-Миний аав уужам тайбан сэдьхэлтэй (уужуу тайван сэтгэлтэй шүү )
-Миний ааваа морин хуураар татаад (морин хуураа татаад гэж болж бай)
-Миний аав сайн суугаарай! (сайн байна миний хүү)
-Миний хүү Бээжин хотод байна (миний аав миний аав дуулж байна )
-Миний хүү хөөрхэн цовоо ааштай (намайг хөөрхөн гэж байна, би тийм хөөрхөн гэж үү?)
-Миний хүү тэбтэг хуураар тоглоод (би хуураа тоглоогvй )</description>
+      <description>&lt;p&gt;Миний аав Улаанбаатарт байна (миний хүү аавыгаан их санасан юм бай)&lt;br&gt;&#xA;Миний аав уужам тайбан сэдьхэлтэй (уужуу тайван сэтгэлтэй шүү )&lt;br&gt;&#xA;Миний ааваа морин хуураар татаад (морин хуураа татаад гэж болж бай)&lt;br&gt;&#xA;Миний аав сайн суугаарай! (сайн байна миний хүү)&lt;/p&gt;&#xA;&lt;p&gt;Миний хүү Бээжин хотод байна (миний аав миний аав дуулж байна )&lt;br&gt;&#xA;Миний хүү хөөрхэн цовоо ааштай (намайг хөөрхөн гэж байна, би тийм хөөрхөн гэж үү?)&lt;br&gt;&#xA;Миний хүү тэбтэг хуураар тоглоод (би хуураа тоглоогvй )&lt;br&gt;&#xA;Миний хүү сайн суугаа даа! (би тун сайн байна )&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Зандан хүрэн (ᠽᠠᠨᠳᠠᠨ ᠬᠦᠷᠢᠨ 送亲歌 Brown horse) [Ордос ардын дуу]</title>
       <link>http://mulliken.github.io/lyrics/zandan-huren/</link>
       <pubDate>Mon, 24 Jan 2022 23:21:40 -0400</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/zandan-huren/</guid>
-      <description>Зандан хүрнээ унаад аа
-Зандан зуудаа мөргөе дөө
-Замбуу тивийн наран дор
-Амар жаргах болтугай
-Манхан газар гүйдэлтэй
-Магнай халзан морь минь
-Магнаг торгоор чимсэн
-Хүүхэн үр хүнийх дээ
-Мөсөн дээгүүр гүйдэлтэй
-Мөнгөн цоохор морь минь
-Мөнгө шүрээр чимсэн
-Хүүхэн үр хүнийх дээ
-Дөрвөн ч даваа нь даваа даа
-Дөрөө минь элэгдэлээ
-Дөрвөн ч сар болсонгүй ээ / (сар холдов ээ)
-Ээжий Аавыгаа саналаа
-Амар жаргах болтугай.</description>
+      <description>&lt;p&gt;Зандан хүрнээ унаад аа&lt;br&gt;&#xA;Зандан зуудаа мөргөе дөө&lt;br&gt;&#xA;Замбуу тивийн наран дор&lt;br&gt;&#xA;Амар жаргах болтугай&lt;/p&gt;&#xA;&lt;p&gt;Манхан газар гүйдэлтэй&lt;br&gt;&#xA;Магнай халзан морь минь&lt;br&gt;&#xA;Магнаг торгоор чимсэн&lt;br&gt;&#xA;Хүүхэн үр хүнийх дээ&lt;/p&gt;&#xA;&lt;p&gt;Мөсөн дээгүүр гүйдэлтэй&lt;br&gt;&#xA;Мөнгөн цоохор морь минь&lt;br&gt;&#xA;Мөнгө шүрээр чимсэн&lt;br&gt;&#xA;Хүүхэн үр хүнийх дээ&lt;/p&gt;&#xA;&lt;p&gt;Дөрвөн ч даваа нь даваа даа&lt;br&gt;&#xA;Дөрөө минь элэгдэлээ&lt;br&gt;&#xA;Дөрвөн ч сар болсонгүй ээ / (сар холдов ээ)&lt;br&gt;&#xA;Ээжий Аавыгаа саналаа&lt;br&gt;&#xA;Амар жаргах болтугай.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Намжил (ᠨᠠᠮᠵᠢᠯ 那木吉拉 Namjil)</title>
       <link>http://mulliken.github.io/lyrics/namjil/</link>
       <pubDate>Mon, 24 Jan 2022 23:21:40 -0400</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/namjil/</guid>
-      <description>Lyrics in Cyrillic Mongolian Тэлмээ сайтай тагдга саарал морь еээ олохоос уртай аа намжил хө
-Тэргэндээ гүүлсэн тагдга дайжгээ оноод чи
-Айлаа тойроод дэншиж байж ба хө
-Тагшийн охин дүү даяан жий ухаа и олохоосоо уртай хө
-Давирснаа алдаад төвөгдөж байх үес чинь
-Тэнхрүүлж авч ба бэргэн чинь хө
-Алхаа сайтай алаг жороо морь еээ олохоос уртай аа намжил хө
-Аралдаа гүүлсэн агзаг богзгоо оноод чи
-Айлаа дэншээд гүйж байж ба хө</description>
+      <description>&lt;h2 id=&#34;lyrics-in-cyrillic-mongolian&#34;&gt;Lyrics in Cyrillic Mongolian&lt;/h2&gt;&#xA;&lt;p&gt;Тэлмээ сайтай тагдга саарал морь еээ олохоос уртай аа намжил хө&lt;br&gt;&#xA;Тэргэндээ гүүлсэн тагдга дайжгээ оноод чи&lt;br&gt;&#xA;Айлаа тойроод дэншиж байж ба хө&lt;br&gt;&#xA;Тагшийн охин дүү даяан жий ухаа и олохоосоо уртай хө&lt;br&gt;&#xA;Давирснаа алдаад төвөгдөж байх үес чинь&lt;br&gt;&#xA;Тэнхрүүлж авч ба бэргэн чинь хө&lt;/p&gt;&#xA;&lt;p&gt;Алхаа сайтай алаг жороо морь еээ олохоос уртай аа намжил хө&lt;br&gt;&#xA;Аралдаа гүүлсэн агзаг богзгоо оноод чи&lt;br&gt;&#xA;Айлаа дэншээд гүйж байж ба хө&lt;br&gt;&#xA;Арсланы охин дүү даяан жий ухаа и олохоосоо уртай хө&lt;br&gt;&#xA;Авснаа алдаад аргагүй явж байх үес чинь&lt;br&gt;&#xA;Араалж авч ба бэргэн чинь хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Юндэн гөөгөө/Юүдэн гөөгөө (ᠶᠦᠩᠳᠦᠩ ᠭᠡ ᠭᠡ 云登哥哥 The lad Yonden)</title>
       <link>http://mulliken.github.io/lyrics/yunden-goo-goo/</link>
       <pubDate>Mon, 24 Jan 2022 22:21:40 -0400</pubDate>
-      
       <guid>http://mulliken.github.io/lyrics/yunden-goo-goo/</guid>
-      <description>Данагар данагар алхаатай яа хө
-Дал мөрөө давсан гэзэгтэй өэ хө
-Далай вангийн Юндэн Гөөгөө
-Даанчиг цэвэрхэн төржээ хө
-Цагаан торгон цамцыг байсаар байтал хө
-Цагаан торгон цамцсар юугаа хийх вэ хө
-Царайлаг төрсөн Сийриймаагсаа / (Сийриймаагаа байсаар байтал)
-Царай муутай Сэрвүүмаагсар юугаан хийх вэ хө
-Өндөр байшингийн үүдэн дээрээ хө
-Өнгийн дэнлүүнүүд нь дүрайжээ хө
-Эхнэр эрийн дундаасаа болбол
-Юндэн Гөөгөө нь дурайжээ хө
-Барүүн уулын энгэр дээрээ хө</description>
+      <description>&lt;p&gt;Данагар  данагар  алхаатай яа хө&lt;br&gt;&#xA;Дал мөрөө давсан гэзэгтэй өэ хө&lt;br&gt;&#xA;Далай вангийн Юндэн Гөөгөө&lt;br&gt;&#xA;Даанчиг цэвэрхэн төржээ хө&lt;/p&gt;&#xA;&lt;p&gt;Цагаан торгон цамцыг байсаар байтал хө&lt;br&gt;&#xA;Цагаан торгон цамцсар юугаа хийх вэ хө&lt;br&gt;&#xA;Царайлаг төрсөн Сийриймаагсаа / (Сийриймаагаа байсаар байтал)&lt;br&gt;&#xA;Царай муутай Сэрвүүмаагсар юугаан хийх вэ хө&lt;/p&gt;&#xA;&lt;p&gt;Өндөр байшингийн үүдэн дээрээ хө&lt;br&gt;&#xA;Өнгийн дэнлүүнүүд нь дүрайжээ хө&lt;br&gt;&#xA;Эхнэр эрийн дундаасаа болбол&lt;br&gt;&#xA;Юндэн Гөөгөө нь дурайжээ хө&lt;/p&gt;&#xA;&lt;p&gt;Барүүн уулын энгэр дээрээ хө&lt;br&gt;&#xA;Бадамлянхуа цэцэг дэлгэрчээ хө&lt;br&gt;&#xA;Баруун хошууны Сийриймаатайгаа / (Сийриймаагаа байсаар байтал)&lt;br&gt;&#xA;Багын Юндэн Геөгөө нь мэндэлжээ хө&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lanczos tridiagonalization made simple</title>
       <link>http://mulliken.github.io/post/lanczos/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/post/lanczos/</guid>
-      <description>Given a real symmetric matrix $A$, one way to tridigonalize $A$ is the Lanczos procedure which I will introduce below. To transform $A$ into a tridiagonal matrix $T$, we need an orthogonal matrix $U$: $U^\dagger A U = T$ which implies $UT=AU$. Here,
-$$ T = \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp; &amp;amp; &amp;amp; \\ \beta_2 &amp;amp; \alpha_2 &amp;amp; \beta_3 &amp;amp; &amp;amp; \\ &amp;amp; \ddots &amp;amp; \ddots &amp;amp; \ddots &amp;amp;\\ &amp;amp; &amp;amp; \beta_{N-1} &amp;amp; \alpha_{N-1} &amp;amp;\beta_{N}\\ &amp;amp; &amp;amp; &amp;amp; \beta_N &amp;amp;\alpha_{N}\\ \end{pmatrix}.</description>
+      <description>&lt;p&gt;Given a real symmetric matrix &lt;code&gt;$A$&lt;/code&gt;, one way to tridigonalize &lt;code&gt;$A$&lt;/code&gt; is the Lanczos procedure which I will introduce below. To transform &lt;code&gt;$A$&lt;/code&gt; into a tridiagonal matrix &lt;code&gt;$T$&lt;/code&gt;, we need an orthogonal matrix &lt;code&gt;$U$&lt;/code&gt;: &lt;code&gt;$U^\dagger A U = T$&lt;/code&gt; which implies &lt;code&gt;$UT=AU$&lt;/code&gt;. Here,&lt;br&gt;&#xA;&lt;code&gt;$$ T =  \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp;                &amp;amp;  &amp;amp; \\ \beta_2 &amp;amp; \alpha_2 &amp;amp; \beta_3       &amp;amp;        &amp;amp; \\ &amp;amp; \ddots   &amp;amp; \ddots         &amp;amp; \ddots  &amp;amp;\\ &amp;amp;          &amp;amp; \beta_{N-1}   &amp;amp; \alpha_{N-1}  &amp;amp;\beta_{N}\\ &amp;amp;          &amp;amp;                &amp;amp; \beta_N  &amp;amp;\alpha_{N}\\ \end{pmatrix}. $$&lt;/code&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Thermo-field dynamics and mixed initial states</title>
       <link>http://mulliken.github.io/post/thermo-field/</link>
       <pubDate>Sun, 07 Feb 2021 02:07:40 -0330</pubDate>
-      
       <guid>http://mulliken.github.io/post/thermo-field/</guid>
-      <description>When simulating the dynamics of open quantum systems, one often assumes a pure initial state of the system part. The validity of the assumption, of course, depends on the experimental realization. In most of the excitation energy transfer experiments, a pure initial state is a faithful representation of the system because the coherent light that excites molecules makes the wave function of the system collapse to a certain state, hence factorizing the system-environment density matrix.</description>
+      <description>&lt;p&gt;When simulating the dynamics of open quantum systems, one often assumes a pure initial state of the system part. The validity of the assumption, of course, depends on the experimental realization. In most of the excitation energy transfer experiments, a pure initial state is a faithful representation of the system because the coherent light that excites molecules makes the wave function of the system collapse to a certain state, hence factorizing the system-environment density matrix. The factorized density matrix is &lt;code&gt;$\rho(t=0)=\rho_\mathrm{sys}(0)\otimes\rho_\mathrm{env}(0)$&lt;/code&gt; and the density matrix of the system at time zero (initial state)&lt;code&gt;$\rho_\mathrm{sys}(t=0)$&lt;/code&gt; is a pure-state in this case.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jordan Wigner transformation made simple</title>
       <link>http://mulliken.github.io/post/jordan-wigner/</link>
       <pubDate>Thu, 31 Dec 2020 20:07:40 -0400</pubDate>
-      
       <guid>http://mulliken.github.io/post/jordan-wigner/</guid>
-      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators into a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves, however, still didn&amp;rsquo;t make me fully understand why things work like this.
-But fortunately, I worked out some Kronecker products (or tensor products) of spin operators when I was developing the fishbonett package.</description>
+      <description>&lt;p&gt;The Jordan-Wigner transformation turns fermionic creation and annihilation operators into a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in &lt;a href=&#34;http://tqm.courses.phy.cam.ac.uk/docs/lectures/JordanWigner/&#34;&gt;this place&lt;/a&gt;. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves, however, still didn&amp;rsquo;t make me fully understand why things work like this.&lt;br&gt;&#xA;But fortunately, I worked out some Kronecker products (or tensor products) of spin operators when I was developing the &lt;a href=&#34;https://github.com/Mulliken/fishbone-tensor-networks&#34;&gt;fishbonett&lt;/a&gt; package. The combination of the matrix forms of the Kronecker products and the notes I mentioned hit the spot!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>http://mulliken.github.io/learning-mongolian/%D0%B0%D1%81%D1%83%D1%83%D0%BB%D1%82/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/learning-mongolian/%D0%B0%D1%81%D1%83%D1%83%D0%BB%D1%82/</guid>
-      <description>цаг ямар байна? 还是 ямар цаг байна? (什么时候了)
-句子 Багш аа, бйд таван chapter сурч, тэгээд нэг Ордос ардин дууны үг сурч болох уу?
-Багш аа, чи энэ үгийг яаж дууддаг вэ
-《蒙蒙的白雾》转写 Сэнсэн манан
-Сэнсэн манан татлаа доо
-Сэрүүн цагийн униар (薄雾/尘霭) байна
-Шинэхэн (较新的) ханилсанаа бодоход
-Сэтгэл минь уярна доо
-Хэсэг хэсэг үүлнээс
-Хэсэг хур нь орох юм байна
-Хэсэг зуурдаа бодоход
-Гэртээ суух дургүй доо
-为什么词典上的 Гэртээ 是 ᠭᠡᠷ ᠲᠡᠭᠡᠨ。还是说我认错了，不是Гэртээ</description>
+      <description>&lt;p&gt;цаг ямар байна? 还是 ямар цаг байна? (什么时候了)&lt;/p&gt;&#xA;&lt;h2 id=&#34;句子&#34;&gt;句子&lt;/h2&gt;&#xA;&lt;p&gt;Багш аа, бйд таван chapter сурч, тэгээд нэг Ордос ардин дууны үг сурч болох уу?&lt;br&gt;&#xA;Багш аа, чи энэ үгийг яаж дууддаг вэ&lt;/p&gt;&#xA;&lt;h2 id=&#34;蒙蒙的白雾转写&#34;&gt;《蒙蒙的白雾》转写&lt;/h2&gt;&#xA;&lt;p&gt;Сэнсэн манан&lt;/p&gt;&#xA;&lt;p&gt;Сэнсэн манан татлаа доо&lt;br&gt;&#xA;Сэрүүн цагийн униар (薄雾/尘霭) байна&lt;br&gt;&#xA;Шинэхэн (较新的) ханилсанаа бодоход&lt;br&gt;&#xA;Сэтгэл минь уярна доо&lt;/p&gt;&#xA;&lt;p&gt;Хэсэг хэсэг үүлнээс&lt;br&gt;&#xA;Хэсэг хур нь орох юм байна&lt;br&gt;&#xA;Хэсэг зуурдаа бодоход&lt;br&gt;&#xA;Гэртээ суух дургүй доо&lt;/p&gt;&#xA;&lt;p&gt;为什么词典上的 Гэртээ 是 ᠭᠡᠷ ᠲᠡᠭᠡᠨ。还是说我认错了，不是Гэртээ&lt;br&gt;&#xA;Хаврын цагт цуглардаг хамаг шувуухай&lt;br&gt;&#xA;春天聚集的成群飞鸟&lt;br&gt;&#xA;Хар сэрүүн унахуй цагт харьдаг байлгүй доо&lt;br&gt;&#xA;严寒降下时总要南归吧&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>http://mulliken.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/about/</guid>
-      <description>I am a theoretical chemist interested in quantum dynamics and electronic structures of molecules and solids. I can be contacted by email (hanggai.nomin AT gmail.com). The list of my publications is available on the Google Scholar page.
-In my free time, I enjoy reading, biking, and ice skating. I also love collecting and listening to Mongolian folk songs. I believe in fostering an inclusive scientific community that values diversity across race, ethnicity, socioeconomic background, disability, gender identity and orientation.</description>
+      <description>&lt;p&gt;I am a theoretical chemist interested in quantum dynamics and electronic structures of molecules and solids. I can be contacted by email (hanggai.nomin AT gmail.com). The list of my publications is available on the &lt;a href=&#34;https://scholar.google.com/citations?user=TcuK1BEAAAAJ&#34;&gt;Google Scholar page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In my free time, I enjoy reading, biking, and ice skating. I also love collecting and listening to Mongolian folk songs. I believe in fostering an inclusive scientific community that values diversity across race, ethnicity, socioeconomic background, disability, gender identity and orientation. By embracing a wide range of perspectives and experiences, we can drive innovation, enhance creativity, and solve complex problems more effectively.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Links</title>
       <link>http://mulliken.github.io/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/links/</guid>
-      <description>Blogs/Websites Mageluer&amp;rsquo;s website Ayron&amp;rsquo;s blog Mongolian Books/Dictionaries Most of the PDF&amp;rsquo;s were bought. Several were obtained at 水晶珠书屋. Links starting with traditional Mongolian script are in Mongolian or Mongolian-Chinese.
-ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ (ᠪᠠᠭᠠᠲᠤᠷ)蒙古语文教程(巴特尔) PDF 新蒙汉词典 (带西里尔及传统蒙文) PDF ᠬᠥᠬᠡ ᠲᠦᠯᠬᠢᠭᠦᠷ呼和图力呼尔 古蒙古语词语解释 PDF 99首蒙古民歌精选(乌兰杰等) PDF ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠳᠠᠭᠤᠤ ᠵᠠᠭᠤᠨ ᠪᠠᠳᠠᠭ蒙古民歌一百首 PDF ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ轻轻松松学蒙古语 PDF 汉蒙对照新蒙文教程(德·乌恩其) PDF 蒙古语简志(道布著) PDF 现代蒙古语教程(侯万庄等) 外部链接 ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠪᠣᠳᠢ—ᠳᠠᠷᠤᠯᠠᠯ ᠮᠥᠯᠵᠢᠯ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠭᠰᠡᠨ ᠳᠠᠭᠤᠤ蒙古民歌一千首（第一卷） PDF ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠪᠣᠳᠢ—ᠠᠵᠤ ᠪᠠᠶᠢᠳᠠᠯ᠂ ᠵᠠᠩ ᠵᠠᠩᠰᠢᠯ ᠤᠨ ᠳᠠᠭᠤᠤ蒙古民歌一千首（第二卷） PDF ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠳᠥᠷᠪᠡᠳᠦᠭᠡᠷ ᠪᠣᠳᠢ—ᠢᠨᠠᠭ ᠠᠮᠠᠷᠠᠭ ᠤᠨ ᠳᠠᠭᠤᠤ蒙古民歌一千首（第四卷） PDF ᠮᠣᠩᠭᠣᠯ ᠦᠭᠡᠰ ᠦᠨ ᠢᠵᠠᠭᠤᠷ ᠤᠨ ᠲᠣᠯᠢ蒙古语词根词典 PDF 蒙古语比较语法 桑席叶夫[苏]著 PDF 鄂尔多斯民歌精粹(上) 包俊臣 王立庄 著 PDF 中国民间歌曲集成 内蒙古卷 （上、下卷） (《中国民间歌曲集成》全国编辑委员会编) PDF ᠣᠷᠳᠣᠰ ᠰᠣᠩᠭᠣᠳᠠᠭ ᠠᠷᠠᠳ ᠤᠨ ᠳᠠᠭᠤ鄂尔多斯民歌经典 杜梓、巴达日拉图、乌力更 编 PDF A Student Guide to Khalkha Mongolian Pronunciation Book PDF (外部链接 external links)</description>
+      <description>&lt;h2 id=&#34;blogswebsites&#34;&gt;Blogs/Websites&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.mageluer.com&#34;&gt;Mageluer&amp;rsquo;s website&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://zhigangpu.github.io/&#34;&gt;Ayron&amp;rsquo;s blog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;mongolian-booksdictionaries&#34;&gt;Mongolian Books/Dictionaries&lt;/h2&gt;&#xA;&lt;p&gt;Most of the PDF&amp;rsquo;s were bought. Several were obtained at &lt;a href=&#34;http://39.99.62.216:8003/&#34;&gt;水晶珠书屋&lt;/a&gt;. Links starting with traditional Mongolian script are in Mongolian or Mongolian-Chinese.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ  ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ (ᠪᠠᠭᠠᠲᠤᠷ)&#xD;&#xA;&lt;/span&gt; 蒙古语文教程(巴特尔)   &lt;a href=&#34;http://mulliken.github.io/files/%E8%92%99%E5%8F%A4%E8%AF%AD%E6%96%87%E6%95%99%E7%A8%8B_%E5%B7%B4%E7%89%B9%E5%B0%94.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;新蒙汉词典 (带西里尔及传统蒙文)   &lt;a href=&#34;http://mulliken.github.io/files/%E6%96%B0%E8%92%99%E6%B1%89%E8%AF%8D%E5%85%B8.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠬᠥᠬᠡ ᠲᠦᠯᠬᠢᠭᠦᠷ&#xD;&#xA;&lt;/span&gt; 呼和图力呼尔 古蒙古语词语解释   &lt;a href=&#34;https://libgen.is/search.php?req=%E5%91%BC%E5%92%8C%E5%9B%BE%E5%8A%9B%E5%91%BC%E5%B0%94&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;99首蒙古民歌精选(乌兰杰等)   &lt;a href=&#34;http://mulliken.github.io/files/99%E9%A6%96%E8%92%99%E5%8F%A4%E6%B0%91%E6%AD%8C%E7%B2%BE%E9%80%89.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠳᠠᠭᠤᠤ ᠵᠠᠭᠤᠨ ᠪᠠᠳᠠᠭ&#xD;&#xA;&lt;/span&gt; 蒙古民歌一百首   &lt;a href=&#34;http://mulliken.github.io/files/%E1%A0%AE%E1%A0%A3%E1%A0%A9%E1%A0%AD%E1%A0%A3%E1%A0%AF-%E1%A0%A0%E1%A0%B7%E1%A0%A0%E1%A0%B3-%E2%80%AF%E1%A0%A4%E1%A0%A8-%E1%A0%B3%E1%A0%A0%E1%A0%AD%E1%A0%A4%E1%A0%A4-%E1%A0%B5%E1%A0%A0%E1%A0%AD%E1%A0%A4%E1%A0%A8-%E1%A0%AA%E1%A0%A0%E1%A0%B3%E1%A0%A0%E1%A0%AD-%E8%92%99%E5%8F%A4%E6%B0%91%E6%AD%8C%E4%B8%80%E7%99%BE%E9%A6%96.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ ᠰᠤᠷᠬᠤ ᠪᠢᠴᠢᠭ&#xD;&#xA;&lt;/span&gt; 轻轻松松学蒙古语   &lt;a href=&#34;http://mulliken.github.io/files/%E1%A0%AE%E1%A0%A3%E1%A0%A9%E1%A0%AD%E1%A0%A3%E1%A0%AF_%E1%A0%AC%E1%A0%A1%E1%A0%AF%E1%A0%A1_%E1%A0%B0%E1%A0%A4%E1%A0%B7%E1%A0%AC%E1%A0%A4_%E1%A0%AA%E1%A0%A2%E1%A0%B4%E1%A0%A2%E1%A0%AD_%E8%BD%BB%E8%BD%BB%E6%9D%BE%E6%9D%BE%E5%AD%A6%E8%92%99%E5%8F%A4%E8%AF%AD.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;汉蒙对照新蒙文教程(德·乌恩其)   &lt;a href=&#34;http://mulliken.github.io/files/%E6%B1%89%E8%92%99%E5%AF%B9%E7%85%A7%E6%96%B0%E8%92%99%E6%96%87%E6%95%99%E7%A8%8B.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;蒙古语简志(道布著)   &lt;a href=&#34;http://mulliken.github.io/files/%E9%81%93%E5%B8%83_%E8%92%99%E5%8F%A4%E8%AF%AD%E7%AE%80%E5%BF%97.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;现代蒙古语教程(侯万庄等)   &lt;a href=&#34;https://libgen.is/search.php?req=%E7%8E%B0%E4%BB%A3%E8%92%99%E5%8F%A4%E8%AF%AD%E6%95%99%E7%A8%8B&#34;&gt;外部链接&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ   ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠪᠣᠳᠢ—ᠳᠠᠷᠤᠯᠠᠯ ᠮᠥᠯᠵᠢᠯ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠭᠰᠡᠨ ᠳᠠᠭᠤᠤ&#xD;&#xA;&lt;/span&gt; 蒙古民歌一千首（第一卷）   &lt;a href=&#34;http://mulliken.github.io/files/%E8%92%99%E5%8F%A4%E6%B0%91%E6%AD%8C%E4%B8%80%E5%8D%83%E9%A6%96%EF%BC%88%E7%AC%AC%E4%B8%80%E5%8D%B7%EF%BC%89.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠪᠣᠳᠢ—ᠠᠵᠤ ᠪᠠᠶᠢᠳᠠᠯ᠂ ᠵᠠᠩ ᠵᠠᠩᠰᠢᠯ ᠤᠨ ᠳᠠᠭᠤᠤ&#xD;&#xA;&lt;/span&gt;  蒙古民歌一千首（第二卷）   &lt;a href=&#34;http://mulliken.github.io/files/%E8%92%99%E5%8F%A4%E6%B0%91%E6%AD%8C%E4%B8%80%E5%8D%83%E9%A6%96%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%8D%B7%EF%BC%89.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠮᠣᠩᠭᠣᠯ ᠠᠷᠠᠳ ᠤᠨ ᠮᠢᠩᠭᠠᠨ ᠳᠠᠭᠤᠤ ᠳᠥᠷᠪᠡᠳᠦᠭᠡᠷ ᠪᠣᠳᠢ—ᠢᠨᠠᠭ ᠠᠮᠠᠷᠠᠭ ᠤᠨ ᠳᠠᠭᠤᠤ&#xD;&#xA;&lt;/span&gt; 蒙古民歌一千首（第四卷）   &lt;a href=&#34;http://mulliken.github.io/files/%E8%92%99%E5%8F%A4%E6%B0%91%E6%AD%8C%E4%B8%80%E5%8D%83%E9%A6%96%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%8D%B7%EF%BC%89.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠮᠣᠩᠭᠣᠯ ᠦᠭᠡᠰ ᠦᠨ ᠢᠵᠠᠭᠤᠷ ᠤᠨ ᠲᠣᠯᠢ&#xD;&#xA;&lt;/span&gt; 蒙古语词根词典   &lt;a href=&#34;http://mulliken.github.io/files/%E8%92%99%E5%8F%A4%E8%AF%AD%E8%AF%8D%E6%A0%B9%E8%AF%8D%E5%85%B8.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;蒙古语比较语法 桑席叶夫[苏]著   &lt;a href=&#34;http://mulliken.github.io/files/%E8%92%99%E5%8F%A4%E8%AF%AD%E6%AF%94%E8%BE%83%E8%AF%AD%E6%B3%95.PDF&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;鄂尔多斯民歌精粹(上) 包俊臣 王立庄 著   &lt;a href=&#34;http://mulliken.github.io/files/mongol-nom/%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E6%B0%91%E6%AD%8C%E9%9B%86%E7%B2%B9-%E5%8C%85%E4%BF%8A%E8%87%A3-%E7%8E%8B%E7%AB%8B%E5%BA%84(%E4%B8%8A).pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;中国民间歌曲集成 内蒙古卷 （上、下卷）   (《中国民间歌曲集成》全国编辑委员会编) &lt;a href=&#34;http://mulliken.github.io/files/music-books/%E4%B8%AD%E5%9B%BD%E6%B0%91%E9%97%B4%E6%AD%8C%E6%9B%B2%E9%9B%86%E6%88%90-%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%B7%EF%BC%88%E4%B8%8A%E3%80%81%E4%B8%8B%E5%8D%B7%EF%BC%89.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&#34;mongolian&#34;&gt;&#xD;&#xA;    ᠣᠷᠳᠣᠰ ᠰᠣᠩᠭᠣᠳᠠᠭ ᠠᠷᠠᠳ ᠤᠨ ᠳᠠᠭᠤ&#xD;&#xA;&lt;/span&gt; 鄂尔多斯民歌经典 杜梓、巴达日拉图、乌力更 编 &lt;a href=&#34;http://mulliken.github.io/files/music-books/%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E6%B0%91%E6%AD%8C%E7%BB%8F%E5%85%B8.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;a-student-guide-to-khalkha-mongolian-pronunciation&#34;&gt;A Student Guide to Khalkha Mongolian Pronunciation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://3lib.net/md5/C4CE505085D0AA924CCB54B5ECB527B0&#34;&gt;Book PDF&lt;/a&gt; (外部链接 external links)&lt;br&gt;&#xA;&lt;a href=&#34;http://mulliken.github.io/files/audio/audios-a-student-guide-to-Khalkha-Mongolian-pronunciation.zip&#34;&gt;Tape Recordings&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Түшиг (ᠲᠦᠰᠢᠭ 依靠/ Support) [Ордос ардын дуу]</title>
-      <link>http://mulliken.github.io/lyrics/tushig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mulliken.github.io/lyrics/tushig/</guid>
-      <description>Хар морио унаж явбал
-Хангай замдаа түшиг шуу
-Харанхуй шөнөдөө ганц л явбал
-Хань нөхөр түшиг шуу
-Хүрэн морио унаж явбал
-Хөндий(-н) замдаа түшиг шуу
-Хүний газар явах доо
-Хүүхэн хань минь түшиг шуу</description>
-    </item>
-    
   </channel>
 </rss>

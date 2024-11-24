@@ -4,81 +4,58 @@
     <title>Posts on </title>
     <link>http://mulliken.github.io/post/</link>
     <description>Recent content in Posts on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 23:21:40 -0400</lastBuildDate><atom:link href="http://mulliken.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 02:07:40 +0000</lastBuildDate>
+    <atom:link href="http://mulliken.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golden-rule electron transfer rate with a nonequilibrium nuclear initial condition</title>
       <link>http://mulliken.github.io/post/fermi-s-golden-rule-duschinsky/</link>
       <pubDate>Wed, 17 Apr 2024 02:07:40 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/post/fermi-s-golden-rule-duschinsky/</guid>
-      <description>Model: spin-boson To derive Fermi&amp;rsquo;s golden rule rate for a nonequilibrium initial state, we use polaron transformation to remove the diagonal linear vibronic couplings (LVC). We start from the usual LVC Hamiltonian
-\begin{align} H_{0} &amp;amp; =\left(E_{1}+\omega a^{\dagger}a+c_{1}(a^{\dagger}+a)\right)\left|1\right\rangle \left\langle 1\right|\\ &amp;amp; +\left(E_{2}+\omega a^{\dagger}a+c_{2}(a^{\dagger}+a)\right)\left|2\right\rangle \left\langle 2\right|\\ V &amp;amp; =g_{12}\left|1\right\rangle \left\langle 2\right|+h.c. \end{align}
-Here, only a single vibrational mode is used for simplicity of derivation. To include multiple modes, one only needs to replace the single mode term in the conclusion with a sum over all modes.</description>
+      <description>&lt;h2 id=&#34;model-spin-boson&#34;&gt;Model: spin-boson&lt;/h2&gt;&#xA;&lt;p&gt;To derive Fermi&amp;rsquo;s golden rule rate for a nonequilibrium initial state, we use polaron transformation to remove the diagonal linear vibronic couplings (LVC). We start from the usual LVC Hamiltonian&lt;br&gt;&#xA;&lt;code&gt;\begin{align} H_{0} &amp;amp; =\left(E_{1}+\omega a^{\dagger}a+c_{1}(a^{\dagger}+a)\right)\left|1\right\rangle \left\langle 1\right|\\ &amp;amp; +\left(E_{2}+\omega a^{\dagger}a+c_{2}(a^{\dagger}+a)\right)\left|2\right\rangle \left\langle 2\right|\\ V &amp;amp; =g_{12}\left|1\right\rangle \left\langle 2\right|+h.c. \end{align}&lt;/code&gt;&lt;br&gt;&#xA;Here, only a single vibrational mode is used for simplicity of derivation. To include multiple modes, one only needs to replace the single mode term in the conclusion with a sum over all modes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discretizing a continuum using the Gaussian-Legendre quadrature</title>
       <link>http://mulliken.github.io/post/gaussian-quadrature-discretization/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/post/gaussian-quadrature-discretization/</guid>
-      <description>A prototypical model for condensed-phase chemical reactions is the spin-boson model: a two-level spin coupled to a continuum of vibrations (bosons). The spin-boson Hamiltonian is
-\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger + a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}} x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]
-Assuming $\rho(x)=1$, to discretize the continuum of bosons, we approximate the integral $\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger + a_{x})\mathrm{d}x$ by
-\[ \sum_{n=1}^N \left\{ h(x_n) (a_{x_n}^\dagger + a_{x_n})W_n \right\} \]</description>
+      <description>&lt;p&gt;A prototypical model for condensed-phase chemical reactions is the spin-boson model: a two-level spin coupled to a continuum of vibrations (bosons). The spin-boson Hamiltonian is&lt;br&gt;&#xA;&lt;code&gt;\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger +  a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}}  x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]&lt;/code&gt;&lt;br&gt;&#xA;Assuming &lt;code&gt;$\rho(x)=1$&lt;/code&gt;, to discretize the continuum of bosons, we approximate the integral &lt;code&gt;$\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger +  a_{x})\mathrm{d}x$&lt;/code&gt; by&lt;br&gt;&#xA;&lt;code&gt;\[ \sum_{n=1}^N \left\{  h(x_n) (a_{x_n}^\dagger +  a_{x_n})W_n \right\} \]&lt;/code&gt;&lt;br&gt;&#xA;where&lt;br&gt;&#xA;&lt;code&gt;\[ W_n = \int_0^{x_\mathrm{max}} \frac{\prod_{m\neq n}(x-x_m)}{\prod_{m\neq n}(x_n-x_m)} \mathrm{d}x \]&lt;/code&gt;&lt;br&gt;&#xA;The integrand of &lt;code&gt;$W_n$&lt;/code&gt; is a Lagrange interpolating polynomial. &lt;code&gt;$W_n$&lt;/code&gt; is the weight for the Gaussian quadrature. It has been shown&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; that the approximation (when &lt;code&gt;N&amp;lt;\infty&lt;/code&gt;) is the best if the nodes &lt;code&gt;$\{x_m\}$&lt;/code&gt; are the roots of the N-th order Legendre polynomials over the integration interval &lt;code&gt;$[0,x_\mathrm{max}]$&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The golden-rule electron transfer rate for a multi-state system</title>
       <link>http://mulliken.github.io/post/fermi-s-golden-rule-multi-state/</link>
       <pubDate>Tue, 17 May 2022 02:07:40 -0330</pubDate>
-      
       <guid>http://mulliken.github.io/post/fermi-s-golden-rule-multi-state/</guid>
-      <description>Second-order Fermi&amp;rsquo;s golden rule rate for a two-acceptor electron transfer model A vibronic Hamiltonian1 of a 3-state electron-transfer system with a single donor and two acceptors is $\hat{H}_0+\hat{V}$.
-\begin{align} \hat{H}_{0}&amp;amp;=\hat{h}_{a}\left|a\right\rangle \left\langle a\right|+\hat{h}_{b}\left|b\right\rangle \left\langle b\right|+\hat{h}_{c}\left|c\right\rangle \left\langle c\right|\\ V&amp;amp;=g_{ab}\left|a\right\rangle \left\langle b\right|+g_{ac}\left|a\right\rangle \left\langle c\right|+g_{bc}\left|b\right\rangle \left\langle c\right|+h.c. \end{align}
-In this Hamiltonian, $\ket{a}$ is the donor state and $\ket{b}$ and $\ket{c}$ are the two acceptor states. If the electronic couplings among $a$, $b$, and $c$ are small, the electron transfer rate can be calculated by using Fermi&amp;rsquo;s golden rule.</description>
+      <description>&lt;h2 id=&#34;second-order-fermis-golden-rule-rate-for-a-two-acceptor-electron-transfer-model&#34;&gt;Second-order Fermi&amp;rsquo;s golden rule rate for a two-acceptor electron transfer model&lt;/h2&gt;&#xA;&lt;p&gt;A vibronic Hamiltonian&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of a 3-state electron-transfer system with a single donor and two acceptors is &lt;code&gt;$\hat{H}_0+\hat{V}$&lt;/code&gt;.&lt;br&gt;&#xA;&lt;code&gt;\begin{align} \hat{H}_{0}&amp;amp;=\hat{h}_{a}\left|a\right\rangle \left\langle a\right|+\hat{h}_{b}\left|b\right\rangle \left\langle b\right|+\hat{h}_{c}\left|c\right\rangle \left\langle c\right|\\ V&amp;amp;=g_{ab}\left|a\right\rangle \left\langle b\right|+g_{ac}\left|a\right\rangle \left\langle c\right|+g_{bc}\left|b\right\rangle \left\langle c\right|+h.c. \end{align}&lt;/code&gt;&lt;br&gt;&#xA;In this Hamiltonian, &lt;code&gt;$\ket{a}$&lt;/code&gt; is the donor state and &lt;code&gt;$\ket{b}$&lt;/code&gt; and &lt;code&gt;$\ket{c}$&lt;/code&gt; are the two acceptor states. If the electronic couplings among &lt;code&gt;$a$&lt;/code&gt;, &lt;code&gt;$b$&lt;/code&gt;, and &lt;code&gt;$c$&lt;/code&gt; are small, the electron transfer rate can be calculated by using Fermi&amp;rsquo;s golden rule. To do this, we turn to the interaction picture and calculate the propagator up to the second order.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quantum process tomography and the transfer tensor method for long-time non-Markovian dynamics</title>
       <link>http://mulliken.github.io/post/quantum-process-tomography-and-transfer-tensors/</link>
       <pubDate>Tue, 05 Apr 2022 12:07:40 -0400</pubDate>
-      
       <guid>http://mulliken.github.io/post/quantum-process-tomography-and-transfer-tensors/</guid>
-      <description>Motivation Predicting long-time dynamics from short-time information is a promising way of studying how equilibrium is approached for an open quantum system starting from a non-equilibrium initial condition.
-This post discusses one of the prediction methods for long-time open system dynamics, the transfer tensor method (TTM)1. The TTM is based on (i) the Nakajima-Zwanzig equation of an open quantum system [Eq. (1)], and (ii) the assumption that the state of the open system at a time $t$ is barely correlated with the state at $t&#39;$ if $|t-t&#39;|$ is greater than a certain threshold.</description>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;Predicting long-time dynamics from short-time information is a promising way of studying how equilibrium is approached for an open quantum system starting from a non-equilibrium initial condition.&lt;/p&gt;&#xA;&lt;p&gt;This post discusses one of the prediction methods for long-time open system dynamics, the transfer tensor method (TTM)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The TTM is based on (i) the Nakajima-Zwanzig equation of an open quantum system [Eq. (1)], and (ii) the assumption that the state of the open system at a time &lt;code&gt;$t$&lt;/code&gt; is barely correlated with the state at &lt;code&gt;$t&#39;$&lt;/code&gt; if &lt;code&gt;$|t-t&#39;|$&lt;/code&gt; is greater than a certain threshold.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lanczos tridiagonalization made simple</title>
       <link>http://mulliken.github.io/post/lanczos/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/post/lanczos/</guid>
-      <description>Given a real symmetric matrix $A$, one way to tridigonalize $A$ is the Lanczos procedure which I will introduce below. To transform $A$ into a tridiagonal matrix $T$, we need an orthogonal matrix $U$: $U^\dagger A U = T$ which implies $UT=AU$. Here,
-$$ T = \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp; &amp;amp; &amp;amp; \\ \beta_2 &amp;amp; \alpha_2 &amp;amp; \beta_3 &amp;amp; &amp;amp; \\ &amp;amp; \ddots &amp;amp; \ddots &amp;amp; \ddots &amp;amp;\\ &amp;amp; &amp;amp; \beta_{N-1} &amp;amp; \alpha_{N-1} &amp;amp;\beta_{N}\\ &amp;amp; &amp;amp; &amp;amp; \beta_N &amp;amp;\alpha_{N}\\ \end{pmatrix}.</description>
+      <description>&lt;p&gt;Given a real symmetric matrix &lt;code&gt;$A$&lt;/code&gt;, one way to tridigonalize &lt;code&gt;$A$&lt;/code&gt; is the Lanczos procedure which I will introduce below. To transform &lt;code&gt;$A$&lt;/code&gt; into a tridiagonal matrix &lt;code&gt;$T$&lt;/code&gt;, we need an orthogonal matrix &lt;code&gt;$U$&lt;/code&gt;: &lt;code&gt;$U^\dagger A U = T$&lt;/code&gt; which implies &lt;code&gt;$UT=AU$&lt;/code&gt;. Here,&lt;br&gt;&#xA;&lt;code&gt;$$ T =  \begin{pmatrix} \alpha_1 &amp;amp; \beta_2 &amp;amp;                &amp;amp;  &amp;amp; \\ \beta_2 &amp;amp; \alpha_2 &amp;amp; \beta_3       &amp;amp;        &amp;amp; \\ &amp;amp; \ddots   &amp;amp; \ddots         &amp;amp; \ddots  &amp;amp;\\ &amp;amp;          &amp;amp; \beta_{N-1}   &amp;amp; \alpha_{N-1}  &amp;amp;\beta_{N}\\ &amp;amp;          &amp;amp;                &amp;amp; \beta_N  &amp;amp;\alpha_{N}\\ \end{pmatrix}. $$&lt;/code&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Thermo-field dynamics and mixed initial states</title>
       <link>http://mulliken.github.io/post/thermo-field/</link>
       <pubDate>Sun, 07 Feb 2021 02:07:40 -0330</pubDate>
-      
       <guid>http://mulliken.github.io/post/thermo-field/</guid>
-      <description>When simulating the dynamics of open quantum systems, one often assumes a pure initial state of the system part. The validity of the assumption, of course, depends on the experimental realization. In most of the excitation energy transfer experiments, a pure initial state is a faithful representation of the system because the coherent light that excites molecules makes the wave function of the system collapse to a certain state, hence factorizing the system-environment density matrix.</description>
+      <description>&lt;p&gt;When simulating the dynamics of open quantum systems, one often assumes a pure initial state of the system part. The validity of the assumption, of course, depends on the experimental realization. In most of the excitation energy transfer experiments, a pure initial state is a faithful representation of the system because the coherent light that excites molecules makes the wave function of the system collapse to a certain state, hence factorizing the system-environment density matrix. The factorized density matrix is &lt;code&gt;$\rho(t=0)=\rho_\mathrm{sys}(0)\otimes\rho_\mathrm{env}(0)$&lt;/code&gt; and the density matrix of the system at time zero (initial state)&lt;code&gt;$\rho_\mathrm{sys}(t=0)$&lt;/code&gt; is a pure-state in this case.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jordan Wigner transformation made simple</title>
       <link>http://mulliken.github.io/post/jordan-wigner/</link>
       <pubDate>Thu, 31 Dec 2020 20:07:40 -0400</pubDate>
-      
       <guid>http://mulliken.github.io/post/jordan-wigner/</guid>
-      <description>The Jordan-Wigner transformation turns fermionic creation and annihilation operators into a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in this place. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves, however, still didn&amp;rsquo;t make me fully understand why things work like this.
-But fortunately, I worked out some Kronecker products (or tensor products) of spin operators when I was developing the fishbonett package.</description>
+      <description>&lt;p&gt;The Jordan-Wigner transformation turns fermionic creation and annihilation operators into a combination of spin operators. I had a hard time understanding how it works until yesterday I came across the notes in &lt;a href=&#34;http://tqm.courses.phy.cam.ac.uk/docs/lectures/JordanWigner/&#34;&gt;this place&lt;/a&gt;. The notes list the definitions and the algebra of the &amp;ldquo;string+spin&amp;rdquo; operators. The notes themselves, however, still didn&amp;rsquo;t make me fully understand why things work like this.&lt;br&gt;&#xA;But fortunately, I worked out some Kronecker products (or tensor products) of spin operators when I was developing the &lt;a href=&#34;https://github.com/Mulliken/fishbone-tensor-networks&#34;&gt;fishbonett&lt;/a&gt; package. The combination of the matrix forms of the Kronecker products and the notes I mentioned hit the spot!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

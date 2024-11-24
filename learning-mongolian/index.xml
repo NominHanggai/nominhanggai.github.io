@@ -1,31 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning-mongolians on </title>
+    <title>Learning-Mongolians on </title>
     <link>http://mulliken.github.io/learning-mongolian/</link>
-    <description>Recent content in Learning-mongolians on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://mulliken.github.io/learning-mongolian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Learning-Mongolians on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://mulliken.github.io/learning-mongolian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://mulliken.github.io/learning-mongolian/%D0%B0%D1%81%D1%83%D1%83%D0%BB%D1%82/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://mulliken.github.io/learning-mongolian/%D0%B0%D1%81%D1%83%D1%83%D0%BB%D1%82/</guid>
-      <description>цаг ямар байна? 还是 ямар цаг байна? (什么时候了)
-句子 Багш аа, бйд таван chapter сурч, тэгээд нэг Ордос ардин дууны үг сурч болох уу?
-Багш аа, чи энэ үгийг яаж дууддаг вэ
-《蒙蒙的白雾》转写 Сэнсэн манан
-Сэнсэн манан татлаа доо
-Сэрүүн цагийн униар (薄雾/尘霭) байна
-Шинэхэн (较新的) ханилсанаа бодоход
-Сэтгэл минь уярна доо
-Хэсэг хэсэг үүлнээс
-Хэсэг хур нь орох юм байна
-Хэсэг зуурдаа бодоход
-Гэртээ суух дургүй доо
-为什么词典上的 Гэртээ 是 ᠭᠡᠷ ᠲᠡᠭᠡᠨ。还是说我认错了，不是Гэртээ</description>
+      <description>&lt;p&gt;цаг ямар байна? 还是 ямар цаг байна? (什么时候了)&lt;/p&gt;&#xA;&lt;h2 id=&#34;句子&#34;&gt;句子&lt;/h2&gt;&#xA;&lt;p&gt;Багш аа, бйд таван chapter сурч, тэгээд нэг Ордос ардин дууны үг сурч болох уу?&lt;br&gt;&#xA;Багш аа, чи энэ үгийг яаж дууддаг вэ&lt;/p&gt;&#xA;&lt;h2 id=&#34;蒙蒙的白雾转写&#34;&gt;《蒙蒙的白雾》转写&lt;/h2&gt;&#xA;&lt;p&gt;Сэнсэн манан&lt;/p&gt;&#xA;&lt;p&gt;Сэнсэн манан татлаа доо&lt;br&gt;&#xA;Сэрүүн цагийн униар (薄雾/尘霭) байна&lt;br&gt;&#xA;Шинэхэн (较新的) ханилсанаа бодоход&lt;br&gt;&#xA;Сэтгэл минь уярна доо&lt;/p&gt;&#xA;&lt;p&gt;Хэсэг хэсэг үүлнээс&lt;br&gt;&#xA;Хэсэг хур нь орох юм байна&lt;br&gt;&#xA;Хэсэг зуурдаа бодоход&lt;br&gt;&#xA;Гэртээ суух дургүй доо&lt;/p&gt;&#xA;&lt;p&gt;为什么词典上的 Гэртээ 是 ᠭᠡᠷ ᠲᠡᠭᠡᠨ。还是说我认错了，不是Гэртээ&lt;br&gt;&#xA;Хаврын цагт цуглардаг хамаг шувуухай&lt;br&gt;&#xA;春天聚集的成群飞鸟&lt;br&gt;&#xA;Хар сэрүүн унахуй цагт харьдаг байлгүй доо&lt;br&gt;&#xA;严寒降下时总要南归吧&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
