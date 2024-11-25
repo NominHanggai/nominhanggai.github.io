@@ -73,9 +73,9 @@ where <code>$\Delta E=(E_{1}-\frac{c_{1}^{2}}{\omega})-(E_{2}-\frac{c_{2}^{2}}{\
 and rotate it by sandwiching it with<br>
 <code>\begin{align} &amp; e^{(a^{\dagger}-a)\frac{c_{0}}{\omega}}e^{-(a^{\dagger}-a)\frac{c_{1}}{\omega}}(\cdot)e^{(a^{\dagger}-a)\frac{c_{1}}{\omega}}e^{-(a^{\dagger}-a)\frac{c_{0}}{\omega}}\\ = &amp; e^{-(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}(\cdot)e^{(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}. \end{align}</code></p>
 <p>After rotation, the operator expression above is<br>
-<code>\begin{align} &amp; e^{-(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}\exp\left[\frac{c_{1}-c_{2}}{\omega}\left(a^{\dagger}(e^{i\omega t_{1}}-e^{i\omega t_{2}})-a(e^{-i\omega t_{1}}-e^{-i\omega t_{2}})\right)\right]e^{(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}\\ = &amp; \exp\left[\frac{c_{1}-c_{2}}{\omega}\left((a^{\dagger}+\frac{c_{1}-c_{0}}{\omega})(e^{i\omega t_{1}}-e^{i\omega t_{2}})-(a+\frac{c_{1}-c_{0}}{\omega})(e^{-i\omega t_{1}}-e^{-i\omega t_{2}})\right)\right]. \end{align}</code><br>
-The average value is<br>
-<code>\begin{align} &amp; \mathrm{Tr}_{n}\left[\rho_{n}e^{-(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}\left\langle 1\right|\tilde{V}_{I}(t_{1})\tilde{V}_{I}(t_{2})\left|1\right\rangle e^{(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}\right]/e^{i\frac{(c_{1}-c_{2})^{2}}{\omega^{2}}\sin\omega(t_{1}-t_{2})}\\ = &amp; \mathrm{Tr}_{n}\left\{ \rho_{n}\exp\left[\frac{c_{1}-c_{2}}{\omega}\left((a^{\dagger}+\frac{c_{1}-c_{0}}{\omega})(e^{i\omega t_{1}}-e^{i\omega t_{2}})-(a+\frac{c_{1}-c_{0}}{\omega})(e^{-i\omega t_{1}}-e^{-i\omega t_{2}})\right)\right]\right\} /e^{i\frac{(c_{1}-c_{2})^{2}}{\omega^{2}}\sin\omega(t_{1}-t_{2})}\\ = &amp; \mathrm{Tr}_{n}\left\{ \rho_{n}\exp\left[\frac{c_{1}-c_{2}}{\omega}\left(a^{\dagger}(e^{i\omega t_{1}}-e^{i\omega t_{2}})-a(e^{-i\omega t_{1}}-e^{-i\omega t_{2}})\right)+\frac{c_{1}-c_{2}}{\omega}\frac{c_{1}-c_{0}}{\omega}\left(2i\sin\omega t_{1}-2i\sin\omega t_{2}\right)\right]\right\} /e^{i\frac{(c_{1}-c_{2})^{2}}{\omega^{2}}\sin\omega(t_{1}-t_{2})}\\ = &amp; e^{\frac{-(c_{1}-c_{2})^{2}}{\omega^{2}}\left[\left(\coth(\beta\omega/2)\right)\left(1-\cos\omega(t_{1}-t_{2})\right)+i\sin\omega(t_{1}-t_{2})\right]}e^{2i\frac{(c_{1}-c_{2})(c_{1}-c_{0})}{\omega^{2}}(\sin\omega t_{1}-\sin\omega t_{2})} \end{align}</code><br>
+<code>\begin{align} &amp; e^{-(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}\exp\left[\frac{c_{1}-c_{2}}{\omega}\left(a^{\dagger}(e^{i\omega t_{1}}-e^{i\omega t_{2}})-a(e^{-i\omega t_{1}}-e^{-i\omega t_{2}})\right)\right]e^{(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}\\ = &amp; \exp\left[\frac{c_{1}-c_{2}}{\omega}\left((a^{\dagger}+\frac{c_{1}-c_{0}}{\omega})(e^{i\omega t_{1}}-e^{i\omega t_{2}})-(a+\frac{c_{1}-c_{0}}{\omega})(e^{-i\omega t_{1}}-e^{-i\omega t_{2}})\right)\right]. \end{align}</code></p>
+<p>The thermal average value is<br>
+<code>\begin{align} &amp; \mathrm{Tr}_{n}\left[\rho_{n}e^{-(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}\left\langle 1\right|\tilde{V}_{I}(t_{1})\tilde{V}_{I}(t_{2})\left|1\right\rangle e^{(a^{\dagger}-a)\frac{c_{1}-c_{0}}{\omega}}\right] \frac{1}{e^{i\frac{(c_{1}-c_{2})^{2}}{\omega^{2}}\sin\omega(t_{1}-t_{2})}}\\ = &amp; \mathrm{Tr}_{n}\left\{ \rho_{n}\exp\left[\frac{c_{1}-c_{2}}{\omega}\left((a^{\dagger}+\frac{c_{1}-c_{0}}{\omega})(e^{i\omega t_{1}}-e^{i\omega t_{2}})-(a+\frac{c_{1}-c_{0}}{\omega})(e^{-i\omega t_{1}}-e^{-i\omega t_{2}})\right)\right]\right\} e^{-i\frac{(c_{1}-c_{2})^{2}}{\omega^{2}}\sin\omega(t_{1}-t_{2})}\\ = &amp; \mathrm{Tr}_{n}\left\{ \rho_{n}\exp\left[\frac{c_{1}-c_{2}}{\omega}\left(a^{\dagger}(e^{i\omega t_{1}}-e^{i\omega t_{2}})-a(e^{-i\omega t_{1}}-e^{-i\omega t_{2}})\right)+\frac{c_{1}-c_{2}}{\omega}\frac{c_{1}-c_{0}}{\omega}2i\left(\sin\omega t_{1}-\sin\omega t_{2}\right)\right]\right\} e^{-i\frac{(c_{1}-c_{2})^{2}}{\omega^{2}}\sin\omega(t_{1}-t_{2})}\\ = &amp; \exp{\frac{-(c_{1}-c_{2})^{2}}{\omega^{2}}\left[\left(\coth(\beta\omega/2)\right)\left(1-\cos\omega(t_{1}-t_{2})\right)+i\sin\omega(t_{1}-t_{2})\right]}e^{2i\frac{(c_{1}-c_{2})(c_{1}-c_{0})}{\omega^{2}}(\sin\omega t_{1}-\sin\omega t_{2})} \end{align}</code><br>
 where we used <code>$\left\langle e^{\alpha_{1}\hat{a}+\beta_{1}\hat{a}^{\dagger}}e^{\alpha_{2}\hat{a}+\beta_{2}\hat{a}^{\dagger}}\right\rangle _{T}=e^{\left(\alpha_{1}+\alpha_{2}\right)\left(\beta_{1}+\beta_{2}\right)(n+1/2)+(1/2)\left(\alpha_{1}\beta_{2}-\beta_{1}\alpha_{2}\right)}$</code> and <code>$\langle\cdots\rangle_{T}$</code> is the thermal average over <code>$\rho_{n}=\frac{e^{-\beta\omega a^{\dagger}a}}{\mathcal{Z}}$</code> [see Nitzan&rsquo;s Chemical Dynamics Eq. (12.53)] <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
 <h1 id="references">References</h1>
 <div class="footnotes" role="doc-endnotes">
@@ -91,7 +91,24 @@ where we used <code>$\left\langle e^{\alpha_{1}\hat{a}+\beta_{1}\hat{a}^{\dagger
 
   <footer>
   <script defer src="//yihui.org/js/math-code.js"></script>
-<script defer src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script>
+    
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']], 
+        displayMath: [['$$', '$$'], ['\\[', '\\]']] 
+      },
+      svg: {
+        fontCache: 'global', 
+      },
+      output: {
+        font: 'mathjax-pagella'
+  }
+    };
+  </script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0-beta.4/tex-mml-chtml.js" ></script>
+
 
 <script defer src="//yihui.org/js/center-img.js"></script>
 
