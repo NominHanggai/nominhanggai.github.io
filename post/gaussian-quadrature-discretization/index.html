@@ -49,21 +49,21 @@
 
 <main>
 <p>A prototypical model for condensed-phase chemical reactions is the spin-boson model: a two-level spin coupled to a continuum of vibrations (bosons). The spin-boson Hamiltonian is<br>
-<code>\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger +  a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}}  x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]</code><br>
-Assuming <code>$\rho(x)=1$</code>, to discretize the continuum of bosons, we approximate the integral <code>$\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger +  a_{x})\mathrm{d}x$</code> by<br>
-<code>\[ \sum_{n=1}^N \left\{  h(x_n) (a_{x_n}^\dagger +  a_{x_n})W_n \right\} \]</code><br>
-where<br>
-<code>\[ W_n = \int_0^{x_\mathrm{max}} \frac{\prod_{m\neq n}(x-x_m)}{\prod_{m\neq n}(x_n-x_m)} \mathrm{d}x \]</code><br>
-The integrand of <code>$W_n$</code> is a Lagrange interpolating polynomial. <code>$W_n$</code> is the weight for the Gaussian quadrature. It has been shown<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> that the approximation (when <code>N&lt;\infty</code>) is the best if the nodes <code>$\{x_m\}$</code> are the roots of the N-th order Legendre polynomials over the integration interval <code>$[0,x_\mathrm{max}]$</code>.</p>
+<code>\[ H = \sigma_x + \sigma_z \otimes \int_0^{x_\mathrm{max}} h(x) \rho(x)(a_{x}^\dagger +  a_{x})\mathrm{d}x + \int_0^{x_\mathrm{max}}  x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x \]</code></p>
+<p>Assuming <code>$\rho(x)=1$</code>, to discretize the continuum of bosons, we approximate the integral <code>$\int_0^{x_\mathrm{max}} h(x) (a_{x}^\dagger +  a_{x})\mathrm{d}x$</code> by<br>
+<code>\[ \sum_{n=1}^N \left\{  h(x_n) (a_{x_n}^\dagger +  a_{x_n})W_n \right\}. \]</code></p>
+<p>where<br>
+<code>\[ W_n = \int_0^{x_\mathrm{max}} \frac{\prod_{m\neq n}(x-x_m)}{\prod_{m\neq n}(x_n-x_m)} \mathrm{d}x. \]</code></p>
+<p>The integrand of <code>$W_n$</code> is a Lagrange interpolating polynomial. <code>$W_n$</code> is the weight for the Gaussian quadrature. It has been shown<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> that the approximation (when <code>N&lt;\infty</code>) is the best if the nodes <code>$\{x_m\}$</code> are the roots of the N-th order Legendre polynomials over the integration interval <code>$[0,x_\mathrm{max}]$</code>.</p>
 <p>Similarly, the integral <code>$\int_0^{x_\mathrm{max}}  x\rho(x) a_{x}^\dagger a_{x} \mathrm{d}x$</code> can be approximated by<br>
-<code>\[ \sum_{n=1}^N \left\{  x_n (a_{x_n}^\dagger a_{x_n})W_n \right\}. \]</code><br>
-To obtain the nodes, which are the roots of the N-th order Legendre polynomials, and the weights associated with the roots, it is helpful to use the recurrence relation of the Legendre polynomials. The recurrence relation for the monic Legendre polynomials over the interval <code>$[-1,1]$</code> is<br>
-<code>\[ p_{n+1}(x) = x p_{n}(x) - \frac{n^2}{4n^2 -1} p_{n-1}(x) \]</code><br>
-Replacing the variable <code>$x$</code> with <code>$x=\frac{2(y-a)}{b-a} -1$</code>, and defining <code>$\tilde{p}_n(y)=p_n\left(\frac{2(y-a)}{b-a} -1\right)$</code>, the following recurrence is valid over the interval <code>$[a,b]$</code>.<br>
+<code>\[ \sum_{n=1}^N \left\{  x_n (a_{x_n}^\dagger a_{x_n})W_n \right\}. \]</code></p>
+<p>To obtain the nodes, which are the roots of the N-th order Legendre polynomials, and the weights associated with the roots, it is helpful to use the recurrence relation of the Legendre polynomials. The recurrence relation for the monic Legendre polynomials over the interval <code>$[-1,1]$</code> is<br>
+<code>\[ p_{n+1}(x) = x p_{n}(x) - \frac{n^2}{4n^2 -1} p_{n-1}(x) \]</code></p>
+<p>Replacing the variable <code>$x$</code> with <code>$x=\frac{2(y-a)}{b-a} -1$</code>, and defining <code>$\tilde{p}_n(y)=p_n\left(\frac{2(y-a)}{b-a} -1\right)$</code>, the following recurrence is valid over the interval <code>$[a,b]$</code>.<br>
 <code>\[ \tilde{p}_{n+1}(y) = \left[\frac{2(y-a)}{b-a} -1 \right] \tilde{p}_{n}(y) - \frac{n^2}{4n^2 -1} \tilde{p}_{n-1}(y) \]</code></p>
 <p>The polynomial <code>$\tilde{p}_{n}(y)$</code> is not monic. To make it monic, we divide it by <code>$(b-a)^n/2^n$</code> and obtain a new monic polynomial on the interval <code>$[a,b]$</code>:<br>
-<code>\[ p_{n}(y) = \left[ y- \frac{a+b}{2}\right]p_n(y) - \left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1} p_{n-1}(y) \]</code><br>
-<code>$p_n(y)$</code> is, in fact, the product <code>$\prod_{k=1}^n(y-y_k)$</code> where <code>$y_k$</code> is the root of <code>$p_n(y)$</code>.</p>
+<code>\[ p_{n}(y) = \left[ y- \frac{a+b}{2}\right]p_n(y) - \left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1} p_{n-1}(y) \]</code></p>
+<p><code>$p_n(y)$</code> is, in fact, the product <code>$\prod_{k=1}^n(y-y_k)$</code> where <code>$y_k$</code> is the root of <code>$p_n(y)$</code>.</p>
 <p>Diagonalizing the tridiagonal matrix formed by the recurrence coefficients <code>$a_n=\frac{a+b}{2}$</code> and <code>$b_n=\left(\frac{b-a}{2}\right)^2 \frac{n^2}{4n^2 -1}$</code> produces the nodes and the weights. The matrix is<br>
 <code>\[ \left[\begin{array}{ccccc} a_{0} &amp; \sqrt{b_{1}} &amp; &amp; &amp; \\ \sqrt{b_{1}} &amp; a_{1} &amp; \sqrt{b_{2}} &amp; &amp; \\ &amp; \vdots &amp; \vdots &amp; &amp; \\ &amp; &amp; \sqrt{b_{N-2}} &amp; a_{N-2} &amp; \sqrt{b_{N-1}} \\ &amp; &amp; &amp; \sqrt{b_{N-1}} &amp; a_{N-1} \end{array}\right] \]</code></p>
 <p>The roots are the eigenvalues of this matrix. Supposing the eigenvectors are <code>$\mathbf{v}_n$</code>, the weights <code>$W_n$</code> are <code>$(b-a)v_{n,1}^2$</code>.</p>
